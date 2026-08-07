@@ -1,0 +1,4946 @@
+[
+  {
+    "RouteUID": "TNN1302",
+    "RouteID": "1302",
+    "RouteName": {
+      "Zh_tw": "棕2",
+      "En": "BR2"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10190",
+        "OperatorName": {
+          "Zh_tw": "新營客運",
+          "En": "Sinying Bus Co., Ltd."
+        },
+        "OperatorCode": "SinyingBus",
+        "OperatorNo": "1306"
+      }
+    ],
+    "SubRouteUID": "TNN130201",
+    "SubRouteID": "130201",
+    "SubRouteName": {
+      "Zh_tw": "棕2 新營→鹽水→下中",
+      "En": "BR2 Sinying Bus Station→Siajhong"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN6652",
+        "StopID": "6652",
+        "StopName": {
+          "Zh_tw": "新營站",
+          "En": "Sinying Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.32231,
+          "PositionLat": 23.30743,
+          "GeoHash": "wsjsd4bp9"
+        },
+        "StationID": "4119",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17514",
+        "StopID": "17514",
+        "StopName": {
+          "Zh_tw": "中營興業里",
+          "En": "Jhongying Singye Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.31872,
+          "PositionLat": 23.30531,
+          "GeoHash": "wsjs9ft7m"
+        },
+        "StationID": "7924",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6653",
+        "StopID": "6653",
+        "StopName": {
+          "Zh_tw": "圓環(第一、京城銀行)",
+          "En": "Traffic Circle(First Bank ＆ King's Town Bank)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.31653,
+          "PositionLat": 23.30499,
+          "GeoHash": "wsjs9fec6"
+        },
+        "StationID": "7400",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6654",
+        "StopID": "6654",
+        "StopName": {
+          "Zh_tw": "新營醫院(三民路)",
+          "En": "Sinying Hospital(Sanmin Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.31361,
+          "PositionLat": 23.30703,
+          "GeoHash": "wsjs9fctq"
+        },
+        "StationID": "3427",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6655",
+        "StopID": "6655",
+        "StopName": {
+          "Zh_tw": "民治市政中心",
+          "En": "Minjhih Civic Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.31437,
+          "PositionLat": 23.31062,
+          "GeoHash": "wsjs9gd60"
+        },
+        "StationID": "7100",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6656",
+        "StopID": "6656",
+        "StopName": {
+          "Zh_tw": "新營高工",
+          "En": "Sinying Industrial Vocational High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.31664,
+          "PositionLat": 23.31413,
+          "GeoHash": "wsjs9u5ys"
+        },
+        "StationID": "7428",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6657",
+        "StopID": "6657",
+        "StopName": {
+          "Zh_tw": "中正世家",
+          "En": "Jhongjhengshihjia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.31651,
+          "PositionLat": 23.31691,
+          "GeoHash": "wsjs9ueyc"
+        },
+        "StationID": "7429",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6658",
+        "StopID": "6658",
+        "StopName": {
+          "Zh_tw": "電力公司",
+          "En": "Taiwan Power Company"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.31635,
+          "PositionLat": 23.31908,
+          "GeoHash": "wsjs9v5eq"
+        },
+        "StationID": "7430",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6659",
+        "StopID": "6659",
+        "StopName": {
+          "Zh_tw": "新營體育場",
+          "En": "Sinying Stadium"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.31267,
+          "PositionLat": 23.31914,
+          "GeoHash": "wsjs9v15b"
+        },
+        "StationID": "7334",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20343",
+        "StopID": "20343",
+        "StopName": {
+          "Zh_tw": "育德工家",
+          "En": "Y.T.V.S"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.31104,
+          "PositionLat": 23.31756,
+          "GeoHash": "wsjs9szfd"
+        },
+        "StationID": "1769",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15684",
+        "StopID": "15684",
+        "StopName": {
+          "Zh_tw": "新北里",
+          "En": "Sinbei Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.30519,
+          "PositionLat": 23.31256,
+          "GeoHash": "wsjs9egtd"
+        },
+        "StationID": "8373",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6660",
+        "StopID": "6660",
+        "StopName": {
+          "Zh_tw": "營新醫院",
+          "En": "Ever New Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.30049,
+          "PositionLat": 23.30842,
+          "GeoHash": "wsjs9e0jk"
+        },
+        "StationID": "7335",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6661",
+        "StopID": "6661",
+        "StopName": {
+          "Zh_tw": "高公局新營工務段",
+          "En": "Freeway Bureau Sinying Public Works Section"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.29509,
+          "PositionLat": 23.30623,
+          "GeoHash": "wsjs96u0w"
+        },
+        "StationID": "7065",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6662",
+        "StopID": "6662",
+        "StopName": {
+          "Zh_tw": "茄苳腳",
+          "En": "Ciedongjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.28412,
+          "PositionLat": 23.30954,
+          "GeoHash": "wsjs95k5z"
+        },
+        "StationID": "7066",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23356",
+        "StopID": "23356",
+        "StopName": {
+          "Zh_tw": "新營轉運站",
+          "En": "Sinying Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.28317,
+          "PositionLat": 23.31081,
+          "GeoHash": "wsjs95ee3"
+        },
+        "StationID": "2102",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6663",
+        "StopID": "6663",
+        "StopName": {
+          "Zh_tw": "新營工業區",
+          "En": "Sinying Industrial Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.27935,
+          "PositionLat": 23.31021,
+          "GeoHash": "wsjs952xz"
+        },
+        "StationID": "7067",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6664",
+        "StopID": "6664",
+        "StopName": {
+          "Zh_tw": "明達中學",
+          "En": "Mingda Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.27491,
+          "PositionLat": 23.31085,
+          "GeoHash": "wsjs8gte8"
+        },
+        "StationID": "7068",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6665",
+        "StopID": "6665",
+        "StopName": {
+          "Zh_tw": "竹圍尾",
+          "En": "Jhuweiwei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.27005,
+          "PositionLat": 23.31228,
+          "GeoHash": "wsjs8gcgz"
+        },
+        "StationID": "7069",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6666",
+        "StopID": "6666",
+        "StopName": {
+          "Zh_tw": "橋南里",
+          "En": "Ciaonan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.26732,
+          "PositionLat": 23.31566,
+          "GeoHash": "wsjs8srzx"
+        },
+        "StationID": "7070",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17616",
+        "StopID": "17616",
+        "StopName": {
+          "Zh_tw": "護庇宮",
+          "En": "Hubi Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.26752,
+          "PositionLat": 23.31831,
+          "GeoHash": "wsjs8ubph"
+        },
+        "StationID": "1758",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6667",
+        "StopID": "6667",
+        "StopName": {
+          "Zh_tw": "鹽水",
+          "En": "Yanshuei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.26785,
+          "PositionLat": 23.32032,
+          "GeoHash": "wsjs8v26s"
+        },
+        "StationID": "7071",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16302",
+        "StopID": "16302",
+        "StopName": {
+          "Zh_tw": "南榮科大",
+          "En": "Nan Jeon University of Science and Technology"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.27475,
+          "PositionLat": 23.32491,
+          "GeoHash": "wsjs8yjmk"
+        },
+        "StationID": "1062",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17448",
+        "StopID": "17448",
+        "StopName": {
+          "Zh_tw": "蔦松腳",
+          "En": "Niaosongjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.27221,
+          "PositionLat": 23.33472,
+          "GeoHash": "wsjs8zgw9"
+        },
+        "StationID": "1718",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16476",
+        "StopID": "16476",
+        "StopName": {
+          "Zh_tw": "汫水國小",
+          "En": "Jingshui Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.27307,
+          "PositionLat": 23.34656,
+          "GeoHash": "wsjsbfh5t"
+        },
+        "StationID": "8913",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6668",
+        "StopID": "6668",
+        "StopName": {
+          "Zh_tw": "鹽水國小",
+          "En": "Yanshuei Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.27051,
+          "PositionLat": 23.32375,
+          "GeoHash": "wsjs8vfqd"
+        },
+        "StationID": "7336",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6669",
+        "StopID": "6669",
+        "StopName": {
+          "Zh_tw": "鹽水武廟",
+          "En": "Yanshuei War God Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.26531,
+          "PositionLat": 23.32361,
+          "GeoHash": "wsjs8tytb"
+        },
+        "StationID": "7337",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6670",
+        "StopID": "6670",
+        "StopName": {
+          "Zh_tw": "岸內",
+          "En": "Annei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.26092,
+          "PositionLat": 23.32471,
+          "GeoHash": "wsjs8w5k6"
+        },
+        "StationID": "7338",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6671",
+        "StopID": "6671",
+        "StopName": {
+          "Zh_tw": "義中里",
+          "En": "Yijhong Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.25813,
+          "PositionLat": 23.32521,
+          "GeoHash": "wsjs8w1r1"
+        },
+        "StationID": "7339",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6672",
+        "StopID": "6672",
+        "StopName": {
+          "Zh_tw": "牛稠仔",
+          "En": "Niouchouzai"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.25503,
+          "PositionLat": 23.32573,
+          "GeoHash": "wsjs8qr41"
+        },
+        "StationID": "7340",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6673",
+        "StopID": "6673",
+        "StopName": {
+          "Zh_tw": "二莊",
+          "En": "Erjhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLon": 120.25069,
+          "PositionLat": 23.32347,
+          "GeoHash": "wsjs8mgvh"
+        },
+        "StationID": "7341",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6674",
+        "StopID": "6674",
+        "StopName": {
+          "Zh_tw": "樹仔腳",
+          "En": "Shuzihjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLon": 120.24431,
+          "PositionLat": 23.32056,
+          "GeoHash": "wsjs8jrhp"
+        },
+        "StationID": "7342",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6675",
+        "StopID": "6675",
+        "StopName": {
+          "Zh_tw": "下中",
+          "En": "Siajhong"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLon": 120.24142,
+          "PositionLat": 23.32008,
+          "GeoHash": "wsjs8jm1k"
+        },
+        "StationID": "7343",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24340",
+        "StopID": "24340",
+        "StopName": {
+          "Zh_tw": "下中福王宮",
+          "En": "Siajhong Fuwang Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLon": 120.23916,
+          "PositionLat": 23.31806,
+          "GeoHash": "wsjs8hgmx"
+        },
+        "StationID": "2326",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-07T20:04:26+08:00",
+    "VersionID": 10648
+  },
+  {
+    "RouteUID": "TNN1302",
+    "RouteID": "1302",
+    "RouteName": {
+      "Zh_tw": "棕2",
+      "En": "BR2"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10190",
+        "OperatorName": {
+          "Zh_tw": "新營客運",
+          "En": "Sinying Bus Co., Ltd."
+        },
+        "OperatorCode": "SinyingBus",
+        "OperatorNo": "1306"
+      }
+    ],
+    "SubRouteUID": "TNN130202",
+    "SubRouteID": "130202",
+    "SubRouteName": {
+      "Zh_tw": "棕2 下中→鹽水→新營",
+      "En": "BR2 Siajhong→Sinying Bus Station"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN24341",
+        "StopID": "24341",
+        "StopName": {
+          "Zh_tw": "下中福王宮",
+          "En": "Siajhong Fuwang Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.23916,
+          "PositionLat": 23.31806,
+          "GeoHash": "wsjs8hgmx"
+        },
+        "StationID": "2326",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6676",
+        "StopID": "6676",
+        "StopName": {
+          "Zh_tw": "下中",
+          "En": "Siajhong"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.24063,
+          "PositionLat": 23.31963,
+          "GeoHash": "wsjs8jhw9"
+        },
+        "StationID": "7344",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6677",
+        "StopID": "6677",
+        "StopName": {
+          "Zh_tw": "樹仔腳",
+          "En": "Shuzihjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.24423,
+          "PositionLat": 23.32051,
+          "GeoHash": "wsjs8jr5v"
+        },
+        "StationID": "7345",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6678",
+        "StopID": "6678",
+        "StopName": {
+          "Zh_tw": "二莊",
+          "En": "Erjhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.25092,
+          "PositionLat": 23.32351,
+          "GeoHash": "wsjs8muj3"
+        },
+        "StationID": "7346",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6679",
+        "StopID": "6679",
+        "StopName": {
+          "Zh_tw": "牛稠仔",
+          "En": "Niouchouzai"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.25507,
+          "PositionLat": 23.32565,
+          "GeoHash": "wsjs8qr1f"
+        },
+        "StationID": "7347",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6680",
+        "StopID": "6680",
+        "StopName": {
+          "Zh_tw": "義中里",
+          "En": "Yijhong Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.25782,
+          "PositionLat": 23.32521,
+          "GeoHash": "wsjs8w1p4"
+        },
+        "StationID": "7348",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6681",
+        "StopID": "6681",
+        "StopName": {
+          "Zh_tw": "岸內",
+          "En": "Annei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.26093,
+          "PositionLat": 23.32458,
+          "GeoHash": "wsjs8w57d"
+        },
+        "StationID": "7349",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6682",
+        "StopID": "6682",
+        "StopName": {
+          "Zh_tw": "鹽水武廟",
+          "En": "Yanshuei War God Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.26549,
+          "PositionLat": 23.32344,
+          "GeoHash": "wsjs8tysv"
+        },
+        "StationID": "7350",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6683",
+        "StopID": "6683",
+        "StopName": {
+          "Zh_tw": "鹽水國小",
+          "En": "Yanshuei Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.27056,
+          "PositionLat": 23.32366,
+          "GeoHash": "wsjs8vfq5"
+        },
+        "StationID": "7351",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16481",
+        "StopID": "16481",
+        "StopName": {
+          "Zh_tw": "汫水國小",
+          "En": "Jingshui Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.27307,
+          "PositionLat": 23.34656,
+          "GeoHash": "wsjsbfh5t"
+        },
+        "StationID": "8913",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17449",
+        "StopID": "17449",
+        "StopName": {
+          "Zh_tw": "蔦松腳",
+          "En": "Niaosongjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.27212,
+          "PositionLat": 23.33468,
+          "GeoHash": "wsjs8zgqr"
+        },
+        "StationID": "1719",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16303",
+        "StopID": "16303",
+        "StopName": {
+          "Zh_tw": "南榮科大",
+          "En": "Nan Jeon University of Science and Technology"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.27435,
+          "PositionLat": 23.32474,
+          "GeoHash": "wsjs8yjh7"
+        },
+        "StationID": "1063",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6684",
+        "StopID": "6684",
+        "StopName": {
+          "Zh_tw": "鹽水",
+          "En": "Yanshuei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.26771,
+          "PositionLat": 23.32035,
+          "GeoHash": "wsjs8v26b"
+        },
+        "StationID": "7134",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17617",
+        "StopID": "17617",
+        "StopName": {
+          "Zh_tw": "護庇宮",
+          "En": "Hubi Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.26741,
+          "PositionLat": 23.31816,
+          "GeoHash": "wsjs8ubn1"
+        },
+        "StationID": "1759",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6685",
+        "StopID": "6685",
+        "StopName": {
+          "Zh_tw": "橋南里",
+          "En": "Ciaonan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.26726,
+          "PositionLat": 23.31571,
+          "GeoHash": "wsjs8srzy"
+        },
+        "StationID": "7135",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6686",
+        "StopID": "6686",
+        "StopName": {
+          "Zh_tw": "竹圍尾",
+          "En": "Jhuweiwei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.26998,
+          "PositionLat": 23.31231,
+          "GeoHash": "wsjs8gcuj"
+        },
+        "StationID": "7136",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6687",
+        "StopID": "6687",
+        "StopName": {
+          "Zh_tw": "明達中學",
+          "En": "Mingda Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.27483,
+          "PositionLat": 23.31067,
+          "GeoHash": "wsjs8gt6q"
+        },
+        "StationID": "7137",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6688",
+        "StopID": "6688",
+        "StopName": {
+          "Zh_tw": "新營工業區",
+          "En": "Sinying Industrial Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.28052,
+          "PositionLat": 23.30991,
+          "GeoHash": "wsjs953w5"
+        },
+        "StationID": "7138",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23357",
+        "StopID": "23357",
+        "StopName": {
+          "Zh_tw": "新營轉運站",
+          "En": "Sinying Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.28317,
+          "PositionLat": 23.31081,
+          "GeoHash": "wsjs95ee3"
+        },
+        "StationID": "2102",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6689",
+        "StopID": "6689",
+        "StopName": {
+          "Zh_tw": "茄苳腳",
+          "En": "Ciedongjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.28413,
+          "PositionLat": 23.30935,
+          "GeoHash": "wsjs95k4z"
+        },
+        "StationID": "7139",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6690",
+        "StopID": "6690",
+        "StopName": {
+          "Zh_tw": "高公局新營工務段",
+          "En": "Freeway Bureau Sinying Public Works Section"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.29488,
+          "PositionLat": 23.30606,
+          "GeoHash": "wsjs96sp9"
+        },
+        "StationID": "7140",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6691",
+        "StopID": "6691",
+        "StopName": {
+          "Zh_tw": "營新醫院",
+          "En": "Ever New Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.30077,
+          "PositionLat": 23.30829,
+          "GeoHash": "wsjs9e0ke"
+        },
+        "StationID": "7352",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15685",
+        "StopID": "15685",
+        "StopName": {
+          "Zh_tw": "新北里",
+          "En": "Sinbei Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.30638,
+          "PositionLat": 23.31304,
+          "GeoHash": "wsjs9sh2m"
+        },
+        "StationID": "8380",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20344",
+        "StopID": "20344",
+        "StopName": {
+          "Zh_tw": "育德工家",
+          "En": "Y.T.V.S"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.31132,
+          "PositionLat": 23.31727,
+          "GeoHash": "wsjs9ub0b"
+        },
+        "StationID": "1770",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6692",
+        "StopID": "6692",
+        "StopName": {
+          "Zh_tw": "新營體育場",
+          "En": "Sinying Stadium"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.31321,
+          "PositionLat": 23.31917,
+          "GeoHash": "wsjs9v1kh"
+        },
+        "StationID": "7353",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6693",
+        "StopID": "6693",
+        "StopName": {
+          "Zh_tw": "電力公司",
+          "En": "Taiwan Power Company"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.31621,
+          "PositionLat": 23.31908,
+          "GeoHash": "wsjs9v5e6"
+        },
+        "StationID": "7449",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6694",
+        "StopID": "6694",
+        "StopName": {
+          "Zh_tw": "中正世家",
+          "En": "Jhongjhengshihjia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.31635,
+          "PositionLat": 23.31691,
+          "GeoHash": "wsjs9uewy"
+        },
+        "StationID": "7450",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6695",
+        "StopID": "6695",
+        "StopName": {
+          "Zh_tw": "新營高工",
+          "En": "Sinying Industrial Vocational High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.31661,
+          "PositionLat": 23.31381,
+          "GeoHash": "wsjs9u5uu"
+        },
+        "StationID": "7451",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6696",
+        "StopID": "6696",
+        "StopName": {
+          "Zh_tw": "民治市政中心",
+          "En": "Minjhih Civic Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.31439,
+          "PositionLat": 23.31084,
+          "GeoHash": "wsjs9gd72"
+        },
+        "StationID": "7075",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6697",
+        "StopID": "6697",
+        "StopName": {
+          "Zh_tw": "新營醫院(三民路)",
+          "En": "Sinying Hospital(Sanmin Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLon": 120.31378,
+          "PositionLat": 23.30701,
+          "GeoHash": "wsjs9fcv4"
+        },
+        "StationID": "3454",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6698",
+        "StopID": "6698",
+        "StopName": {
+          "Zh_tw": "圓環(第一、京城銀行)",
+          "En": "Traffic Circle(First Bank、King's Town Bank)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLon": 120.31648,
+          "PositionLat": 23.30489,
+          "GeoHash": "wsjs9febc"
+        },
+        "StationID": "7426",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17515",
+        "StopID": "17515",
+        "StopName": {
+          "Zh_tw": "中營興業里",
+          "En": "Jhongying Singye Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLon": 120.31899,
+          "PositionLat": 23.30528,
+          "GeoHash": "wsjs9fte5"
+        },
+        "StationID": "7925",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6699",
+        "StopID": "6699",
+        "StopName": {
+          "Zh_tw": "新營站",
+          "En": "Sinying Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLon": 120.32231,
+          "PositionLat": 23.30743,
+          "GeoHash": "wsjsd4bp9"
+        },
+        "StationID": "4119",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-07T20:04:26+08:00",
+    "VersionID": 10648
+  },
+  {
+    "RouteUID": "TNN1302",
+    "RouteID": "1302",
+    "RouteName": {
+      "Zh_tw": "棕2",
+      "En": "BR2"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10190",
+        "OperatorName": {
+          "Zh_tw": "新營客運",
+          "En": "Sinying Bus Co., Ltd."
+        },
+        "OperatorCode": "SinyingBus",
+        "OperatorNo": "1306"
+      }
+    ],
+    "SubRouteUID": "TNN130211",
+    "SubRouteID": "130211",
+    "SubRouteName": {
+      "Zh_tw": "棕2 新營→鹽水→下中(繞鹽水上帝廟)",
+      "En": "BR2 Sinying Bus Station→Siajhong[Via Yanshuei Jade Emperor Temple]"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN6652",
+        "StopID": "6652",
+        "StopName": {
+          "Zh_tw": "新營站",
+          "En": "Sinying Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.32231,
+          "PositionLat": 23.30743,
+          "GeoHash": "wsjsd4bp9"
+        },
+        "StationID": "4119",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17514",
+        "StopID": "17514",
+        "StopName": {
+          "Zh_tw": "中營興業里",
+          "En": "Jhongying Singye Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.31872,
+          "PositionLat": 23.30531,
+          "GeoHash": "wsjs9ft7m"
+        },
+        "StationID": "7924",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6653",
+        "StopID": "6653",
+        "StopName": {
+          "Zh_tw": "圓環(第一、京城銀行)",
+          "En": "Traffic Circle(First Bank ＆ King's Town Bank)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.31653,
+          "PositionLat": 23.30499,
+          "GeoHash": "wsjs9fec6"
+        },
+        "StationID": "7400",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6654",
+        "StopID": "6654",
+        "StopName": {
+          "Zh_tw": "新營醫院(三民路)",
+          "En": "Sinying Hospital(Sanmin Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.31361,
+          "PositionLat": 23.30703,
+          "GeoHash": "wsjs9fctq"
+        },
+        "StationID": "3427",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6655",
+        "StopID": "6655",
+        "StopName": {
+          "Zh_tw": "民治市政中心",
+          "En": "Minjhih Civic Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.31437,
+          "PositionLat": 23.31062,
+          "GeoHash": "wsjs9gd60"
+        },
+        "StationID": "7100",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6656",
+        "StopID": "6656",
+        "StopName": {
+          "Zh_tw": "新營高工",
+          "En": "Sinying Industrial Vocational High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.31664,
+          "PositionLat": 23.31413,
+          "GeoHash": "wsjs9u5ys"
+        },
+        "StationID": "7428",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6657",
+        "StopID": "6657",
+        "StopName": {
+          "Zh_tw": "中正世家",
+          "En": "Jhongjhengshihjia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.31651,
+          "PositionLat": 23.31691,
+          "GeoHash": "wsjs9ueyc"
+        },
+        "StationID": "7429",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6658",
+        "StopID": "6658",
+        "StopName": {
+          "Zh_tw": "電力公司",
+          "En": "Taiwan Power Company"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.31635,
+          "PositionLat": 23.31908,
+          "GeoHash": "wsjs9v5eq"
+        },
+        "StationID": "7430",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6659",
+        "StopID": "6659",
+        "StopName": {
+          "Zh_tw": "新營體育場",
+          "En": "Sinying Stadium"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.31267,
+          "PositionLat": 23.31914,
+          "GeoHash": "wsjs9v15b"
+        },
+        "StationID": "7334",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20343",
+        "StopID": "20343",
+        "StopName": {
+          "Zh_tw": "育德工家",
+          "En": "Y.T.V.S"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.31104,
+          "PositionLat": 23.31756,
+          "GeoHash": "wsjs9szfd"
+        },
+        "StationID": "1769",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15684",
+        "StopID": "15684",
+        "StopName": {
+          "Zh_tw": "新北里",
+          "En": "Sinbei Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.30519,
+          "PositionLat": 23.31256,
+          "GeoHash": "wsjs9egtd"
+        },
+        "StationID": "8373",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6660",
+        "StopID": "6660",
+        "StopName": {
+          "Zh_tw": "營新醫院",
+          "En": "Ever New Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.30049,
+          "PositionLat": 23.30842,
+          "GeoHash": "wsjs9e0jk"
+        },
+        "StationID": "7335",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6661",
+        "StopID": "6661",
+        "StopName": {
+          "Zh_tw": "高公局新營工務段",
+          "En": "Freeway Bureau Sinying Public Works Section"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.29509,
+          "PositionLat": 23.30623,
+          "GeoHash": "wsjs96u0w"
+        },
+        "StationID": "7065",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6662",
+        "StopID": "6662",
+        "StopName": {
+          "Zh_tw": "茄苳腳",
+          "En": "Ciedongjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.28412,
+          "PositionLat": 23.30954,
+          "GeoHash": "wsjs95k5z"
+        },
+        "StationID": "7066",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23356",
+        "StopID": "23356",
+        "StopName": {
+          "Zh_tw": "新營轉運站",
+          "En": "Sinying Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.28317,
+          "PositionLat": 23.31081,
+          "GeoHash": "wsjs95ee3"
+        },
+        "StationID": "2102",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6663",
+        "StopID": "6663",
+        "StopName": {
+          "Zh_tw": "新營工業區",
+          "En": "Sinying Industrial Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.27935,
+          "PositionLat": 23.31021,
+          "GeoHash": "wsjs952xz"
+        },
+        "StationID": "7067",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6664",
+        "StopID": "6664",
+        "StopName": {
+          "Zh_tw": "明達中學",
+          "En": "Mingda Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.27491,
+          "PositionLat": 23.31085,
+          "GeoHash": "wsjs8gte8"
+        },
+        "StationID": "7068",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6665",
+        "StopID": "6665",
+        "StopName": {
+          "Zh_tw": "竹圍尾",
+          "En": "Jhuweiwei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.27005,
+          "PositionLat": 23.31228,
+          "GeoHash": "wsjs8gcgz"
+        },
+        "StationID": "7069",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6666",
+        "StopID": "6666",
+        "StopName": {
+          "Zh_tw": "橋南里",
+          "En": "Ciaonan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.26732,
+          "PositionLat": 23.31566,
+          "GeoHash": "wsjs8srzx"
+        },
+        "StationID": "7070",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17616",
+        "StopID": "17616",
+        "StopName": {
+          "Zh_tw": "護庇宮",
+          "En": "Hubi Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.26752,
+          "PositionLat": 23.31831,
+          "GeoHash": "wsjs8ubph"
+        },
+        "StationID": "1758",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6667",
+        "StopID": "6667",
+        "StopName": {
+          "Zh_tw": "鹽水",
+          "En": "Yanshuei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.26785,
+          "PositionLat": 23.32032,
+          "GeoHash": "wsjs8v26s"
+        },
+        "StationID": "7071",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16302",
+        "StopID": "16302",
+        "StopName": {
+          "Zh_tw": "南榮科大",
+          "En": "Nan Jeon University of Science and Technology"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.27475,
+          "PositionLat": 23.32491,
+          "GeoHash": "wsjs8yjmk"
+        },
+        "StationID": "1062",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16941",
+        "StopID": "16941",
+        "StopName": {
+          "Zh_tw": "鹽水上帝廟",
+          "En": "Yanshuei Jade Emperor Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.27771,
+          "PositionLat": 23.32347,
+          "GeoHash": "wsjs8vzt1"
+        },
+        "StationID": "1292",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17448",
+        "StopID": "17448",
+        "StopName": {
+          "Zh_tw": "蔦松腳",
+          "En": "Niaosongjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.27221,
+          "PositionLat": 23.33472,
+          "GeoHash": "wsjs8zgw9"
+        },
+        "StationID": "1718",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16476",
+        "StopID": "16476",
+        "StopName": {
+          "Zh_tw": "汫水國小",
+          "En": "Jingshui Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.27307,
+          "PositionLat": 23.34656,
+          "GeoHash": "wsjsbfh5t"
+        },
+        "StationID": "8913",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6668",
+        "StopID": "6668",
+        "StopName": {
+          "Zh_tw": "鹽水國小",
+          "En": "Yanshuei Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.27051,
+          "PositionLat": 23.32375,
+          "GeoHash": "wsjs8vfqd"
+        },
+        "StationID": "7336",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6669",
+        "StopID": "6669",
+        "StopName": {
+          "Zh_tw": "鹽水武廟",
+          "En": "Yanshuei War God Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.26531,
+          "PositionLat": 23.32361,
+          "GeoHash": "wsjs8tytb"
+        },
+        "StationID": "7337",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6670",
+        "StopID": "6670",
+        "StopName": {
+          "Zh_tw": "岸內",
+          "En": "Annei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.26092,
+          "PositionLat": 23.32471,
+          "GeoHash": "wsjs8w5k6"
+        },
+        "StationID": "7338",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6671",
+        "StopID": "6671",
+        "StopName": {
+          "Zh_tw": "義中里",
+          "En": "Yijhong Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.25813,
+          "PositionLat": 23.32521,
+          "GeoHash": "wsjs8w1r1"
+        },
+        "StationID": "7339",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6672",
+        "StopID": "6672",
+        "StopName": {
+          "Zh_tw": "牛稠仔",
+          "En": "Niouchouzai"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLon": 120.25503,
+          "PositionLat": 23.32573,
+          "GeoHash": "wsjs8qr41"
+        },
+        "StationID": "7340",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6673",
+        "StopID": "6673",
+        "StopName": {
+          "Zh_tw": "二莊",
+          "En": "Erjhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLon": 120.25069,
+          "PositionLat": 23.32347,
+          "GeoHash": "wsjs8mgvh"
+        },
+        "StationID": "7341",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6674",
+        "StopID": "6674",
+        "StopName": {
+          "Zh_tw": "樹仔腳",
+          "En": "Shuzihjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLon": 120.24431,
+          "PositionLat": 23.32056,
+          "GeoHash": "wsjs8jrhp"
+        },
+        "StationID": "7342",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6675",
+        "StopID": "6675",
+        "StopName": {
+          "Zh_tw": "下中",
+          "En": "Siajhong"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLon": 120.24142,
+          "PositionLat": 23.32008,
+          "GeoHash": "wsjs8jm1k"
+        },
+        "StationID": "7343",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24340",
+        "StopID": "24340",
+        "StopName": {
+          "Zh_tw": "下中福王宮",
+          "En": "Siajhong Fuwang Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 34,
+        "StopPosition": {
+          "PositionLon": 120.23916,
+          "PositionLat": 23.31806,
+          "GeoHash": "wsjs8hgmx"
+        },
+        "StationID": "2326",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-07T20:04:26+08:00",
+    "VersionID": 10648
+  },
+  {
+    "RouteUID": "TNN1302",
+    "RouteID": "1302",
+    "RouteName": {
+      "Zh_tw": "棕2",
+      "En": "BR2"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10190",
+        "OperatorName": {
+          "Zh_tw": "新營客運",
+          "En": "Sinying Bus Co., Ltd."
+        },
+        "OperatorCode": "SinyingBus",
+        "OperatorNo": "1306"
+      }
+    ],
+    "SubRouteUID": "TNN130212",
+    "SubRouteID": "130212",
+    "SubRouteName": {
+      "Zh_tw": "棕2 下中→鹽水→新營(繞鹽水上帝廟)",
+      "En": "BR2 Siajhong→Sinying Bus Station[Via Yanshuei Jade Emperor Temple]"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN24341",
+        "StopID": "24341",
+        "StopName": {
+          "Zh_tw": "下中福王宮",
+          "En": "Siajhong Fuwang Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.23916,
+          "PositionLat": 23.31806,
+          "GeoHash": "wsjs8hgmx"
+        },
+        "StationID": "2326",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6676",
+        "StopID": "6676",
+        "StopName": {
+          "Zh_tw": "下中",
+          "En": "Siajhong"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.24063,
+          "PositionLat": 23.31963,
+          "GeoHash": "wsjs8jhw9"
+        },
+        "StationID": "7344",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6677",
+        "StopID": "6677",
+        "StopName": {
+          "Zh_tw": "樹仔腳",
+          "En": "Shuzihjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.24423,
+          "PositionLat": 23.32051,
+          "GeoHash": "wsjs8jr5v"
+        },
+        "StationID": "7345",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6678",
+        "StopID": "6678",
+        "StopName": {
+          "Zh_tw": "二莊",
+          "En": "Erjhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.25092,
+          "PositionLat": 23.32351,
+          "GeoHash": "wsjs8muj3"
+        },
+        "StationID": "7346",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6679",
+        "StopID": "6679",
+        "StopName": {
+          "Zh_tw": "牛稠仔",
+          "En": "Niouchouzai"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.25507,
+          "PositionLat": 23.32565,
+          "GeoHash": "wsjs8qr1f"
+        },
+        "StationID": "7347",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6680",
+        "StopID": "6680",
+        "StopName": {
+          "Zh_tw": "義中里",
+          "En": "Yijhong Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.25782,
+          "PositionLat": 23.32521,
+          "GeoHash": "wsjs8w1p4"
+        },
+        "StationID": "7348",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6681",
+        "StopID": "6681",
+        "StopName": {
+          "Zh_tw": "岸內",
+          "En": "Annei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.26093,
+          "PositionLat": 23.32458,
+          "GeoHash": "wsjs8w57d"
+        },
+        "StationID": "7349",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6682",
+        "StopID": "6682",
+        "StopName": {
+          "Zh_tw": "鹽水武廟",
+          "En": "Yanshuei War God Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.26549,
+          "PositionLat": 23.32344,
+          "GeoHash": "wsjs8tysv"
+        },
+        "StationID": "7350",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6683",
+        "StopID": "6683",
+        "StopName": {
+          "Zh_tw": "鹽水國小",
+          "En": "Yanshuei Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.27056,
+          "PositionLat": 23.32366,
+          "GeoHash": "wsjs8vfq5"
+        },
+        "StationID": "7351",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16481",
+        "StopID": "16481",
+        "StopName": {
+          "Zh_tw": "汫水國小",
+          "En": "Jingshui Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.27307,
+          "PositionLat": 23.34656,
+          "GeoHash": "wsjsbfh5t"
+        },
+        "StationID": "8913",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17449",
+        "StopID": "17449",
+        "StopName": {
+          "Zh_tw": "蔦松腳",
+          "En": "Niaosongjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.27212,
+          "PositionLat": 23.33468,
+          "GeoHash": "wsjs8zgqr"
+        },
+        "StationID": "1719",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16942",
+        "StopID": "16942",
+        "StopName": {
+          "Zh_tw": "鹽水上帝廟",
+          "En": "Yanshuei Jade Emperor Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.27771,
+          "PositionLat": 23.32347,
+          "GeoHash": "wsjs8vzt1"
+        },
+        "StationID": "1292",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16303",
+        "StopID": "16303",
+        "StopName": {
+          "Zh_tw": "南榮科大",
+          "En": "Nan Jeon University of Science and Technology"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.27435,
+          "PositionLat": 23.32474,
+          "GeoHash": "wsjs8yjh7"
+        },
+        "StationID": "1063",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6684",
+        "StopID": "6684",
+        "StopName": {
+          "Zh_tw": "鹽水",
+          "En": "Yanshuei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.26771,
+          "PositionLat": 23.32035,
+          "GeoHash": "wsjs8v26b"
+        },
+        "StationID": "7134",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17617",
+        "StopID": "17617",
+        "StopName": {
+          "Zh_tw": "護庇宮",
+          "En": "Hubi Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.26741,
+          "PositionLat": 23.31816,
+          "GeoHash": "wsjs8ubn1"
+        },
+        "StationID": "1759",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6685",
+        "StopID": "6685",
+        "StopName": {
+          "Zh_tw": "橋南里",
+          "En": "Ciaonan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.26726,
+          "PositionLat": 23.31571,
+          "GeoHash": "wsjs8srzy"
+        },
+        "StationID": "7135",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6686",
+        "StopID": "6686",
+        "StopName": {
+          "Zh_tw": "竹圍尾",
+          "En": "Jhuweiwei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.26998,
+          "PositionLat": 23.31231,
+          "GeoHash": "wsjs8gcuj"
+        },
+        "StationID": "7136",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6687",
+        "StopID": "6687",
+        "StopName": {
+          "Zh_tw": "明達中學",
+          "En": "Mingda Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.27483,
+          "PositionLat": 23.31067,
+          "GeoHash": "wsjs8gt6q"
+        },
+        "StationID": "7137",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6688",
+        "StopID": "6688",
+        "StopName": {
+          "Zh_tw": "新營工業區",
+          "En": "Sinying Industrial Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.28052,
+          "PositionLat": 23.30991,
+          "GeoHash": "wsjs953w5"
+        },
+        "StationID": "7138",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23357",
+        "StopID": "23357",
+        "StopName": {
+          "Zh_tw": "新營轉運站",
+          "En": "Sinying Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.28317,
+          "PositionLat": 23.31081,
+          "GeoHash": "wsjs95ee3"
+        },
+        "StationID": "2102",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6689",
+        "StopID": "6689",
+        "StopName": {
+          "Zh_tw": "茄苳腳",
+          "En": "Ciedongjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.28413,
+          "PositionLat": 23.30935,
+          "GeoHash": "wsjs95k4z"
+        },
+        "StationID": "7139",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6690",
+        "StopID": "6690",
+        "StopName": {
+          "Zh_tw": "高公局新營工務段",
+          "En": "Freeway Bureau Sinying Public Works Section"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.29488,
+          "PositionLat": 23.30606,
+          "GeoHash": "wsjs96sp9"
+        },
+        "StationID": "7140",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6691",
+        "StopID": "6691",
+        "StopName": {
+          "Zh_tw": "營新醫院",
+          "En": "Ever New Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.30077,
+          "PositionLat": 23.30829,
+          "GeoHash": "wsjs9e0ke"
+        },
+        "StationID": "7352",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15685",
+        "StopID": "15685",
+        "StopName": {
+          "Zh_tw": "新北里",
+          "En": "Sinbei Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.30638,
+          "PositionLat": 23.31304,
+          "GeoHash": "wsjs9sh2m"
+        },
+        "StationID": "8380",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20344",
+        "StopID": "20344",
+        "StopName": {
+          "Zh_tw": "育德工家",
+          "En": "Y.T.V.S"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.31132,
+          "PositionLat": 23.31727,
+          "GeoHash": "wsjs9ub0b"
+        },
+        "StationID": "1770",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6692",
+        "StopID": "6692",
+        "StopName": {
+          "Zh_tw": "新營體育場",
+          "En": "Sinying Stadium"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.31321,
+          "PositionLat": 23.31917,
+          "GeoHash": "wsjs9v1kh"
+        },
+        "StationID": "7353",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6693",
+        "StopID": "6693",
+        "StopName": {
+          "Zh_tw": "電力公司",
+          "En": "Taiwan Power Company"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.31621,
+          "PositionLat": 23.31908,
+          "GeoHash": "wsjs9v5e6"
+        },
+        "StationID": "7449",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6694",
+        "StopID": "6694",
+        "StopName": {
+          "Zh_tw": "中正世家",
+          "En": "Jhongjhengshihjia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.31635,
+          "PositionLat": 23.31691,
+          "GeoHash": "wsjs9uewy"
+        },
+        "StationID": "7450",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6695",
+        "StopID": "6695",
+        "StopName": {
+          "Zh_tw": "新營高工",
+          "En": "Sinying Industrial Vocational High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.31661,
+          "PositionLat": 23.31381,
+          "GeoHash": "wsjs9u5uu"
+        },
+        "StationID": "7451",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6696",
+        "StopID": "6696",
+        "StopName": {
+          "Zh_tw": "民治市政中心",
+          "En": "Minjhih Civic Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLon": 120.31439,
+          "PositionLat": 23.31084,
+          "GeoHash": "wsjs9gd72"
+        },
+        "StationID": "7075",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6697",
+        "StopID": "6697",
+        "StopName": {
+          "Zh_tw": "新營醫院(三民路)",
+          "En": "Sinying Hospital(Sanmin Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLon": 120.31378,
+          "PositionLat": 23.30701,
+          "GeoHash": "wsjs9fcv4"
+        },
+        "StationID": "3454",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6698",
+        "StopID": "6698",
+        "StopName": {
+          "Zh_tw": "圓環(第一、京城銀行)",
+          "En": "Traffic Circle(First Bank、King's Town Bank)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLon": 120.31648,
+          "PositionLat": 23.30489,
+          "GeoHash": "wsjs9febc"
+        },
+        "StationID": "7426",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17515",
+        "StopID": "17515",
+        "StopName": {
+          "Zh_tw": "中營興業里",
+          "En": "Jhongying Singye Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLon": 120.31899,
+          "PositionLat": 23.30528,
+          "GeoHash": "wsjs9fte5"
+        },
+        "StationID": "7925",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6699",
+        "StopID": "6699",
+        "StopName": {
+          "Zh_tw": "新營站",
+          "En": "Sinying Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 34,
+        "StopPosition": {
+          "PositionLon": 120.32231,
+          "PositionLat": 23.30743,
+          "GeoHash": "wsjsd4bp9"
+        },
+        "StationID": "4119",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-07T20:04:26+08:00",
+    "VersionID": 10648
+  },
+  {
+    "RouteUID": "TNN1302",
+    "RouteID": "1302",
+    "RouteName": {
+      "Zh_tw": "棕2",
+      "En": "BR2"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16202",
+        "OperatorName": {
+          "Zh_tw": "台一大車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN130221",
+    "SubRouteID": "130221",
+    "SubRouteName": {
+      "Zh_tw": "棕2 小黃 新營→鹽水→下中(繞新營醫院(小黃公車)、鹽水上帝廟)",
+      "En": "BR2 Shuttle Taxi Sinying Bus Station→Siajhong[Via Sinying Hospital(Shuttle Taxi)、Yanshuei Jade Emper"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN6652",
+        "StopID": "6652",
+        "StopName": {
+          "Zh_tw": "新營站",
+          "En": "Sinying Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.32231,
+          "PositionLat": 23.30743,
+          "GeoHash": "wsjsd4bp9"
+        },
+        "StationID": "4119",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17514",
+        "StopID": "17514",
+        "StopName": {
+          "Zh_tw": "中營興業里",
+          "En": "Jhongying Singye Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.31872,
+          "PositionLat": 23.30531,
+          "GeoHash": "wsjs9ft7m"
+        },
+        "StationID": "7924",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6653",
+        "StopID": "6653",
+        "StopName": {
+          "Zh_tw": "圓環(第一、京城銀行)",
+          "En": "Traffic Circle(First Bank ＆ King's Town Bank)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.31653,
+          "PositionLat": 23.30499,
+          "GeoHash": "wsjs9fec6"
+        },
+        "StationID": "7400",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6654",
+        "StopID": "6654",
+        "StopName": {
+          "Zh_tw": "新營醫院(三民路)",
+          "En": "Sinying Hospital(Sanmin Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.31361,
+          "PositionLat": 23.30703,
+          "GeoHash": "wsjs9fctq"
+        },
+        "StationID": "3427",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN32961",
+        "StopID": "32961",
+        "StopName": {
+          "Zh_tw": "新營醫院(小黃公車)",
+          "En": "Sinying Hospital(Shuttle Taxi)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.31341,
+          "PositionLat": 23.30872,
+          "GeoHash": "wsjs9g1x1"
+        },
+        "StationID": "2792",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6655",
+        "StopID": "6655",
+        "StopName": {
+          "Zh_tw": "民治市政中心",
+          "En": "Minjhih Civic Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.31437,
+          "PositionLat": 23.31062,
+          "GeoHash": "wsjs9gd60"
+        },
+        "StationID": "7100",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6656",
+        "StopID": "6656",
+        "StopName": {
+          "Zh_tw": "新營高工",
+          "En": "Sinying Industrial Vocational High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.31664,
+          "PositionLat": 23.31413,
+          "GeoHash": "wsjs9u5ys"
+        },
+        "StationID": "7428",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6657",
+        "StopID": "6657",
+        "StopName": {
+          "Zh_tw": "中正世家",
+          "En": "Jhongjhengshihjia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.31651,
+          "PositionLat": 23.31691,
+          "GeoHash": "wsjs9ueyc"
+        },
+        "StationID": "7429",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6658",
+        "StopID": "6658",
+        "StopName": {
+          "Zh_tw": "電力公司",
+          "En": "Taiwan Power Company"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.31635,
+          "PositionLat": 23.31908,
+          "GeoHash": "wsjs9v5eq"
+        },
+        "StationID": "7430",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6659",
+        "StopID": "6659",
+        "StopName": {
+          "Zh_tw": "新營體育場",
+          "En": "Sinying Stadium"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.31267,
+          "PositionLat": 23.31914,
+          "GeoHash": "wsjs9v15b"
+        },
+        "StationID": "7334",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20343",
+        "StopID": "20343",
+        "StopName": {
+          "Zh_tw": "育德工家",
+          "En": "Y.T.V.S"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.31104,
+          "PositionLat": 23.31756,
+          "GeoHash": "wsjs9szfd"
+        },
+        "StationID": "1769",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15684",
+        "StopID": "15684",
+        "StopName": {
+          "Zh_tw": "新北里",
+          "En": "Sinbei Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.30519,
+          "PositionLat": 23.31256,
+          "GeoHash": "wsjs9egtd"
+        },
+        "StationID": "8373",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6660",
+        "StopID": "6660",
+        "StopName": {
+          "Zh_tw": "營新醫院",
+          "En": "Ever New Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.30049,
+          "PositionLat": 23.30842,
+          "GeoHash": "wsjs9e0jk"
+        },
+        "StationID": "7335",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6661",
+        "StopID": "6661",
+        "StopName": {
+          "Zh_tw": "高公局新營工務段",
+          "En": "Freeway Bureau Sinying Public Works Section"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.29509,
+          "PositionLat": 23.30623,
+          "GeoHash": "wsjs96u0w"
+        },
+        "StationID": "7065",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6662",
+        "StopID": "6662",
+        "StopName": {
+          "Zh_tw": "茄苳腳",
+          "En": "Ciedongjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.28412,
+          "PositionLat": 23.30954,
+          "GeoHash": "wsjs95k5z"
+        },
+        "StationID": "7066",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23356",
+        "StopID": "23356",
+        "StopName": {
+          "Zh_tw": "新營轉運站",
+          "En": "Sinying Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.28317,
+          "PositionLat": 23.31081,
+          "GeoHash": "wsjs95ee3"
+        },
+        "StationID": "2102",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6663",
+        "StopID": "6663",
+        "StopName": {
+          "Zh_tw": "新營工業區",
+          "En": "Sinying Industrial Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.27935,
+          "PositionLat": 23.31021,
+          "GeoHash": "wsjs952xz"
+        },
+        "StationID": "7067",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6664",
+        "StopID": "6664",
+        "StopName": {
+          "Zh_tw": "明達中學",
+          "En": "Mingda Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.27491,
+          "PositionLat": 23.31085,
+          "GeoHash": "wsjs8gte8"
+        },
+        "StationID": "7068",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6665",
+        "StopID": "6665",
+        "StopName": {
+          "Zh_tw": "竹圍尾",
+          "En": "Jhuweiwei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.27005,
+          "PositionLat": 23.31228,
+          "GeoHash": "wsjs8gcgz"
+        },
+        "StationID": "7069",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6666",
+        "StopID": "6666",
+        "StopName": {
+          "Zh_tw": "橋南里",
+          "En": "Ciaonan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.26732,
+          "PositionLat": 23.31566,
+          "GeoHash": "wsjs8srzx"
+        },
+        "StationID": "7070",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17616",
+        "StopID": "17616",
+        "StopName": {
+          "Zh_tw": "護庇宮",
+          "En": "Hubi Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.26752,
+          "PositionLat": 23.31831,
+          "GeoHash": "wsjs8ubph"
+        },
+        "StationID": "1758",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6667",
+        "StopID": "6667",
+        "StopName": {
+          "Zh_tw": "鹽水",
+          "En": "Yanshuei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.26785,
+          "PositionLat": 23.32032,
+          "GeoHash": "wsjs8v26s"
+        },
+        "StationID": "7071",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16302",
+        "StopID": "16302",
+        "StopName": {
+          "Zh_tw": "南榮科大",
+          "En": "Nan Jeon University of Science and Technology"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.27475,
+          "PositionLat": 23.32491,
+          "GeoHash": "wsjs8yjmk"
+        },
+        "StationID": "1062",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16941",
+        "StopID": "16941",
+        "StopName": {
+          "Zh_tw": "鹽水上帝廟",
+          "En": "Yanshuei Jade Emperor Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.27771,
+          "PositionLat": 23.32347,
+          "GeoHash": "wsjs8vzt1"
+        },
+        "StationID": "1292",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17448",
+        "StopID": "17448",
+        "StopName": {
+          "Zh_tw": "蔦松腳",
+          "En": "Niaosongjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.27221,
+          "PositionLat": 23.33472,
+          "GeoHash": "wsjs8zgw9"
+        },
+        "StationID": "1718",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16476",
+        "StopID": "16476",
+        "StopName": {
+          "Zh_tw": "汫水國小",
+          "En": "Jingshui Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.27307,
+          "PositionLat": 23.34656,
+          "GeoHash": "wsjsbfh5t"
+        },
+        "StationID": "8913",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6668",
+        "StopID": "6668",
+        "StopName": {
+          "Zh_tw": "鹽水國小",
+          "En": "Yanshuei Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.27051,
+          "PositionLat": 23.32375,
+          "GeoHash": "wsjs8vfqd"
+        },
+        "StationID": "7336",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6669",
+        "StopID": "6669",
+        "StopName": {
+          "Zh_tw": "鹽水武廟",
+          "En": "Yanshuei War God Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.26531,
+          "PositionLat": 23.32361,
+          "GeoHash": "wsjs8tytb"
+        },
+        "StationID": "7337",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6670",
+        "StopID": "6670",
+        "StopName": {
+          "Zh_tw": "岸內",
+          "En": "Annei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.26092,
+          "PositionLat": 23.32471,
+          "GeoHash": "wsjs8w5k6"
+        },
+        "StationID": "7338",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6671",
+        "StopID": "6671",
+        "StopName": {
+          "Zh_tw": "義中里",
+          "En": "Yijhong Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLon": 120.25813,
+          "PositionLat": 23.32521,
+          "GeoHash": "wsjs8w1r1"
+        },
+        "StationID": "7339",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6672",
+        "StopID": "6672",
+        "StopName": {
+          "Zh_tw": "牛稠仔",
+          "En": "Niouchouzai"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLon": 120.25503,
+          "PositionLat": 23.32573,
+          "GeoHash": "wsjs8qr41"
+        },
+        "StationID": "7340",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6673",
+        "StopID": "6673",
+        "StopName": {
+          "Zh_tw": "二莊",
+          "En": "Erjhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLon": 120.25069,
+          "PositionLat": 23.32347,
+          "GeoHash": "wsjs8mgvh"
+        },
+        "StationID": "7341",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6674",
+        "StopID": "6674",
+        "StopName": {
+          "Zh_tw": "樹仔腳",
+          "En": "Shuzihjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLon": 120.24431,
+          "PositionLat": 23.32056,
+          "GeoHash": "wsjs8jrhp"
+        },
+        "StationID": "7342",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6675",
+        "StopID": "6675",
+        "StopName": {
+          "Zh_tw": "下中",
+          "En": "Siajhong"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 34,
+        "StopPosition": {
+          "PositionLon": 120.24142,
+          "PositionLat": 23.32008,
+          "GeoHash": "wsjs8jm1k"
+        },
+        "StationID": "7343",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24340",
+        "StopID": "24340",
+        "StopName": {
+          "Zh_tw": "下中福王宮",
+          "En": "Siajhong Fuwang Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 35,
+        "StopPosition": {
+          "PositionLon": 120.23916,
+          "PositionLat": 23.31806,
+          "GeoHash": "wsjs8hgmx"
+        },
+        "StationID": "2326",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-07T20:04:26+08:00",
+    "VersionID": 10648
+  },
+  {
+    "RouteUID": "TNN1302",
+    "RouteID": "1302",
+    "RouteName": {
+      "Zh_tw": "棕2",
+      "En": "BR2"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16202",
+        "OperatorName": {
+          "Zh_tw": "台一大車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN130222",
+    "SubRouteID": "130222",
+    "SubRouteName": {
+      "Zh_tw": "棕2 小黃 下中→鹽水→新營(繞新營醫院(小黃公車)、鹽水上帝廟)",
+      "En": "BR2 Shuttle Taxi Siajhong→Sinying Bus Station[Via Sinying Hospital(Shuttle Taxi)、Yanshuei Jade Emper"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN24341",
+        "StopID": "24341",
+        "StopName": {
+          "Zh_tw": "下中福王宮",
+          "En": "Siajhong Fuwang Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.23916,
+          "PositionLat": 23.31806,
+          "GeoHash": "wsjs8hgmx"
+        },
+        "StationID": "2326",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6676",
+        "StopID": "6676",
+        "StopName": {
+          "Zh_tw": "下中",
+          "En": "Siajhong"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.24063,
+          "PositionLat": 23.31963,
+          "GeoHash": "wsjs8jhw9"
+        },
+        "StationID": "7344",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6677",
+        "StopID": "6677",
+        "StopName": {
+          "Zh_tw": "樹仔腳",
+          "En": "Shuzihjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.24423,
+          "PositionLat": 23.32051,
+          "GeoHash": "wsjs8jr5v"
+        },
+        "StationID": "7345",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6678",
+        "StopID": "6678",
+        "StopName": {
+          "Zh_tw": "二莊",
+          "En": "Erjhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.25092,
+          "PositionLat": 23.32351,
+          "GeoHash": "wsjs8muj3"
+        },
+        "StationID": "7346",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6679",
+        "StopID": "6679",
+        "StopName": {
+          "Zh_tw": "牛稠仔",
+          "En": "Niouchouzai"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.25507,
+          "PositionLat": 23.32565,
+          "GeoHash": "wsjs8qr1f"
+        },
+        "StationID": "7347",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6680",
+        "StopID": "6680",
+        "StopName": {
+          "Zh_tw": "義中里",
+          "En": "Yijhong Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.25782,
+          "PositionLat": 23.32521,
+          "GeoHash": "wsjs8w1p4"
+        },
+        "StationID": "7348",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6681",
+        "StopID": "6681",
+        "StopName": {
+          "Zh_tw": "岸內",
+          "En": "Annei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.26093,
+          "PositionLat": 23.32458,
+          "GeoHash": "wsjs8w57d"
+        },
+        "StationID": "7349",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6682",
+        "StopID": "6682",
+        "StopName": {
+          "Zh_tw": "鹽水武廟",
+          "En": "Yanshuei War God Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.26549,
+          "PositionLat": 23.32344,
+          "GeoHash": "wsjs8tysv"
+        },
+        "StationID": "7350",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6683",
+        "StopID": "6683",
+        "StopName": {
+          "Zh_tw": "鹽水國小",
+          "En": "Yanshuei Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.27056,
+          "PositionLat": 23.32366,
+          "GeoHash": "wsjs8vfq5"
+        },
+        "StationID": "7351",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16481",
+        "StopID": "16481",
+        "StopName": {
+          "Zh_tw": "汫水國小",
+          "En": "Jingshui Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.27307,
+          "PositionLat": 23.34656,
+          "GeoHash": "wsjsbfh5t"
+        },
+        "StationID": "8913",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17449",
+        "StopID": "17449",
+        "StopName": {
+          "Zh_tw": "蔦松腳",
+          "En": "Niaosongjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.27212,
+          "PositionLat": 23.33468,
+          "GeoHash": "wsjs8zgqr"
+        },
+        "StationID": "1719",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16942",
+        "StopID": "16942",
+        "StopName": {
+          "Zh_tw": "鹽水上帝廟",
+          "En": "Yanshuei Jade Emperor Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.27771,
+          "PositionLat": 23.32347,
+          "GeoHash": "wsjs8vzt1"
+        },
+        "StationID": "1292",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16303",
+        "StopID": "16303",
+        "StopName": {
+          "Zh_tw": "南榮科大",
+          "En": "Nan Jeon University of Science and Technology"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.27435,
+          "PositionLat": 23.32474,
+          "GeoHash": "wsjs8yjh7"
+        },
+        "StationID": "1063",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6684",
+        "StopID": "6684",
+        "StopName": {
+          "Zh_tw": "鹽水",
+          "En": "Yanshuei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.26771,
+          "PositionLat": 23.32035,
+          "GeoHash": "wsjs8v26b"
+        },
+        "StationID": "7134",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17617",
+        "StopID": "17617",
+        "StopName": {
+          "Zh_tw": "護庇宮",
+          "En": "Hubi Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.26741,
+          "PositionLat": 23.31816,
+          "GeoHash": "wsjs8ubn1"
+        },
+        "StationID": "1759",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6685",
+        "StopID": "6685",
+        "StopName": {
+          "Zh_tw": "橋南里",
+          "En": "Ciaonan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.26726,
+          "PositionLat": 23.31571,
+          "GeoHash": "wsjs8srzy"
+        },
+        "StationID": "7135",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6686",
+        "StopID": "6686",
+        "StopName": {
+          "Zh_tw": "竹圍尾",
+          "En": "Jhuweiwei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.26998,
+          "PositionLat": 23.31231,
+          "GeoHash": "wsjs8gcuj"
+        },
+        "StationID": "7136",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6687",
+        "StopID": "6687",
+        "StopName": {
+          "Zh_tw": "明達中學",
+          "En": "Mingda Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.27483,
+          "PositionLat": 23.31067,
+          "GeoHash": "wsjs8gt6q"
+        },
+        "StationID": "7137",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6688",
+        "StopID": "6688",
+        "StopName": {
+          "Zh_tw": "新營工業區",
+          "En": "Sinying Industrial Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.28052,
+          "PositionLat": 23.30991,
+          "GeoHash": "wsjs953w5"
+        },
+        "StationID": "7138",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23357",
+        "StopID": "23357",
+        "StopName": {
+          "Zh_tw": "新營轉運站",
+          "En": "Sinying Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.28317,
+          "PositionLat": 23.31081,
+          "GeoHash": "wsjs95ee3"
+        },
+        "StationID": "2102",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6689",
+        "StopID": "6689",
+        "StopName": {
+          "Zh_tw": "茄苳腳",
+          "En": "Ciedongjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.28413,
+          "PositionLat": 23.30935,
+          "GeoHash": "wsjs95k4z"
+        },
+        "StationID": "7139",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6690",
+        "StopID": "6690",
+        "StopName": {
+          "Zh_tw": "高公局新營工務段",
+          "En": "Freeway Bureau Sinying Public Works Section"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.29488,
+          "PositionLat": 23.30606,
+          "GeoHash": "wsjs96sp9"
+        },
+        "StationID": "7140",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6691",
+        "StopID": "6691",
+        "StopName": {
+          "Zh_tw": "營新醫院",
+          "En": "Ever New Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.30077,
+          "PositionLat": 23.30829,
+          "GeoHash": "wsjs9e0ke"
+        },
+        "StationID": "7352",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15685",
+        "StopID": "15685",
+        "StopName": {
+          "Zh_tw": "新北里",
+          "En": "Sinbei Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.30638,
+          "PositionLat": 23.31304,
+          "GeoHash": "wsjs9sh2m"
+        },
+        "StationID": "8380",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20344",
+        "StopID": "20344",
+        "StopName": {
+          "Zh_tw": "育德工家",
+          "En": "Y.T.V.S"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.31132,
+          "PositionLat": 23.31727,
+          "GeoHash": "wsjs9ub0b"
+        },
+        "StationID": "1770",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6692",
+        "StopID": "6692",
+        "StopName": {
+          "Zh_tw": "新營體育場",
+          "En": "Sinying Stadium"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.31321,
+          "PositionLat": 23.31917,
+          "GeoHash": "wsjs9v1kh"
+        },
+        "StationID": "7353",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6693",
+        "StopID": "6693",
+        "StopName": {
+          "Zh_tw": "電力公司",
+          "En": "Taiwan Power Company"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.31621,
+          "PositionLat": 23.31908,
+          "GeoHash": "wsjs9v5e6"
+        },
+        "StationID": "7449",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6694",
+        "StopID": "6694",
+        "StopName": {
+          "Zh_tw": "中正世家",
+          "En": "Jhongjhengshihjia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.31635,
+          "PositionLat": 23.31691,
+          "GeoHash": "wsjs9uewy"
+        },
+        "StationID": "7450",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6695",
+        "StopID": "6695",
+        "StopName": {
+          "Zh_tw": "新營高工",
+          "En": "Sinying Industrial Vocational High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.31661,
+          "PositionLat": 23.31381,
+          "GeoHash": "wsjs9u5uu"
+        },
+        "StationID": "7451",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6696",
+        "StopID": "6696",
+        "StopName": {
+          "Zh_tw": "民治市政中心",
+          "En": "Minjhih Civic Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLon": 120.31439,
+          "PositionLat": 23.31084,
+          "GeoHash": "wsjs9gd72"
+        },
+        "StationID": "7075",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN32962",
+        "StopID": "32962",
+        "StopName": {
+          "Zh_tw": "新營醫院(小黃公車)",
+          "En": "Sinying Hospital(Shuttle Taxi)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLon": 120.31341,
+          "PositionLat": 23.30872,
+          "GeoHash": "wsjs9g1x1"
+        },
+        "StationID": "2792",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6697",
+        "StopID": "6697",
+        "StopName": {
+          "Zh_tw": "新營醫院(三民路)",
+          "En": "Sinying Hospital(Sanmin Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLon": 120.31378,
+          "PositionLat": 23.30701,
+          "GeoHash": "wsjs9fcv4"
+        },
+        "StationID": "3454",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6698",
+        "StopID": "6698",
+        "StopName": {
+          "Zh_tw": "圓環(第一、京城銀行)",
+          "En": "Traffic Circle(First Bank、King's Town Bank)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLon": 120.31648,
+          "PositionLat": 23.30489,
+          "GeoHash": "wsjs9febc"
+        },
+        "StationID": "7426",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17515",
+        "StopID": "17515",
+        "StopName": {
+          "Zh_tw": "中營興業里",
+          "En": "Jhongying Singye Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 34,
+        "StopPosition": {
+          "PositionLon": 120.31899,
+          "PositionLat": 23.30528,
+          "GeoHash": "wsjs9fte5"
+        },
+        "StationID": "7925",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6699",
+        "StopID": "6699",
+        "StopName": {
+          "Zh_tw": "新營站",
+          "En": "Sinying Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 35,
+        "StopPosition": {
+          "PositionLon": 120.32231,
+          "PositionLat": 23.30743,
+          "GeoHash": "wsjsd4bp9"
+        },
+        "StationID": "4119",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-07T20:04:26+08:00",
+    "VersionID": 10648
+  },
+  {
+    "RouteUID": "TNN1302",
+    "RouteID": "1302",
+    "RouteName": {
+      "Zh_tw": "棕2",
+      "En": "BR2"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16202",
+        "OperatorName": {
+          "Zh_tw": "台一大車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN130231",
+    "SubRouteID": "130231",
+    "SubRouteName": {
+      "Zh_tw": "棕2 小黃 新營→鹽水→下中(繞新營醫院(小黃公車)、鹽水上帝廟)[僅供預約]",
+      "En": "BR2 Shuttle Taxi Sinying Bus Station→Siajhong[Via Sinying Hospital(Shuttle Taxi)、Yanshuei Jade Emper"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN33513",
+        "StopID": "33513",
+        "StopName": {
+          "Zh_tw": "柳營奇美醫院",
+          "En": "Liouying Chi Mei Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.32549,
+          "PositionLat": 23.28899,
+          "GeoHash": "wsjs6pdk5"
+        },
+        "StationID": "8289",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6652",
+        "StopID": "6652",
+        "StopName": {
+          "Zh_tw": "新營站",
+          "En": "Sinying Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.32231,
+          "PositionLat": 23.30743,
+          "GeoHash": "wsjsd4bp9"
+        },
+        "StationID": "4119",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17514",
+        "StopID": "17514",
+        "StopName": {
+          "Zh_tw": "中營興業里",
+          "En": "Jhongying Singye Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.31872,
+          "PositionLat": 23.30531,
+          "GeoHash": "wsjs9ft7m"
+        },
+        "StationID": "7924",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6653",
+        "StopID": "6653",
+        "StopName": {
+          "Zh_tw": "圓環(第一、京城銀行)",
+          "En": "Traffic Circle(First Bank ＆ King's Town Bank)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.31653,
+          "PositionLat": 23.30499,
+          "GeoHash": "wsjs9fec6"
+        },
+        "StationID": "7400",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6654",
+        "StopID": "6654",
+        "StopName": {
+          "Zh_tw": "新營醫院(三民路)",
+          "En": "Sinying Hospital(Sanmin Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.31361,
+          "PositionLat": 23.30703,
+          "GeoHash": "wsjs9fctq"
+        },
+        "StationID": "3427",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN32961",
+        "StopID": "32961",
+        "StopName": {
+          "Zh_tw": "新營醫院(小黃公車)",
+          "En": "Sinying Hospital(Shuttle Taxi)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.31341,
+          "PositionLat": 23.30872,
+          "GeoHash": "wsjs9g1x1"
+        },
+        "StationID": "2792",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6655",
+        "StopID": "6655",
+        "StopName": {
+          "Zh_tw": "民治市政中心",
+          "En": "Minjhih Civic Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.31437,
+          "PositionLat": 23.31062,
+          "GeoHash": "wsjs9gd60"
+        },
+        "StationID": "7100",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6656",
+        "StopID": "6656",
+        "StopName": {
+          "Zh_tw": "新營高工",
+          "En": "Sinying Industrial Vocational High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.31664,
+          "PositionLat": 23.31413,
+          "GeoHash": "wsjs9u5ys"
+        },
+        "StationID": "7428",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6657",
+        "StopID": "6657",
+        "StopName": {
+          "Zh_tw": "中正世家",
+          "En": "Jhongjhengshihjia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.31651,
+          "PositionLat": 23.31691,
+          "GeoHash": "wsjs9ueyc"
+        },
+        "StationID": "7429",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6658",
+        "StopID": "6658",
+        "StopName": {
+          "Zh_tw": "電力公司",
+          "En": "Taiwan Power Company"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.31635,
+          "PositionLat": 23.31908,
+          "GeoHash": "wsjs9v5eq"
+        },
+        "StationID": "7430",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6659",
+        "StopID": "6659",
+        "StopName": {
+          "Zh_tw": "新營體育場",
+          "En": "Sinying Stadium"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.31267,
+          "PositionLat": 23.31914,
+          "GeoHash": "wsjs9v15b"
+        },
+        "StationID": "7334",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20343",
+        "StopID": "20343",
+        "StopName": {
+          "Zh_tw": "育德工家",
+          "En": "Y.T.V.S"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.31104,
+          "PositionLat": 23.31756,
+          "GeoHash": "wsjs9szfd"
+        },
+        "StationID": "1769",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15684",
+        "StopID": "15684",
+        "StopName": {
+          "Zh_tw": "新北里",
+          "En": "Sinbei Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.30519,
+          "PositionLat": 23.31256,
+          "GeoHash": "wsjs9egtd"
+        },
+        "StationID": "8373",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6660",
+        "StopID": "6660",
+        "StopName": {
+          "Zh_tw": "營新醫院",
+          "En": "Ever New Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.30049,
+          "PositionLat": 23.30842,
+          "GeoHash": "wsjs9e0jk"
+        },
+        "StationID": "7335",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6661",
+        "StopID": "6661",
+        "StopName": {
+          "Zh_tw": "高公局新營工務段",
+          "En": "Freeway Bureau Sinying Public Works Section"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.29509,
+          "PositionLat": 23.30623,
+          "GeoHash": "wsjs96u0w"
+        },
+        "StationID": "7065",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6662",
+        "StopID": "6662",
+        "StopName": {
+          "Zh_tw": "茄苳腳",
+          "En": "Ciedongjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.28412,
+          "PositionLat": 23.30954,
+          "GeoHash": "wsjs95k5z"
+        },
+        "StationID": "7066",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23356",
+        "StopID": "23356",
+        "StopName": {
+          "Zh_tw": "新營轉運站",
+          "En": "Sinying Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.28317,
+          "PositionLat": 23.31081,
+          "GeoHash": "wsjs95ee3"
+        },
+        "StationID": "2102",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6663",
+        "StopID": "6663",
+        "StopName": {
+          "Zh_tw": "新營工業區",
+          "En": "Sinying Industrial Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.27935,
+          "PositionLat": 23.31021,
+          "GeoHash": "wsjs952xz"
+        },
+        "StationID": "7067",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6664",
+        "StopID": "6664",
+        "StopName": {
+          "Zh_tw": "明達中學",
+          "En": "Mingda Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.27491,
+          "PositionLat": 23.31085,
+          "GeoHash": "wsjs8gte8"
+        },
+        "StationID": "7068",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6665",
+        "StopID": "6665",
+        "StopName": {
+          "Zh_tw": "竹圍尾",
+          "En": "Jhuweiwei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.27005,
+          "PositionLat": 23.31228,
+          "GeoHash": "wsjs8gcgz"
+        },
+        "StationID": "7069",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6666",
+        "StopID": "6666",
+        "StopName": {
+          "Zh_tw": "橋南里",
+          "En": "Ciaonan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.26732,
+          "PositionLat": 23.31566,
+          "GeoHash": "wsjs8srzx"
+        },
+        "StationID": "7070",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17616",
+        "StopID": "17616",
+        "StopName": {
+          "Zh_tw": "護庇宮",
+          "En": "Hubi Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.26752,
+          "PositionLat": 23.31831,
+          "GeoHash": "wsjs8ubph"
+        },
+        "StationID": "1758",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6667",
+        "StopID": "6667",
+        "StopName": {
+          "Zh_tw": "鹽水",
+          "En": "Yanshuei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.26785,
+          "PositionLat": 23.32032,
+          "GeoHash": "wsjs8v26s"
+        },
+        "StationID": "7071",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16302",
+        "StopID": "16302",
+        "StopName": {
+          "Zh_tw": "南榮科大",
+          "En": "Nan Jeon University of Science and Technology"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.27475,
+          "PositionLat": 23.32491,
+          "GeoHash": "wsjs8yjmk"
+        },
+        "StationID": "1062",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16941",
+        "StopID": "16941",
+        "StopName": {
+          "Zh_tw": "鹽水上帝廟",
+          "En": "Yanshuei Jade Emperor Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.27771,
+          "PositionLat": 23.32347,
+          "GeoHash": "wsjs8vzt1"
+        },
+        "StationID": "1292",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17448",
+        "StopID": "17448",
+        "StopName": {
+          "Zh_tw": "蔦松腳",
+          "En": "Niaosongjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.27221,
+          "PositionLat": 23.33472,
+          "GeoHash": "wsjs8zgw9"
+        },
+        "StationID": "1718",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16476",
+        "StopID": "16476",
+        "StopName": {
+          "Zh_tw": "汫水國小",
+          "En": "Jingshui Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.27307,
+          "PositionLat": 23.34656,
+          "GeoHash": "wsjsbfh5t"
+        },
+        "StationID": "8913",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6668",
+        "StopID": "6668",
+        "StopName": {
+          "Zh_tw": "鹽水國小",
+          "En": "Yanshuei Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.27051,
+          "PositionLat": 23.32375,
+          "GeoHash": "wsjs8vfqd"
+        },
+        "StationID": "7336",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6669",
+        "StopID": "6669",
+        "StopName": {
+          "Zh_tw": "鹽水武廟",
+          "En": "Yanshuei War God Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.26531,
+          "PositionLat": 23.32361,
+          "GeoHash": "wsjs8tytb"
+        },
+        "StationID": "7337",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6670",
+        "StopID": "6670",
+        "StopName": {
+          "Zh_tw": "岸內",
+          "En": "Annei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLon": 120.26092,
+          "PositionLat": 23.32471,
+          "GeoHash": "wsjs8w5k6"
+        },
+        "StationID": "7338",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6671",
+        "StopID": "6671",
+        "StopName": {
+          "Zh_tw": "義中里",
+          "En": "Yijhong Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLon": 120.25813,
+          "PositionLat": 23.32521,
+          "GeoHash": "wsjs8w1r1"
+        },
+        "StationID": "7339",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6672",
+        "StopID": "6672",
+        "StopName": {
+          "Zh_tw": "牛稠仔",
+          "En": "Niouchouzai"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLon": 120.25503,
+          "PositionLat": 23.32573,
+          "GeoHash": "wsjs8qr41"
+        },
+        "StationID": "7340",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6673",
+        "StopID": "6673",
+        "StopName": {
+          "Zh_tw": "二莊",
+          "En": "Erjhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLon": 120.25069,
+          "PositionLat": 23.32347,
+          "GeoHash": "wsjs8mgvh"
+        },
+        "StationID": "7341",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6674",
+        "StopID": "6674",
+        "StopName": {
+          "Zh_tw": "樹仔腳",
+          "En": "Shuzihjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 34,
+        "StopPosition": {
+          "PositionLon": 120.24431,
+          "PositionLat": 23.32056,
+          "GeoHash": "wsjs8jrhp"
+        },
+        "StationID": "7342",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6675",
+        "StopID": "6675",
+        "StopName": {
+          "Zh_tw": "下中",
+          "En": "Siajhong"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 35,
+        "StopPosition": {
+          "PositionLon": 120.24142,
+          "PositionLat": 23.32008,
+          "GeoHash": "wsjs8jm1k"
+        },
+        "StationID": "7343",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24340",
+        "StopID": "24340",
+        "StopName": {
+          "Zh_tw": "下中福王宮",
+          "En": "Siajhong Fuwang Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 36,
+        "StopPosition": {
+          "PositionLon": 120.23916,
+          "PositionLat": 23.31806,
+          "GeoHash": "wsjs8hgmx"
+        },
+        "StationID": "2326",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-07T20:04:26+08:00",
+    "VersionID": 10648
+  },
+  {
+    "RouteUID": "TNN1302",
+    "RouteID": "1302",
+    "RouteName": {
+      "Zh_tw": "棕2",
+      "En": "BR2"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16202",
+        "OperatorName": {
+          "Zh_tw": "台一大車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN130232",
+    "SubRouteID": "130232",
+    "SubRouteName": {
+      "Zh_tw": "棕2 小黃 下中→鹽水→新營(繞新營醫院(小黃公車)、鹽水上帝廟)[僅供預約]",
+      "En": "BR2 Shuttle Taxi Siajhong→Sinying Bus Station[Via Sinying Hospital(Shuttle Taxi)、Yanshuei Jade Emper"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN24341",
+        "StopID": "24341",
+        "StopName": {
+          "Zh_tw": "下中福王宮",
+          "En": "Siajhong Fuwang Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.23916,
+          "PositionLat": 23.31806,
+          "GeoHash": "wsjs8hgmx"
+        },
+        "StationID": "2326",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6676",
+        "StopID": "6676",
+        "StopName": {
+          "Zh_tw": "下中",
+          "En": "Siajhong"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.24063,
+          "PositionLat": 23.31963,
+          "GeoHash": "wsjs8jhw9"
+        },
+        "StationID": "7344",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6677",
+        "StopID": "6677",
+        "StopName": {
+          "Zh_tw": "樹仔腳",
+          "En": "Shuzihjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.24423,
+          "PositionLat": 23.32051,
+          "GeoHash": "wsjs8jr5v"
+        },
+        "StationID": "7345",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6678",
+        "StopID": "6678",
+        "StopName": {
+          "Zh_tw": "二莊",
+          "En": "Erjhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.25092,
+          "PositionLat": 23.32351,
+          "GeoHash": "wsjs8muj3"
+        },
+        "StationID": "7346",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6679",
+        "StopID": "6679",
+        "StopName": {
+          "Zh_tw": "牛稠仔",
+          "En": "Niouchouzai"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.25507,
+          "PositionLat": 23.32565,
+          "GeoHash": "wsjs8qr1f"
+        },
+        "StationID": "7347",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6680",
+        "StopID": "6680",
+        "StopName": {
+          "Zh_tw": "義中里",
+          "En": "Yijhong Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.25782,
+          "PositionLat": 23.32521,
+          "GeoHash": "wsjs8w1p4"
+        },
+        "StationID": "7348",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6681",
+        "StopID": "6681",
+        "StopName": {
+          "Zh_tw": "岸內",
+          "En": "Annei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.26093,
+          "PositionLat": 23.32458,
+          "GeoHash": "wsjs8w57d"
+        },
+        "StationID": "7349",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6682",
+        "StopID": "6682",
+        "StopName": {
+          "Zh_tw": "鹽水武廟",
+          "En": "Yanshuei War God Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.26549,
+          "PositionLat": 23.32344,
+          "GeoHash": "wsjs8tysv"
+        },
+        "StationID": "7350",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6683",
+        "StopID": "6683",
+        "StopName": {
+          "Zh_tw": "鹽水國小",
+          "En": "Yanshuei Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.27056,
+          "PositionLat": 23.32366,
+          "GeoHash": "wsjs8vfq5"
+        },
+        "StationID": "7351",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16481",
+        "StopID": "16481",
+        "StopName": {
+          "Zh_tw": "汫水國小",
+          "En": "Jingshui Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.27307,
+          "PositionLat": 23.34656,
+          "GeoHash": "wsjsbfh5t"
+        },
+        "StationID": "8913",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17449",
+        "StopID": "17449",
+        "StopName": {
+          "Zh_tw": "蔦松腳",
+          "En": "Niaosongjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.27212,
+          "PositionLat": 23.33468,
+          "GeoHash": "wsjs8zgqr"
+        },
+        "StationID": "1719",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16942",
+        "StopID": "16942",
+        "StopName": {
+          "Zh_tw": "鹽水上帝廟",
+          "En": "Yanshuei Jade Emperor Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.27771,
+          "PositionLat": 23.32347,
+          "GeoHash": "wsjs8vzt1"
+        },
+        "StationID": "1292",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16303",
+        "StopID": "16303",
+        "StopName": {
+          "Zh_tw": "南榮科大",
+          "En": "Nan Jeon University of Science and Technology"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.27435,
+          "PositionLat": 23.32474,
+          "GeoHash": "wsjs8yjh7"
+        },
+        "StationID": "1063",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6684",
+        "StopID": "6684",
+        "StopName": {
+          "Zh_tw": "鹽水",
+          "En": "Yanshuei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.26771,
+          "PositionLat": 23.32035,
+          "GeoHash": "wsjs8v26b"
+        },
+        "StationID": "7134",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17617",
+        "StopID": "17617",
+        "StopName": {
+          "Zh_tw": "護庇宮",
+          "En": "Hubi Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.26741,
+          "PositionLat": 23.31816,
+          "GeoHash": "wsjs8ubn1"
+        },
+        "StationID": "1759",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6685",
+        "StopID": "6685",
+        "StopName": {
+          "Zh_tw": "橋南里",
+          "En": "Ciaonan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.26726,
+          "PositionLat": 23.31571,
+          "GeoHash": "wsjs8srzy"
+        },
+        "StationID": "7135",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6686",
+        "StopID": "6686",
+        "StopName": {
+          "Zh_tw": "竹圍尾",
+          "En": "Jhuweiwei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.26998,
+          "PositionLat": 23.31231,
+          "GeoHash": "wsjs8gcuj"
+        },
+        "StationID": "7136",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6687",
+        "StopID": "6687",
+        "StopName": {
+          "Zh_tw": "明達中學",
+          "En": "Mingda Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.27483,
+          "PositionLat": 23.31067,
+          "GeoHash": "wsjs8gt6q"
+        },
+        "StationID": "7137",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6688",
+        "StopID": "6688",
+        "StopName": {
+          "Zh_tw": "新營工業區",
+          "En": "Sinying Industrial Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.28052,
+          "PositionLat": 23.30991,
+          "GeoHash": "wsjs953w5"
+        },
+        "StationID": "7138",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23357",
+        "StopID": "23357",
+        "StopName": {
+          "Zh_tw": "新營轉運站",
+          "En": "Sinying Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.28317,
+          "PositionLat": 23.31081,
+          "GeoHash": "wsjs95ee3"
+        },
+        "StationID": "2102",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6689",
+        "StopID": "6689",
+        "StopName": {
+          "Zh_tw": "茄苳腳",
+          "En": "Ciedongjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.28413,
+          "PositionLat": 23.30935,
+          "GeoHash": "wsjs95k4z"
+        },
+        "StationID": "7139",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6690",
+        "StopID": "6690",
+        "StopName": {
+          "Zh_tw": "高公局新營工務段",
+          "En": "Freeway Bureau Sinying Public Works Section"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.29488,
+          "PositionLat": 23.30606,
+          "GeoHash": "wsjs96sp9"
+        },
+        "StationID": "7140",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6691",
+        "StopID": "6691",
+        "StopName": {
+          "Zh_tw": "營新醫院",
+          "En": "Ever New Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.30077,
+          "PositionLat": 23.30829,
+          "GeoHash": "wsjs9e0ke"
+        },
+        "StationID": "7352",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15685",
+        "StopID": "15685",
+        "StopName": {
+          "Zh_tw": "新北里",
+          "En": "Sinbei Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.30638,
+          "PositionLat": 23.31304,
+          "GeoHash": "wsjs9sh2m"
+        },
+        "StationID": "8380",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20344",
+        "StopID": "20344",
+        "StopName": {
+          "Zh_tw": "育德工家",
+          "En": "Y.T.V.S"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.31132,
+          "PositionLat": 23.31727,
+          "GeoHash": "wsjs9ub0b"
+        },
+        "StationID": "1770",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6692",
+        "StopID": "6692",
+        "StopName": {
+          "Zh_tw": "新營體育場",
+          "En": "Sinying Stadium"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.31321,
+          "PositionLat": 23.31917,
+          "GeoHash": "wsjs9v1kh"
+        },
+        "StationID": "7353",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6693",
+        "StopID": "6693",
+        "StopName": {
+          "Zh_tw": "電力公司",
+          "En": "Taiwan Power Company"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.31621,
+          "PositionLat": 23.31908,
+          "GeoHash": "wsjs9v5e6"
+        },
+        "StationID": "7449",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6694",
+        "StopID": "6694",
+        "StopName": {
+          "Zh_tw": "中正世家",
+          "En": "Jhongjhengshihjia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.31635,
+          "PositionLat": 23.31691,
+          "GeoHash": "wsjs9uewy"
+        },
+        "StationID": "7450",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6695",
+        "StopID": "6695",
+        "StopName": {
+          "Zh_tw": "新營高工",
+          "En": "Sinying Industrial Vocational High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.31661,
+          "PositionLat": 23.31381,
+          "GeoHash": "wsjs9u5uu"
+        },
+        "StationID": "7451",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6696",
+        "StopID": "6696",
+        "StopName": {
+          "Zh_tw": "民治市政中心",
+          "En": "Minjhih Civic Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLon": 120.31439,
+          "PositionLat": 23.31084,
+          "GeoHash": "wsjs9gd72"
+        },
+        "StationID": "7075",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN32962",
+        "StopID": "32962",
+        "StopName": {
+          "Zh_tw": "新營醫院(小黃公車)",
+          "En": "Sinying Hospital(Shuttle Taxi)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLon": 120.31341,
+          "PositionLat": 23.30872,
+          "GeoHash": "wsjs9g1x1"
+        },
+        "StationID": "2792",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6697",
+        "StopID": "6697",
+        "StopName": {
+          "Zh_tw": "新營醫院(三民路)",
+          "En": "Sinying Hospital(Sanmin Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLon": 120.31378,
+          "PositionLat": 23.30701,
+          "GeoHash": "wsjs9fcv4"
+        },
+        "StationID": "3454",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6698",
+        "StopID": "6698",
+        "StopName": {
+          "Zh_tw": "圓環(第一、京城銀行)",
+          "En": "Traffic Circle(First Bank、King's Town Bank)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLon": 120.31648,
+          "PositionLat": 23.30489,
+          "GeoHash": "wsjs9febc"
+        },
+        "StationID": "7426",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17515",
+        "StopID": "17515",
+        "StopName": {
+          "Zh_tw": "中營興業里",
+          "En": "Jhongying Singye Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 34,
+        "StopPosition": {
+          "PositionLon": 120.31899,
+          "PositionLat": 23.30528,
+          "GeoHash": "wsjs9fte5"
+        },
+        "StationID": "7925",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6699",
+        "StopID": "6699",
+        "StopName": {
+          "Zh_tw": "新營站",
+          "En": "Sinying Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 35,
+        "StopPosition": {
+          "PositionLon": 120.32231,
+          "PositionLat": 23.30743,
+          "GeoHash": "wsjsd4bp9"
+        },
+        "StationID": "4119",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33514",
+        "StopID": "33514",
+        "StopName": {
+          "Zh_tw": "柳營奇美醫院",
+          "En": "Liouying Chi Mei Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 36,
+        "StopPosition": {
+          "PositionLon": 120.32549,
+          "PositionLat": 23.28899,
+          "GeoHash": "wsjs6pdk5"
+        },
+        "StationID": "8289",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-07T20:04:26+08:00",
+    "VersionID": 10648
+  }
+]
