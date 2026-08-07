@@ -1,0 +1,1180 @@
+[
+  {
+    "RouteUID": "TNN1523",
+    "RouteID": "1523",
+    "RouteName": {
+      "Zh_tw": "黃23",
+      "En": "Y23"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16253",
+        "OperatorName": {
+          "Zh_tw": "中華衛星台南車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN152301",
+    "SubRouteID": "152301",
+    "SubRouteName": {
+      "Zh_tw": "黃23 西寮代天府→柳營奇美醫院",
+      "En": "Y22 Shuttle Taxi Siliao Daitian Temple→Liouying Chi Mei Hospital"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN34488",
+        "StopID": "34488",
+        "StopName": {
+          "Zh_tw": "西寮代天府",
+          "En": "Siliao Daitian Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.26325,
+          "PositionLat": 23.20866,
+          "GeoHash": "wsjs09j00"
+        },
+        "StationID": "1202",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34490",
+        "StopID": "34490",
+        "StopName": {
+          "Zh_tw": "連表",
+          "En": "Lianbiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.26577,
+          "PositionLat": 23.21052,
+          "GeoHash": "wsjs09qg5"
+        },
+        "StationID": "1321",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34491",
+        "StopID": "34491",
+        "StopName": {
+          "Zh_tw": "中營",
+          "En": "Jhongying"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.27609,
+          "PositionLat": 23.21429,
+          "GeoHash": "wsjs0fn3h"
+        },
+        "StationID": "7913",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34492",
+        "StopID": "34492",
+        "StopName": {
+          "Zh_tw": "茅港天后宮",
+          "En": "Maogang Tianhou Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.28282,
+          "PositionLat": 23.21684,
+          "GeoHash": "wsjs147rb"
+        },
+        "StationID": "1323",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34493",
+        "StopID": "34493",
+        "StopName": {
+          "Zh_tw": "橋南庄南安宮",
+          "En": "Qiaonanzhuang Nanan Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.28459,
+          "PositionLat": 23.22513,
+          "GeoHash": "wsjs1hh84"
+        },
+        "StationID": "1325",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34494",
+        "StopID": "34494",
+        "StopName": {
+          "Zh_tw": "賀建里下橋頭",
+          "En": "Hejian Vil. Xiaqiaotou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.28418,
+          "PositionLat": 23.23268,
+          "GeoHash": "wsjs1jkk0"
+        },
+        "StationID": "1327",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34495",
+        "StopID": "34495",
+        "StopName": {
+          "Zh_tw": "洲子",
+          "En": "Jhouzih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.28971,
+          "PositionLat": 23.24902,
+          "GeoHash": "wsjs32273"
+        },
+        "StationID": "7921",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34496",
+        "StopID": "34496",
+        "StopName": {
+          "Zh_tw": "麻豆寮",
+          "En": "Madouliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.29528,
+          "PositionLat": 23.25355,
+          "GeoHash": "wsjs33hme"
+        },
+        "StationID": "7922",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34497",
+        "StopID": "34497",
+        "StopName": {
+          "Zh_tw": "重興宮",
+          "En": "Chongxing Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.29692,
+          "PositionLat": 23.27258,
+          "GeoHash": "wsjs3kts9"
+        },
+        "StationID": "1329",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34498",
+        "StopID": "34498",
+        "StopName": {
+          "Zh_tw": "八翁里",
+          "En": "Bawong Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.30327,
+          "PositionLat": 23.27602,
+          "GeoHash": "wsjs3t60t"
+        },
+        "StationID": "8591",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34499",
+        "StopID": "34499",
+        "StopName": {
+          "Zh_tw": "農水署柳營工作站",
+          "En": "Irrigation Agency Liouying Workstation"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.30781,
+          "PositionLat": 23.27611,
+          "GeoHash": "wsjs3tm3p"
+        },
+        "StationID": "2743",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34501",
+        "StopID": "34501",
+        "StopName": {
+          "Zh_tw": "劉家古厝",
+          "En": "Liou’s Historic House"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.30981,
+          "PositionLat": 23.27658,
+          "GeoHash": "wsjs3tqgv"
+        },
+        "StationID": "8629",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34502",
+        "StopID": "34502",
+        "StopName": {
+          "Zh_tw": "柳營火車站",
+          "En": "Liouying Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.32218,
+          "PositionLat": 23.27728,
+          "GeoHash": "wsjs3vrzy"
+        },
+        "StationID": "8290",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34503",
+        "StopID": "34503",
+        "StopName": {
+          "Zh_tw": "鳳和中學",
+          "En": "Fonghe Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.32468,
+          "PositionLat": 23.27906,
+          "GeoHash": "wsjs6jcf2"
+        },
+        "StationID": "7228",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34504",
+        "StopID": "34504",
+        "StopName": {
+          "Zh_tw": "柳營奇美醫院",
+          "En": "Liouying Chi Mei Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.32549,
+          "PositionLat": 23.28899,
+          "GeoHash": "wsjs6pdk5"
+        },
+        "StationID": "8289",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-07T20:04:26+08:00",
+    "VersionID": 10648
+  },
+  {
+    "RouteUID": "TNN1523",
+    "RouteID": "1523",
+    "RouteName": {
+      "Zh_tw": "黃23",
+      "En": "Y23"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16253",
+        "OperatorName": {
+          "Zh_tw": "中華衛星台南車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN152302",
+    "SubRouteID": "152302",
+    "SubRouteName": {
+      "Zh_tw": "黃23 柳營奇美醫院→西寮代天府",
+      "En": "Y22 Shuttle Taxi Siliao Daitian Temple→Liouying Chi Mei Hospital"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN34505",
+        "StopID": "34505",
+        "StopName": {
+          "Zh_tw": "柳營奇美醫院",
+          "En": "Liouying Chi Mei Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.32549,
+          "PositionLat": 23.28899,
+          "GeoHash": "wsjs6pdk5"
+        },
+        "StationID": "8289",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34506",
+        "StopID": "34506",
+        "StopName": {
+          "Zh_tw": "鳳和中學",
+          "En": "Fonghe Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.32431,
+          "PositionLat": 23.27921,
+          "GeoHash": "wsjs6jc7p"
+        },
+        "StationID": "7229",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34507",
+        "StopID": "34507",
+        "StopName": {
+          "Zh_tw": "柳營火車站",
+          "En": "Liouying Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.32218,
+          "PositionLat": 23.27728,
+          "GeoHash": "wsjs3vrzy"
+        },
+        "StationID": "8290",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34508",
+        "StopID": "34508",
+        "StopName": {
+          "Zh_tw": "劉家古厝",
+          "En": "Liou’s Historic House"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.30992,
+          "PositionLat": 23.27674,
+          "GeoHash": "wsjs3trhb"
+        },
+        "StationID": "8628",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34510",
+        "StopID": "34510",
+        "StopName": {
+          "Zh_tw": "農水署柳營工作站",
+          "En": "Irrigation Agency Liouying Workstation"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.30785,
+          "PositionLat": 23.27621,
+          "GeoHash": "wsjs3tm9b"
+        },
+        "StationID": "2742",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34511",
+        "StopID": "34511",
+        "StopName": {
+          "Zh_tw": "八翁里",
+          "En": "Bawong Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.30326,
+          "PositionLat": 23.27612,
+          "GeoHash": "wsjs3t61j"
+        },
+        "StationID": "8590",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34512",
+        "StopID": "34512",
+        "StopName": {
+          "Zh_tw": "重興宮",
+          "En": "Chongxing Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.29674,
+          "PositionLat": 23.27255,
+          "GeoHash": "wsjs3ktkm"
+        },
+        "StationID": "1330",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34513",
+        "StopID": "34513",
+        "StopName": {
+          "Zh_tw": "麻豆寮",
+          "En": "Madouliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.29521,
+          "PositionLat": 23.25362,
+          "GeoHash": "wsjs33hq1"
+        },
+        "StationID": "7927",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34514",
+        "StopID": "34514",
+        "StopName": {
+          "Zh_tw": "洲子",
+          "En": "Jhouzih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.28961,
+          "PositionLat": 23.24906,
+          "GeoHash": "wsjs3225x"
+        },
+        "StationID": "7928",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34515",
+        "StopID": "34515",
+        "StopName": {
+          "Zh_tw": "賀建里下橋頭",
+          "En": "Hejian Vil. Xiaqiaotou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.28418,
+          "PositionLat": 23.23287,
+          "GeoHash": "wsjs1jkm2"
+        },
+        "StationID": "1328",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34516",
+        "StopID": "34516",
+        "StopName": {
+          "Zh_tw": "橋南庄南安宮",
+          "En": "Qiaonanzhuang Nanan Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.28451,
+          "PositionLat": 23.22514,
+          "GeoHash": "wsjs1hh80"
+        },
+        "StationID": "1326",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34517",
+        "StopID": "34517",
+        "StopName": {
+          "Zh_tw": "茅港天后宮",
+          "En": "Maogang Tianhou Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.28261,
+          "PositionLat": 23.21691,
+          "GeoHash": "wsjs14e07"
+        },
+        "StationID": "1324",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34518",
+        "StopID": "34518",
+        "StopName": {
+          "Zh_tw": "中營",
+          "En": "Jhongying"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.27603,
+          "PositionLat": 23.21491,
+          "GeoHash": "wsjs0fnkd"
+        },
+        "StationID": "7936",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34519",
+        "StopID": "34519",
+        "StopName": {
+          "Zh_tw": "連表",
+          "En": "Lianbiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.26569,
+          "PositionLat": 23.21037,
+          "GeoHash": "wsjs09qf1"
+        },
+        "StationID": "1322",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34489",
+        "StopID": "34489",
+        "StopName": {
+          "Zh_tw": "西寮代天府",
+          "En": "Siliao Daitian Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.26325,
+          "PositionLat": 23.20866,
+          "GeoHash": "wsjs09j00"
+        },
+        "StationID": "1202",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-07T20:04:26+08:00",
+    "VersionID": 10648
+  },
+  {
+    "RouteUID": "TNN1523",
+    "RouteID": "1523",
+    "RouteName": {
+      "Zh_tw": "黃23",
+      "En": "Y23"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16253",
+        "OperatorName": {
+          "Zh_tw": "中華衛星台南車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN152311",
+    "SubRouteID": "152311",
+    "SubRouteName": {
+      "Zh_tw": "黃23 西寮代天府→柳營奇美醫院[僅供預約]",
+      "En": "Y22 Shuttle Taxi Siliao Daitian Temple→Liouying Chi Mei Hospital[Reservation only]"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN34488",
+        "StopID": "34488",
+        "StopName": {
+          "Zh_tw": "西寮代天府",
+          "En": "Siliao Daitian Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.26325,
+          "PositionLat": 23.20866,
+          "GeoHash": "wsjs09j00"
+        },
+        "StationID": "1202",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34490",
+        "StopID": "34490",
+        "StopName": {
+          "Zh_tw": "連表",
+          "En": "Lianbiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.26577,
+          "PositionLat": 23.21052,
+          "GeoHash": "wsjs09qg5"
+        },
+        "StationID": "1321",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34491",
+        "StopID": "34491",
+        "StopName": {
+          "Zh_tw": "中營",
+          "En": "Jhongying"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.27609,
+          "PositionLat": 23.21429,
+          "GeoHash": "wsjs0fn3h"
+        },
+        "StationID": "7913",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34492",
+        "StopID": "34492",
+        "StopName": {
+          "Zh_tw": "茅港天后宮",
+          "En": "Maogang Tianhou Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.28282,
+          "PositionLat": 23.21684,
+          "GeoHash": "wsjs147rb"
+        },
+        "StationID": "1323",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34493",
+        "StopID": "34493",
+        "StopName": {
+          "Zh_tw": "橋南庄南安宮",
+          "En": "Qiaonanzhuang Nanan Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.28459,
+          "PositionLat": 23.22513,
+          "GeoHash": "wsjs1hh84"
+        },
+        "StationID": "1325",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34494",
+        "StopID": "34494",
+        "StopName": {
+          "Zh_tw": "賀建里下橋頭",
+          "En": "Hejian Vil. Xiaqiaotou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.28418,
+          "PositionLat": 23.23268,
+          "GeoHash": "wsjs1jkk0"
+        },
+        "StationID": "1327",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34495",
+        "StopID": "34495",
+        "StopName": {
+          "Zh_tw": "洲子",
+          "En": "Jhouzih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.28971,
+          "PositionLat": 23.24902,
+          "GeoHash": "wsjs32273"
+        },
+        "StationID": "7921",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34496",
+        "StopID": "34496",
+        "StopName": {
+          "Zh_tw": "麻豆寮",
+          "En": "Madouliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.29528,
+          "PositionLat": 23.25355,
+          "GeoHash": "wsjs33hme"
+        },
+        "StationID": "7922",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34497",
+        "StopID": "34497",
+        "StopName": {
+          "Zh_tw": "重興宮",
+          "En": "Chongxing Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.29692,
+          "PositionLat": 23.27258,
+          "GeoHash": "wsjs3kts9"
+        },
+        "StationID": "1329",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34498",
+        "StopID": "34498",
+        "StopName": {
+          "Zh_tw": "八翁里",
+          "En": "Bawong Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.30327,
+          "PositionLat": 23.27602,
+          "GeoHash": "wsjs3t60t"
+        },
+        "StationID": "8591",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34499",
+        "StopID": "34499",
+        "StopName": {
+          "Zh_tw": "農水署柳營工作站",
+          "En": "Irrigation Agency Liouying Workstation"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.30781,
+          "PositionLat": 23.27611,
+          "GeoHash": "wsjs3tm3p"
+        },
+        "StationID": "2743",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34500",
+        "StopID": "34500",
+        "StopName": {
+          "Zh_tw": "吳晉淮音樂紀念館",
+          "En": "Wu Jin-Huai Memorial Hall"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.30178,
+          "PositionLat": 23.28689,
+          "GeoHash": "wsjs3x1pf"
+        },
+        "StationID": "1886",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34501",
+        "StopID": "34501",
+        "StopName": {
+          "Zh_tw": "劉家古厝",
+          "En": "Liou’s Historic House"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.30981,
+          "PositionLat": 23.27658,
+          "GeoHash": "wsjs3tqgv"
+        },
+        "StationID": "8629",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34502",
+        "StopID": "34502",
+        "StopName": {
+          "Zh_tw": "柳營火車站",
+          "En": "Liouying Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.32218,
+          "PositionLat": 23.27728,
+          "GeoHash": "wsjs3vrzy"
+        },
+        "StationID": "8290",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34503",
+        "StopID": "34503",
+        "StopName": {
+          "Zh_tw": "鳳和中學",
+          "En": "Fonghe Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.32468,
+          "PositionLat": 23.27906,
+          "GeoHash": "wsjs6jcf2"
+        },
+        "StationID": "7228",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34504",
+        "StopID": "34504",
+        "StopName": {
+          "Zh_tw": "柳營奇美醫院",
+          "En": "Liouying Chi Mei Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.32549,
+          "PositionLat": 23.28899,
+          "GeoHash": "wsjs6pdk5"
+        },
+        "StationID": "8289",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-07T20:04:26+08:00",
+    "VersionID": 10648
+  },
+  {
+    "RouteUID": "TNN1523",
+    "RouteID": "1523",
+    "RouteName": {
+      "Zh_tw": "黃23",
+      "En": "Y23"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16253",
+        "OperatorName": {
+          "Zh_tw": "中華衛星台南車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN152312",
+    "SubRouteID": "152312",
+    "SubRouteName": {
+      "Zh_tw": "黃23 柳營奇美醫院→西寮代天府[僅供預約]",
+      "En": "Y22 Shuttle Taxi Siliao Daitian Temple→Liouying Chi Mei Hospital[Reservation only]"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN34505",
+        "StopID": "34505",
+        "StopName": {
+          "Zh_tw": "柳營奇美醫院",
+          "En": "Liouying Chi Mei Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.32549,
+          "PositionLat": 23.28899,
+          "GeoHash": "wsjs6pdk5"
+        },
+        "StationID": "8289",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34506",
+        "StopID": "34506",
+        "StopName": {
+          "Zh_tw": "鳳和中學",
+          "En": "Fonghe Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.32431,
+          "PositionLat": 23.27921,
+          "GeoHash": "wsjs6jc7p"
+        },
+        "StationID": "7229",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34507",
+        "StopID": "34507",
+        "StopName": {
+          "Zh_tw": "柳營火車站",
+          "En": "Liouying Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.32218,
+          "PositionLat": 23.27728,
+          "GeoHash": "wsjs3vrzy"
+        },
+        "StationID": "8290",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34508",
+        "StopID": "34508",
+        "StopName": {
+          "Zh_tw": "劉家古厝",
+          "En": "Liou’s Historic House"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.30992,
+          "PositionLat": 23.27674,
+          "GeoHash": "wsjs3trhb"
+        },
+        "StationID": "8628",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34509",
+        "StopID": "34509",
+        "StopName": {
+          "Zh_tw": "吳晉淮音樂紀念館",
+          "En": "Wu Jin-Huai Memorial Hall"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.30178,
+          "PositionLat": 23.28689,
+          "GeoHash": "wsjs3x1pf"
+        },
+        "StationID": "1886",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34510",
+        "StopID": "34510",
+        "StopName": {
+          "Zh_tw": "農水署柳營工作站",
+          "En": "Irrigation Agency Liouying Workstation"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.30785,
+          "PositionLat": 23.27621,
+          "GeoHash": "wsjs3tm9b"
+        },
+        "StationID": "2742",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34511",
+        "StopID": "34511",
+        "StopName": {
+          "Zh_tw": "八翁里",
+          "En": "Bawong Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.30326,
+          "PositionLat": 23.27612,
+          "GeoHash": "wsjs3t61j"
+        },
+        "StationID": "8590",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34512",
+        "StopID": "34512",
+        "StopName": {
+          "Zh_tw": "重興宮",
+          "En": "Chongxing Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.29674,
+          "PositionLat": 23.27255,
+          "GeoHash": "wsjs3ktkm"
+        },
+        "StationID": "1330",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34513",
+        "StopID": "34513",
+        "StopName": {
+          "Zh_tw": "麻豆寮",
+          "En": "Madouliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.29521,
+          "PositionLat": 23.25362,
+          "GeoHash": "wsjs33hq1"
+        },
+        "StationID": "7927",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34514",
+        "StopID": "34514",
+        "StopName": {
+          "Zh_tw": "洲子",
+          "En": "Jhouzih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.28961,
+          "PositionLat": 23.24906,
+          "GeoHash": "wsjs3225x"
+        },
+        "StationID": "7928",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34515",
+        "StopID": "34515",
+        "StopName": {
+          "Zh_tw": "賀建里下橋頭",
+          "En": "Hejian Vil. Xiaqiaotou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.28418,
+          "PositionLat": 23.23287,
+          "GeoHash": "wsjs1jkm2"
+        },
+        "StationID": "1328",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34516",
+        "StopID": "34516",
+        "StopName": {
+          "Zh_tw": "橋南庄南安宮",
+          "En": "Qiaonanzhuang Nanan Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.28451,
+          "PositionLat": 23.22514,
+          "GeoHash": "wsjs1hh80"
+        },
+        "StationID": "1326",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34517",
+        "StopID": "34517",
+        "StopName": {
+          "Zh_tw": "茅港天后宮",
+          "En": "Maogang Tianhou Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.28261,
+          "PositionLat": 23.21691,
+          "GeoHash": "wsjs14e07"
+        },
+        "StationID": "1324",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34518",
+        "StopID": "34518",
+        "StopName": {
+          "Zh_tw": "中營",
+          "En": "Jhongying"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.27603,
+          "PositionLat": 23.21491,
+          "GeoHash": "wsjs0fnkd"
+        },
+        "StationID": "7936",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34519",
+        "StopID": "34519",
+        "StopName": {
+          "Zh_tw": "連表",
+          "En": "Lianbiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.26569,
+          "PositionLat": 23.21037,
+          "GeoHash": "wsjs09qf1"
+        },
+        "StationID": "1322",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34489",
+        "StopID": "34489",
+        "StopName": {
+          "Zh_tw": "西寮代天府",
+          "En": "Siliao Daitian Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.26325,
+          "PositionLat": 23.20866,
+          "GeoHash": "wsjs09j00"
+        },
+        "StationID": "1202",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-07T20:04:26+08:00",
+    "VersionID": 10648
+  }
+]

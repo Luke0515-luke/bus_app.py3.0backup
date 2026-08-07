@@ -1,0 +1,950 @@
+[
+  {
+    "RouteUID": "TNN1103",
+    "RouteID": "1103",
+    "RouteName": {
+      "Zh_tw": "綠3",
+      "En": "G3"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10160",
+        "OperatorName": {
+          "Zh_tw": "興南客運",
+          "En": "Shing Nan Bus Co., Ltd."
+        },
+        "OperatorCode": "ShingNanBus",
+        "OperatorNo": "1601"
+      }
+    ],
+    "SubRouteUID": "TNN110301",
+    "SubRouteID": "110301",
+    "SubRouteName": {
+      "Zh_tw": "綠3 新化→新市→看西→南科→實中→善化火車站",
+      "En": "G3 Sinhua Bus Station→Shanhua Bus Station"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN4737",
+        "StopID": "4737",
+        "StopName": {
+          "Zh_tw": "新化站",
+          "En": "Sinhua Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.30945,
+          "PositionLat": 23.03594,
+          "GeoHash": "wsje19wdj"
+        },
+        "StationID": "2225",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31117",
+        "StopID": "31117",
+        "StopName": {
+          "Zh_tw": "清水寺",
+          "En": "Cingshuei Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.30494,
+          "PositionLat": 23.03579,
+          "GeoHash": "wsje19e3h"
+        },
+        "StationID": "2228",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31118",
+        "StopID": "31118",
+        "StopName": {
+          "Zh_tw": "唪口",
+          "En": "Fongkou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.30064,
+          "PositionLat": 23.03638,
+          "GeoHash": "wsje198k8"
+        },
+        "StationID": "5117",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31119",
+        "StopID": "31119",
+        "StopName": {
+          "Zh_tw": "唪口大新",
+          "En": "Fongkou Dasin"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.29688,
+          "PositionLat": 23.04014,
+          "GeoHash": "wsje16md8"
+        },
+        "StationID": "2830",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31120",
+        "StopID": "31120",
+        "StopName": {
+          "Zh_tw": "新化北勢里",
+          "En": "Sinhua Beishih Vil"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.29213,
+          "PositionLat": 23.04474,
+          "GeoHash": "wsje174j3"
+        },
+        "StationID": "2832",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4743",
+        "StopID": "4743",
+        "StopName": {
+          "Zh_tw": "永新社區",
+          "En": "Yongsin Community"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.29648,
+          "PositionLat": 23.06058,
+          "GeoHash": "wsje1qj1x"
+        },
+        "StationID": "7758",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4744",
+        "StopID": "4744",
+        "StopName": {
+          "Zh_tw": "中信科技大學",
+          "En": "CTBC University of Technology"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.29408,
+          "PositionLat": 23.06477,
+          "GeoHash": "wsje1qg6p"
+        },
+        "StationID": "7759",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4745",
+        "StopID": "4745",
+        "StopName": {
+          "Zh_tw": "新市火車站",
+          "En": "Sinshih Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.29001,
+          "PositionLat": 23.06807,
+          "GeoHash": "wsje1r2t0"
+        },
+        "StationID": "3411",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4746",
+        "StopID": "4746",
+        "StopName": {
+          "Zh_tw": "新市電信局",
+          "En": "Sinshih Telecom Co. Ltd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.29173,
+          "PositionLat": 23.07237,
+          "GeoHash": "wsje321y2"
+        },
+        "StationID": "3413",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4747",
+        "StopID": "4747",
+        "StopName": {
+          "Zh_tw": "新市",
+          "En": "Sinshih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.29183,
+          "PositionLat": 23.07714,
+          "GeoHash": "wsje331f4"
+        },
+        "StationID": "3412",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4748",
+        "StopID": "4748",
+        "StopName": {
+          "Zh_tw": "社內東",
+          "En": "East Shenei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.28501,
+          "PositionLat": 23.07732,
+          "GeoHash": "wsje31hg5"
+        },
+        "StationID": "3026",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4749",
+        "StopID": "4749",
+        "StopName": {
+          "Zh_tw": "社內",
+          "En": "Shenei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.27991,
+          "PositionLat": 23.07625,
+          "GeoHash": "wsje30chv"
+        },
+        "StationID": "3027",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4750",
+        "StopID": "4750",
+        "StopName": {
+          "Zh_tw": "大洲",
+          "En": "Dajhou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.26027,
+          "PositionLat": 23.07053,
+          "GeoHash": "wsje0xfge"
+        },
+        "StationID": "3028",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4752",
+        "StopID": "4752",
+        "StopName": {
+          "Zh_tw": "孟昌社區",
+          "En": "Mengchang Community"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.25999,
+          "PositionLat": 23.08933,
+          "GeoHash": "wsje2e69h"
+        },
+        "StationID": "3030",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4751",
+        "StopID": "4751",
+        "StopName": {
+          "Zh_tw": "看西",
+          "En": "Kanxi"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.25737,
+          "PositionLat": 23.08901,
+          "GeoHash": "wsje2e0xp"
+        },
+        "StationID": "3029",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN21750",
+        "StopID": "21750",
+        "StopName": {
+          "Zh_tw": "孟昌社區",
+          "En": "Mengchang Community"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.26001,
+          "PositionLat": 23.08921,
+          "GeoHash": "wsje2e68m"
+        },
+        "StationID": "3037",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4753",
+        "StopID": "4753",
+        "StopName": {
+          "Zh_tw": "樹谷活力館",
+          "En": "Recreation Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.26275,
+          "PositionLat": 23.10241,
+          "GeoHash": "wsje2tstm"
+        },
+        "StationID": "3031",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4754",
+        "StopID": "4754",
+        "StopName": {
+          "Zh_tw": "湖濱雅舍",
+          "En": "Hubin Yashe"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.27041,
+          "PositionLat": 23.10828,
+          "GeoHash": "wsje2ydpr"
+        },
+        "StationID": "3032",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4755",
+        "StopID": "4755",
+        "StopName": {
+          "Zh_tw": "群創2.3廠",
+          "En": "Between No. 2 and NO.3 Factory of LNNOLUX"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.27419,
+          "PositionLat": 23.10433,
+          "GeoHash": "wsje2yhbr"
+        },
+        "StationID": "3033",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4756",
+        "StopID": "4756",
+        "StopName": {
+          "Zh_tw": "西拉雅公園",
+          "En": "Siraya Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.28136,
+          "PositionLat": 23.10227,
+          "GeoHash": "wsje3jdhq"
+        },
+        "StationID": "3459",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4757",
+        "StopID": "4757",
+        "StopName": {
+          "Zh_tw": "南科實中",
+          "En": "Nanke International Experimental High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.29002,
+          "PositionLat": 23.10423,
+          "GeoHash": "wsje3mbxb"
+        },
+        "StationID": "3419",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4758",
+        "StopID": "4758",
+        "StopName": {
+          "Zh_tw": "亞蔬中心",
+          "En": "AVRDC - The World Vegetable Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.29451,
+          "PositionLat": 23.11515,
+          "GeoHash": "wsje3rgz9"
+        },
+        "StationID": "3424",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4759",
+        "StopID": "4759",
+        "StopName": {
+          "Zh_tw": "坐駕里",
+          "En": "Zuojia Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.29411,
+          "PositionLat": 23.12623,
+          "GeoHash": "wsje9652p"
+        },
+        "StationID": "3425",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4760",
+        "StopID": "4760",
+        "StopName": {
+          "Zh_tw": "大成國小",
+          "En": "Dacheng Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.29531,
+          "PositionLat": 23.12924,
+          "GeoHash": "wsje96s3e"
+        },
+        "StationID": "3429",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4761",
+        "StopID": "4761",
+        "StopName": {
+          "Zh_tw": "善化高中",
+          "En": "Shanhua Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.30042,
+          "PositionLat": 23.13002,
+          "GeoHash": "wsje9d8n4"
+        },
+        "StationID": "3430",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4762",
+        "StopID": "4762",
+        "StopName": {
+          "Zh_tw": "善化轉運站",
+          "En": "Shanhua Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.30603,
+          "PositionLat": 23.13361,
+          "GeoHash": "wsje9ek5j"
+        },
+        "StationID": "7764",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-07T20:04:26+08:00",
+    "VersionID": 10648
+  },
+  {
+    "RouteUID": "TNN1103",
+    "RouteID": "1103",
+    "RouteName": {
+      "Zh_tw": "綠3",
+      "En": "G3"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10160",
+        "OperatorName": {
+          "Zh_tw": "興南客運",
+          "En": "Shing Nan Bus Co., Ltd."
+        },
+        "OperatorCode": "ShingNanBus",
+        "OperatorNo": "1601"
+      }
+    ],
+    "SubRouteUID": "TNN110302",
+    "SubRouteID": "110302",
+    "SubRouteName": {
+      "Zh_tw": "綠3 善化火車站→實中→南科→看西→新市→新化",
+      "En": "G3 Shanhua Bus Station→Sinhua Bus Station"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN4763",
+        "StopID": "4763",
+        "StopName": {
+          "Zh_tw": "善化轉運站",
+          "En": "Shanhua Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.30603,
+          "PositionLat": 23.13361,
+          "GeoHash": "wsje9ek5j"
+        },
+        "StationID": "7764",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4764",
+        "StopID": "4764",
+        "StopName": {
+          "Zh_tw": "善化高中",
+          "En": "Shanhua Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.30036,
+          "PositionLat": 23.13012,
+          "GeoHash": "wsje9d8n9"
+        },
+        "StationID": "3451",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4765",
+        "StopID": "4765",
+        "StopName": {
+          "Zh_tw": "大成國小",
+          "En": "Dacheng Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.29534,
+          "PositionLat": 23.12936,
+          "GeoHash": "wsje96s6k"
+        },
+        "StationID": "3452",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4766",
+        "StopID": "4766",
+        "StopName": {
+          "Zh_tw": "坐駕里",
+          "En": "Zuojia Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.29405,
+          "PositionLat": 23.12592,
+          "GeoHash": "wsje93gqn"
+        },
+        "StationID": "3456",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4767",
+        "StopID": "4767",
+        "StopName": {
+          "Zh_tw": "亞蔬中心",
+          "En": "AVRDC - The World Vegetable Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.29436,
+          "PositionLat": 23.11483,
+          "GeoHash": "wsje3rgtt"
+        },
+        "StationID": "3457",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4768",
+        "StopID": "4768",
+        "StopName": {
+          "Zh_tw": "南科實中",
+          "En": "Nanke International Experimental High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.29093,
+          "PositionLat": 23.10494,
+          "GeoHash": "wsje3q1hj"
+        },
+        "StationID": "3462",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4769",
+        "StopID": "4769",
+        "StopName": {
+          "Zh_tw": "西拉雅公園",
+          "En": "Siraya Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.28129,
+          "PositionLat": 23.10259,
+          "GeoHash": "wsje3jdnm"
+        },
+        "StationID": "3422",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4770",
+        "StopID": "4770",
+        "StopName": {
+          "Zh_tw": "群創2.3廠",
+          "En": "Between No. 2 and NO.3 Factory of LNNOLUX"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.27437,
+          "PositionLat": 23.10436,
+          "GeoHash": "wsje2yj0e"
+        },
+        "StationID": "3034",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4771",
+        "StopID": "4771",
+        "StopName": {
+          "Zh_tw": "湖濱雅舍",
+          "En": "Hubin Yashe"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.27025,
+          "PositionLat": 23.10848,
+          "GeoHash": "wsje2yf0e"
+        },
+        "StationID": "3035",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4772",
+        "StopID": "4772",
+        "StopName": {
+          "Zh_tw": "樹谷活力館",
+          "En": "Recreation Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.26271,
+          "PositionLat": 23.10238,
+          "GeoHash": "wsje2tsth"
+        },
+        "StationID": "3036",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN21751",
+        "StopID": "21751",
+        "StopName": {
+          "Zh_tw": "孟昌社區",
+          "En": "Mengchang Community"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.25999,
+          "PositionLat": 23.08933,
+          "GeoHash": "wsje2e69h"
+        },
+        "StationID": "3030",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4774",
+        "StopID": "4774",
+        "StopName": {
+          "Zh_tw": "看西",
+          "En": "Kanxi"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.25751,
+          "PositionLat": 23.08896,
+          "GeoHash": "wsje2e0yg"
+        },
+        "StationID": "3038",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4773",
+        "StopID": "4773",
+        "StopName": {
+          "Zh_tw": "孟昌社區",
+          "En": "Mengchang Community"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.26001,
+          "PositionLat": 23.08921,
+          "GeoHash": "wsje2e68m"
+        },
+        "StationID": "3037",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4775",
+        "StopID": "4775",
+        "StopName": {
+          "Zh_tw": "大洲",
+          "En": "Dajhou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.26021,
+          "PositionLat": 23.07029,
+          "GeoHash": "wsje0xff1"
+        },
+        "StationID": "3039",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4776",
+        "StopID": "4776",
+        "StopName": {
+          "Zh_tw": "社內",
+          "En": "Shenei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.27978,
+          "PositionLat": 23.07613,
+          "GeoHash": "wsje30ch4"
+        },
+        "StationID": "3040",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4777",
+        "StopID": "4777",
+        "StopName": {
+          "Zh_tw": "社內東",
+          "En": "East Shenei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.28506,
+          "PositionLat": 23.07727,
+          "GeoHash": "wsje31hfv"
+        },
+        "StationID": "3041",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4778",
+        "StopID": "4778",
+        "StopName": {
+          "Zh_tw": "新市",
+          "En": "Sinshih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.29162,
+          "PositionLat": 23.07644,
+          "GeoHash": "wsje32cwj"
+        },
+        "StationID": "3469",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4779",
+        "StopID": "4779",
+        "StopName": {
+          "Zh_tw": "新市電信局",
+          "En": "Sinshih Telecom Co. Ltd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.29166,
+          "PositionLat": 23.07218,
+          "GeoHash": "wsje321tn"
+        },
+        "StationID": "3468",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4780",
+        "StopID": "4780",
+        "StopName": {
+          "Zh_tw": "新市火車站",
+          "En": "Sinshih Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.29001,
+          "PositionLat": 23.06807,
+          "GeoHash": "wsje1r2t0"
+        },
+        "StationID": "3411",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4781",
+        "StopID": "4781",
+        "StopName": {
+          "Zh_tw": "中信科技大學",
+          "En": "CTBC University of Technology"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.29491,
+          "PositionLat": 23.06349,
+          "GeoHash": "wsje1qs4d"
+        },
+        "StationID": "7774",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4782",
+        "StopID": "4782",
+        "StopName": {
+          "Zh_tw": "永新社區",
+          "En": "Yongsin Community"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.29628,
+          "PositionLat": 23.06059,
+          "GeoHash": "wsje1qj1d"
+        },
+        "StationID": "7775",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31121",
+        "StopID": "31121",
+        "StopName": {
+          "Zh_tw": "新化北勢里",
+          "En": "Sinhua Beishih Vil"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.29206,
+          "PositionLat": 23.04464,
+          "GeoHash": "wsje174hb"
+        },
+        "StationID": "2833",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31122",
+        "StopID": "31122",
+        "StopName": {
+          "Zh_tw": "唪口大新",
+          "En": "Fongkou Dasin"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.29627,
+          "PositionLat": 23.04046,
+          "GeoHash": "wsje16mh6"
+        },
+        "StationID": "2831",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31123",
+        "StopID": "31123",
+        "StopName": {
+          "Zh_tw": "唪口",
+          "En": "Fongkou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.30073,
+          "PositionLat": 23.03631,
+          "GeoHash": "wsje198k4"
+        },
+        "StationID": "5116",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31124",
+        "StopID": "31124",
+        "StopName": {
+          "Zh_tw": "清水寺",
+          "En": "Cingshuei Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.30503,
+          "PositionLat": 23.03571,
+          "GeoHash": "wsje19e2w"
+        },
+        "StationID": "2223",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN4788",
+        "StopID": "4788",
+        "StopName": {
+          "Zh_tw": "新化站",
+          "En": "Sinhua Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.30945,
+          "PositionLat": 23.03594,
+          "GeoHash": "wsje19wdj"
+        },
+        "StationID": "2225",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-07T20:04:26+08:00",
+    "VersionID": 10648
+  }
+]

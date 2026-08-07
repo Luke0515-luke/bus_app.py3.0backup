@@ -1,0 +1,727 @@
+[
+  {
+    "RouteUID": "TNN1704",
+    "RouteID": "1704",
+    "RouteName": {
+      "Zh_tw": "黃14-1",
+      "En": "Y14-1"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16202",
+        "OperatorName": {
+          "Zh_tw": "台一大車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN170401",
+    "SubRouteID": "170401",
+    "SubRouteName": {
+      "Zh_tw": "黃14-1 小黃 白河→內角 ",
+      "En": "Y14-1 Shuttle Taxi Baihe Bus Station→Neijiao"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN20730",
+        "StopID": "20730",
+        "StopName": {
+          "Zh_tw": "白河站",
+          "En": "Baihe Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.41366,
+          "PositionLat": 23.34758,
+          "GeoHash": "wsjsu4699"
+        },
+        "StationID": "7465",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20732",
+        "StopID": "20732",
+        "StopName": {
+          "Zh_tw": "白河分局",
+          "En": "Baihe Police Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.41628,
+          "PositionLat": 23.35114,
+          "GeoHash": "wsjsu4uqn"
+        },
+        "StationID": "7000",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20733",
+        "StopID": "20733",
+        "StopName": {
+          "Zh_tw": "舊地政",
+          "En": "Jioudijheng"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.41969,
+          "PositionLat": 23.35557,
+          "GeoHash": "wsjsu5ybn"
+        },
+        "StationID": "7001",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20734",
+        "StopID": "20734",
+        "StopName": {
+          "Zh_tw": "白河國中",
+          "En": "Baihe Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.42431,
+          "PositionLat": 23.36187,
+          "GeoHash": "wsjsukfkc"
+        },
+        "StationID": "7002",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20735",
+        "StopID": "20735",
+        "StopName": {
+          "Zh_tw": "三間厝",
+          "En": "Sanjiancuo"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.42851,
+          "PositionLat": 23.36468,
+          "GeoHash": "wsjsummm5"
+        },
+        "StationID": "7003",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20736",
+        "StopID": "20736",
+        "StopName": {
+          "Zh_tw": "溪洲路口",
+          "En": "Sijhou Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.43419,
+          "PositionLat": 23.36593,
+          "GeoHash": "wsjsut9s2"
+        },
+        "StationID": "7004",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20737",
+        "StopID": "20737",
+        "StopName": {
+          "Zh_tw": "埤子頭",
+          "En": "Bizihtou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.43821,
+          "PositionLat": 23.36808,
+          "GeoHash": "wsjsuwh2v"
+        },
+        "StationID": "7005",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20738",
+        "StopID": "20738",
+        "StopName": {
+          "Zh_tw": "竹門活動中心",
+          "En": "Jhumen Community Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.44431,
+          "PositionLat": 23.37653,
+          "GeoHash": "wsjsuz8f5"
+        },
+        "StationID": "1582",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20739",
+        "StopID": "20739",
+        "StopName": {
+          "Zh_tw": "竹圍子",
+          "En": "Jhuweizih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.43895,
+          "PositionLat": 23.37645,
+          "GeoHash": "wsjsuxscw"
+        },
+        "StationID": "8920",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20740",
+        "StopID": "20740",
+        "StopName": {
+          "Zh_tw": "番子園",
+          "En": "Fanzihyuan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.43734,
+          "PositionLat": 23.37642,
+          "GeoHash": "wsjsuxec9"
+        },
+        "StationID": "8918",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20741",
+        "StopID": "20741",
+        "StopName": {
+          "Zh_tw": "美雅傢俱",
+          "En": "Meiya Furniture"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.43277,
+          "PositionLat": 23.38297,
+          "GeoHash": "wsjth88rw"
+        },
+        "StationID": "1294",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20742",
+        "StopID": "20742",
+        "StopName": {
+          "Zh_tw": "過溝仔",
+          "En": "Guogouzih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.43669,
+          "PositionLat": 23.38281,
+          "GeoHash": "wsjth8eqd"
+        },
+        "StationID": "8728",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20743",
+        "StopID": "20743",
+        "StopName": {
+          "Zh_tw": "甘宅",
+          "En": "Ganjhai"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.43892,
+          "PositionLat": 23.38272,
+          "GeoHash": "wsjth8syn"
+        },
+        "StationID": "8663",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20744",
+        "StopID": "20744",
+        "StopName": {
+          "Zh_tw": "埤角",
+          "En": "Bijiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.43742,
+          "PositionLat": 23.38562,
+          "GeoHash": "wsjth95z5"
+        },
+        "StationID": "8665",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20745",
+        "StopID": "20745",
+        "StopName": {
+          "Zh_tw": "大厝",
+          "En": "Dacuo"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.43372,
+          "PositionLat": 23.39021,
+          "GeoHash": "wsjthd11v"
+        },
+        "StationID": "8667",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20746",
+        "StopID": "20746",
+        "StopName": {
+          "Zh_tw": "草店活動中心",
+          "En": "Caodian Community Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.43276,
+          "PositionLat": 23.39147,
+          "GeoHash": "wsjthd23n"
+        },
+        "StationID": "8669",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20747",
+        "StopID": "20747",
+        "StopName": {
+          "Zh_tw": "關帝廟",
+          "En": "Guandi Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.42839,
+          "PositionLat": 23.39657,
+          "GeoHash": "wsjth7jqb"
+        },
+        "StationID": "8671",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20748",
+        "StopID": "20748",
+        "StopName": {
+          "Zh_tw": "大埔(白河)",
+          "En": "Dapu(Baihe)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.42481,
+          "PositionLat": 23.39592,
+          "GeoHash": "wsjth74ej"
+        },
+        "StationID": "8673",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20749",
+        "StopID": "20749",
+        "StopName": {
+          "Zh_tw": "內角",
+          "En": "Neijiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.43764,
+          "PositionLat": 23.39785,
+          "GeoHash": "wsjthekn2"
+        },
+        "StationID": "8675",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-07T20:04:26+08:00",
+    "VersionID": 10648
+  },
+  {
+    "RouteUID": "TNN1704",
+    "RouteID": "1704",
+    "RouteName": {
+      "Zh_tw": "黃14-1",
+      "En": "Y14-1"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16202",
+        "OperatorName": {
+          "Zh_tw": "台一大車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN170402",
+    "SubRouteID": "170402",
+    "SubRouteName": {
+      "Zh_tw": "黃14-1 小黃 內角→白河 ",
+      "En": "Y14-1 Shuttle Taxi Neijiao→Baihe Bus Station"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN20750",
+        "StopID": "20750",
+        "StopName": {
+          "Zh_tw": "內角",
+          "En": "Neijiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.43764,
+          "PositionLat": 23.39785,
+          "GeoHash": "wsjthekn2"
+        },
+        "StationID": "8676",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20751",
+        "StopID": "20751",
+        "StopName": {
+          "Zh_tw": "大埔(白河)",
+          "En": "Dapu(Baihe)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.42481,
+          "PositionLat": 23.39592,
+          "GeoHash": "wsjth74ej"
+        },
+        "StationID": "8674",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20752",
+        "StopID": "20752",
+        "StopName": {
+          "Zh_tw": "關帝廟",
+          "En": "Guandi Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.42834,
+          "PositionLat": 23.39642,
+          "GeoHash": "wsjth7jnp"
+        },
+        "StationID": "8672",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20753",
+        "StopID": "20753",
+        "StopName": {
+          "Zh_tw": "草店活動中心",
+          "En": "Caodian Community Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.43265,
+          "PositionLat": 23.39138,
+          "GeoHash": "wsjthd22s"
+        },
+        "StationID": "8670",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20754",
+        "StopID": "20754",
+        "StopName": {
+          "Zh_tw": "大厝",
+          "En": "Dacuo"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.43371,
+          "PositionLat": 23.39007,
+          "GeoHash": "wsjthd11h"
+        },
+        "StationID": "8668",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20755",
+        "StopID": "20755",
+        "StopName": {
+          "Zh_tw": "埤角",
+          "En": "Bijiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.43739,
+          "PositionLat": 23.38556,
+          "GeoHash": "wsjth95yf"
+        },
+        "StationID": "8666",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20756",
+        "StopID": "20756",
+        "StopName": {
+          "Zh_tw": "甘宅",
+          "En": "Ganjhai"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.43892,
+          "PositionLat": 23.38328,
+          "GeoHash": "wsjth8ucq"
+        },
+        "StationID": "8664",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20757",
+        "StopID": "20757",
+        "StopName": {
+          "Zh_tw": "過溝仔",
+          "En": "Guogouzih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.43673,
+          "PositionLat": 23.38286,
+          "GeoHash": "wsjth8er5"
+        },
+        "StationID": "8729",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20758",
+        "StopID": "20758",
+        "StopName": {
+          "Zh_tw": "美雅傢俱",
+          "En": "Meiya Furniture"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.43276,
+          "PositionLat": 23.38318,
+          "GeoHash": "wsjth8b2y"
+        },
+        "StationID": "1295",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20759",
+        "StopID": "20759",
+        "StopName": {
+          "Zh_tw": "番子園",
+          "En": "Fanzihyuan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.43724,
+          "PositionLat": 23.37629,
+          "GeoHash": "wsjsuxe8z"
+        },
+        "StationID": "8919",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20760",
+        "StopID": "20760",
+        "StopName": {
+          "Zh_tw": "竹圍子",
+          "En": "Jhuweizih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.43889,
+          "PositionLat": 23.37635,
+          "GeoHash": "wsjsuxscj"
+        },
+        "StationID": "8921",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20761",
+        "StopID": "20761",
+        "StopName": {
+          "Zh_tw": "竹門活動中心",
+          "En": "Jhumen Community Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.44432,
+          "PositionLat": 23.37648,
+          "GeoHash": "wsjsuz8cu"
+        },
+        "StationID": "1583",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20762",
+        "StopID": "20762",
+        "StopName": {
+          "Zh_tw": "埤子頭",
+          "En": "Bizihtou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.43813,
+          "PositionLat": 23.36809,
+          "GeoHash": "wsjsuwh2g"
+        },
+        "StationID": "7038",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20763",
+        "StopID": "20763",
+        "StopName": {
+          "Zh_tw": "溪洲路口",
+          "En": "Sijhou Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.43416,
+          "PositionLat": 23.36605,
+          "GeoHash": "wsjsut9mp"
+        },
+        "StationID": "7039",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20764",
+        "StopID": "20764",
+        "StopName": {
+          "Zh_tw": "三間厝",
+          "En": "Sanjiancuo"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.42859,
+          "PositionLat": 23.36478,
+          "GeoHash": "wsjsummmt"
+        },
+        "StationID": "7040",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20765",
+        "StopID": "20765",
+        "StopName": {
+          "Zh_tw": "白河國中",
+          "En": "Baihe Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.42421,
+          "PositionLat": 23.36187,
+          "GeoHash": "wsjsukfhz"
+        },
+        "StationID": "7041",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20766",
+        "StopID": "20766",
+        "StopName": {
+          "Zh_tw": "舊地政",
+          "En": "Jioudijheng"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.41959,
+          "PositionLat": 23.35571,
+          "GeoHash": "wsjsu5ybg"
+        },
+        "StationID": "7042",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20767",
+        "StopID": "20767",
+        "StopName": {
+          "Zh_tw": "白河分局",
+          "En": "Baihe Police Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.41612,
+          "PositionLat": 23.35111,
+          "GeoHash": "wsjsu4uq4"
+        },
+        "StationID": "7043",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20768",
+        "StopID": "20768",
+        "StopName": {
+          "Zh_tw": "中山、中興路口",
+          "En": "Jhongshan Rd. ＆ Jhongsing St."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.41549,
+          "PositionLat": 23.35032,
+          "GeoHash": "wsjsu4gck"
+        },
+        "StationID": "1731",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20769",
+        "StopID": "20769",
+        "StopName": {
+          "Zh_tw": "白河站",
+          "En": "Baihe Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.41366,
+          "PositionLat": 23.34758,
+          "GeoHash": "wsjsu4699"
+        },
+        "StationID": "7465",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-07T20:04:26+08:00",
+    "VersionID": 10648
+  }
+]
