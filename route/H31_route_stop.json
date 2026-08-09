@@ -1,0 +1,912 @@
+[
+  {
+    "RouteUID": "TNN10262",
+    "RouteID": "10262",
+    "RouteName": {
+      "Zh_tw": "H31",
+      "En": "H31"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16233",
+        "OperatorName": {
+          "Zh_tw": "漢程客運",
+          "En": "Han-Cheng Bus Co., Ltd."
+        },
+        "OperatorCode": "HanChengBus",
+        "OperatorNo": "1404"
+      }
+    ],
+    "SubRouteUID": "TNN102620",
+    "SubRouteID": "102620",
+    "SubRouteName": {
+      "Zh_tw": "臺南市政府→高鐵臺南站",
+      "En": "H31 Tainan City Government→THSR Tainan Station"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN11012",
+        "StopID": "11012",
+        "StopName": {
+          "Zh_tw": "永華市政中心(府前路)",
+          "En": "Tainan City Hall(Fu-Cian Rd.)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.18442,
+          "PositionLat": 22.99307,
+          "GeoHash": "wsj6ycg87"
+        },
+        "StationID": "1431",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11010",
+        "StopID": "11010",
+        "StopName": {
+          "Zh_tw": "小西門(西門路)",
+          "En": "Siaosimen(Simen Rd.)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.19761,
+          "PositionLat": 22.98881,
+          "GeoHash": "wsj6z0vpx"
+        },
+        "StationID": "9281",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN14179",
+        "StopID": "14179",
+        "StopName": {
+          "Zh_tw": "建興國中(府前路)",
+          "En": "Jian-Sing Junior High School(Fu-Cian Rd.)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.20344,
+          "PositionLat": 22.98926,
+          "GeoHash": "wsj6z316p"
+        },
+        "StationID": "9608",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11011",
+        "StopID": "11011",
+        "StopName": {
+          "Zh_tw": "延平郡王祠(國立臺南大學)",
+          "En": "Koxinga Shrine(National University of Tainan)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.20875,
+          "PositionLat": 22.98753,
+          "GeoHash": "wsj6z2v24"
+        },
+        "StationID": "8861",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11013",
+        "StopID": "11013",
+        "StopName": {
+          "Zh_tw": "大林新城",
+          "En": "Dalin Housing Complex"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.21365,
+          "PositionLat": 22.97731,
+          "GeoHash": "wsj6xwbut"
+        },
+        "StationID": "539",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11014",
+        "StopID": "11014",
+        "StopName": {
+          "Zh_tw": "生產路口",
+          "En": "Shengchan Rd. ＆ Datong Rd. Intersection"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.21621,
+          "PositionLat": 22.96526,
+          "GeoHash": "wsj6xsdy2"
+        },
+        "StationID": "528",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25920",
+        "StopID": "25920",
+        "StopName": {
+          "Zh_tw": "大同路三段121巷",
+          "En": "Ln. 121 Sec. 3 Datong Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.21711,
+          "PositionLat": 22.95862,
+          "GeoHash": "wsj6xe7rt"
+        },
+        "StationID": "1947",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN14530",
+        "StopID": "14530",
+        "StopName": {
+          "Zh_tw": "仁愛里國泰社區",
+          "En": "Renai Vil. Cathay Community"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.21767,
+          "PositionLat": 22.95406,
+          "GeoHash": "wsj6xdev4"
+        },
+        "StationID": "530",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8396",
+        "StopID": "8396",
+        "StopName": {
+          "Zh_tw": "臺南航空站(奇美幸福工廠)",
+          "En": "Tainan Airport(CHIMEI Happiness Factory)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.21661,
+          "PositionLat": 22.94825,
+          "GeoHash": "wsj6x9e54"
+        },
+        "StationID": "500",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11015",
+        "StopID": "11015",
+        "StopName": {
+          "Zh_tw": "奇美博物館",
+          "En": "Chimei Museum"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.22088,
+          "PositionLat": 22.93496,
+          "GeoHash": "wsj6rxnjv"
+        },
+        "StationID": "3101",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11016",
+        "StopID": "11016",
+        "StopName": {
+          "Zh_tw": "高鐵台南站",
+          "En": "THSR Tainan Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.28588,
+          "PositionLat": 22.92401,
+          "GeoHash": "wsjd3jjw0"
+        },
+        "StationID": "3106",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-09T17:24:27+08:00",
+    "VersionID": 10658
+  },
+  {
+    "RouteUID": "TNN10262",
+    "RouteID": "10262",
+    "RouteName": {
+      "Zh_tw": "H31",
+      "En": "H31"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16233",
+        "OperatorName": {
+          "Zh_tw": "漢程客運",
+          "En": "Han-Cheng Bus Co., Ltd."
+        },
+        "OperatorCode": "HanChengBus",
+        "OperatorNo": "1404"
+      }
+    ],
+    "SubRouteUID": "TNN102621",
+    "SubRouteID": "102621",
+    "SubRouteName": {
+      "Zh_tw": "高鐵臺南站→臺南市政府",
+      "En": "H31 THSR Tainan Station→Tainan City Government"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN11017",
+        "StopID": "11017",
+        "StopName": {
+          "Zh_tw": "高鐵台南站",
+          "En": "THSR Tainan Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.28581,
+          "PositionLat": 22.92394,
+          "GeoHash": "wsjd3jjmw"
+        },
+        "StationID": "3107",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11018",
+        "StopID": "11018",
+        "StopName": {
+          "Zh_tw": "奇美博物館",
+          "En": "Chimei Museum"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.22118,
+          "PositionLat": 22.93581,
+          "GeoHash": "wsj6rxq6u"
+        },
+        "StationID": "3104",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8397",
+        "StopID": "8397",
+        "StopName": {
+          "Zh_tw": "臺南航空站(奇美幸福工廠)",
+          "En": "Tainan Airport(CHIMEI Happiness Factory)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.21681,
+          "PositionLat": 22.94841,
+          "GeoHash": "wsj6x9ehn"
+        },
+        "StationID": "531",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN14531",
+        "StopID": "14531",
+        "StopName": {
+          "Zh_tw": "仁愛里國泰社區",
+          "En": "Renai Vil. Cathay Community"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.21787,
+          "PositionLat": 22.95434,
+          "GeoHash": "wsj6xdeyx"
+        },
+        "StationID": "533",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25921",
+        "StopID": "25921",
+        "StopName": {
+          "Zh_tw": "大同路三段121巷",
+          "En": "Ln. 121 Sec. 3 Datong Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.21741,
+          "PositionLat": 22.95809,
+          "GeoHash": "wsj6xe7ss"
+        },
+        "StationID": "1948",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11019",
+        "StopID": "11019",
+        "StopName": {
+          "Zh_tw": "生產路口",
+          "En": "Shengchan Rd. ＆ Datong Rd. Intersection"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.21634,
+          "PositionLat": 22.96535,
+          "GeoHash": "wsj6xsdyg"
+        },
+        "StationID": "535",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11022",
+        "StopID": "11022",
+        "StopName": {
+          "Zh_tw": "大林新城",
+          "En": "Dalin Housing Complex"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.21336,
+          "PositionLat": 22.97864,
+          "GeoHash": "wsj6xx0sq"
+        },
+        "StationID": "524",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11024",
+        "StopID": "11024",
+        "StopName": {
+          "Zh_tw": "延平郡王祠(國立臺南大學)",
+          "En": "Koxinga Shrine(National University of Tainan)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.20877,
+          "PositionLat": 22.98763,
+          "GeoHash": "wsj6z2v2e"
+        },
+        "StationID": "8862",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN14176",
+        "StopID": "14176",
+        "StopName": {
+          "Zh_tw": "建興國中(府前路)",
+          "En": "Jian-Sing Junior High School(Fu-Cian Rd.)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.20424,
+          "PositionLat": 22.98923,
+          "GeoHash": "wsj6z341c"
+        },
+        "StationID": "9607",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11025",
+        "StopID": "11025",
+        "StopName": {
+          "Zh_tw": "小西門(西門路)",
+          "En": "Siaosimen(Simen Rd.)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.19741,
+          "PositionLat": 22.98822,
+          "GeoHash": "wsj6z0vh4"
+        },
+        "StationID": "9204",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11020",
+        "StopID": "11020",
+        "StopName": {
+          "Zh_tw": "市政中心(永華路)",
+          "En": "Tainan City Hall(Yonghua Rd.)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.18489,
+          "PositionLat": 22.98942,
+          "GeoHash": "wsj6yc5gn"
+        },
+        "StationID": "8864",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11023",
+        "StopID": "11023",
+        "StopName": {
+          "Zh_tw": "永華市政中心(府前路)",
+          "En": "Tainan City Hall(Fu-Cian Rd.)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.18442,
+          "PositionLat": 22.99307,
+          "GeoHash": "wsj6ycg87"
+        },
+        "StationID": "1431",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-09T17:24:27+08:00",
+    "VersionID": 10658
+  },
+  {
+    "RouteUID": "TNN10262",
+    "RouteID": "10262",
+    "RouteName": {
+      "Zh_tw": "H31",
+      "En": "H31"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16233",
+        "OperatorName": {
+          "Zh_tw": "漢程客運",
+          "En": "Han-Cheng Bus Co., Ltd."
+        },
+        "OperatorCode": "HanChengBus",
+        "OperatorNo": "1404"
+      }
+    ],
+    "SubRouteUID": "TNN102622",
+    "SubRouteID": "102622",
+    "SubRouteName": {
+      "Zh_tw": "臺南市政府→高鐵臺南站[不經台86線]",
+      "En": "H31 Tainan City Government→THSR Tainan Station[Non-Via PHW 86]"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN11012",
+        "StopID": "11012",
+        "StopName": {
+          "Zh_tw": "永華市政中心(府前路)",
+          "En": "Tainan City Hall(Fu-Cian Rd.)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.18442,
+          "PositionLat": 22.99307,
+          "GeoHash": "wsj6ycg87"
+        },
+        "StationID": "1431",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11010",
+        "StopID": "11010",
+        "StopName": {
+          "Zh_tw": "小西門(西門路)",
+          "En": "Siaosimen(Simen Rd.)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.19761,
+          "PositionLat": 22.98881,
+          "GeoHash": "wsj6z0vpx"
+        },
+        "StationID": "9281",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN14179",
+        "StopID": "14179",
+        "StopName": {
+          "Zh_tw": "建興國中(府前路)",
+          "En": "Jian-Sing Junior High School(Fu-Cian Rd.)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.20344,
+          "PositionLat": 22.98926,
+          "GeoHash": "wsj6z316p"
+        },
+        "StationID": "9608",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11011",
+        "StopID": "11011",
+        "StopName": {
+          "Zh_tw": "延平郡王祠(國立臺南大學)",
+          "En": "Koxinga Shrine(National University of Tainan)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.20875,
+          "PositionLat": 22.98753,
+          "GeoHash": "wsj6z2v24"
+        },
+        "StationID": "8861",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11013",
+        "StopID": "11013",
+        "StopName": {
+          "Zh_tw": "大林新城",
+          "En": "Dalin Housing Complex"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.21365,
+          "PositionLat": 22.97731,
+          "GeoHash": "wsj6xwbut"
+        },
+        "StationID": "539",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11014",
+        "StopID": "11014",
+        "StopName": {
+          "Zh_tw": "生產路口",
+          "En": "Shengchan Rd. ＆ Datong Rd. Intersection"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.21621,
+          "PositionLat": 22.96526,
+          "GeoHash": "wsj6xsdy2"
+        },
+        "StationID": "528",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25920",
+        "StopID": "25920",
+        "StopName": {
+          "Zh_tw": "大同路三段121巷",
+          "En": "Ln. 121 Sec. 3 Datong Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.21711,
+          "PositionLat": 22.95862,
+          "GeoHash": "wsj6xe7rt"
+        },
+        "StationID": "1947",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN14530",
+        "StopID": "14530",
+        "StopName": {
+          "Zh_tw": "仁愛里國泰社區",
+          "En": "Renai Vil. Cathay Community"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.21767,
+          "PositionLat": 22.95406,
+          "GeoHash": "wsj6xdev4"
+        },
+        "StationID": "530",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8396",
+        "StopID": "8396",
+        "StopName": {
+          "Zh_tw": "臺南航空站(奇美幸福工廠)",
+          "En": "Tainan Airport(CHIMEI Happiness Factory)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.21661,
+          "PositionLat": 22.94825,
+          "GeoHash": "wsj6x9e54"
+        },
+        "StationID": "500",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11015",
+        "StopID": "11015",
+        "StopName": {
+          "Zh_tw": "奇美博物館",
+          "En": "Chimei Museum"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.22088,
+          "PositionLat": 22.93496,
+          "GeoHash": "wsj6rxnjv"
+        },
+        "StationID": "3101",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11016",
+        "StopID": "11016",
+        "StopName": {
+          "Zh_tw": "高鐵台南站",
+          "En": "THSR Tainan Station"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.28588,
+          "PositionLat": 22.92401,
+          "GeoHash": "wsjd3jjw0"
+        },
+        "StationID": "3106",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-09T17:24:27+08:00",
+    "VersionID": 10658
+  },
+  {
+    "RouteUID": "TNN10262",
+    "RouteID": "10262",
+    "RouteName": {
+      "Zh_tw": "H31",
+      "En": "H31"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16233",
+        "OperatorName": {
+          "Zh_tw": "漢程客運",
+          "En": "Han-Cheng Bus Co., Ltd."
+        },
+        "OperatorCode": "HanChengBus",
+        "OperatorNo": "1404"
+      }
+    ],
+    "SubRouteUID": "TNN102623",
+    "SubRouteID": "102623",
+    "SubRouteName": {
+      "Zh_tw": "高鐵臺南站→臺南市政府[不經台86線]",
+      "En": "H31 THSR Tainan Station→Tainan City Government[Non-Via PHW 86]"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN11017",
+        "StopID": "11017",
+        "StopName": {
+          "Zh_tw": "高鐵台南站",
+          "En": "THSR Tainan Station"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.28581,
+          "PositionLat": 22.92394,
+          "GeoHash": "wsjd3jjmw"
+        },
+        "StationID": "3107",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11018",
+        "StopID": "11018",
+        "StopName": {
+          "Zh_tw": "奇美博物館",
+          "En": "Chimei Museum"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.22118,
+          "PositionLat": 22.93581,
+          "GeoHash": "wsj6rxq6u"
+        },
+        "StationID": "3104",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8397",
+        "StopID": "8397",
+        "StopName": {
+          "Zh_tw": "臺南航空站(奇美幸福工廠)",
+          "En": "Tainan Airport(CHIMEI Happiness Factory)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.21681,
+          "PositionLat": 22.94841,
+          "GeoHash": "wsj6x9ehn"
+        },
+        "StationID": "531",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN14531",
+        "StopID": "14531",
+        "StopName": {
+          "Zh_tw": "仁愛里國泰社區",
+          "En": "Renai Vil. Cathay Community"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.21787,
+          "PositionLat": 22.95434,
+          "GeoHash": "wsj6xdeyx"
+        },
+        "StationID": "533",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25921",
+        "StopID": "25921",
+        "StopName": {
+          "Zh_tw": "大同路三段121巷",
+          "En": "Ln. 121 Sec. 3 Datong Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.21741,
+          "PositionLat": 22.95809,
+          "GeoHash": "wsj6xe7ss"
+        },
+        "StationID": "1948",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11019",
+        "StopID": "11019",
+        "StopName": {
+          "Zh_tw": "生產路口",
+          "En": "Shengchan Rd. ＆ Datong Rd. Intersection"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.21634,
+          "PositionLat": 22.96535,
+          "GeoHash": "wsj6xsdyg"
+        },
+        "StationID": "535",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11022",
+        "StopID": "11022",
+        "StopName": {
+          "Zh_tw": "大林新城",
+          "En": "Dalin Housing Complex"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.21336,
+          "PositionLat": 22.97864,
+          "GeoHash": "wsj6xx0sq"
+        },
+        "StationID": "524",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11024",
+        "StopID": "11024",
+        "StopName": {
+          "Zh_tw": "延平郡王祠(國立臺南大學)",
+          "En": "Koxinga Shrine(National University of Tainan)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.20877,
+          "PositionLat": 22.98763,
+          "GeoHash": "wsj6z2v2e"
+        },
+        "StationID": "8862",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN14176",
+        "StopID": "14176",
+        "StopName": {
+          "Zh_tw": "建興國中(府前路)",
+          "En": "Jian-Sing Junior High School(Fu-Cian Rd.)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.20424,
+          "PositionLat": 22.98923,
+          "GeoHash": "wsj6z341c"
+        },
+        "StationID": "9607",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11025",
+        "StopID": "11025",
+        "StopName": {
+          "Zh_tw": "小西門(西門路)",
+          "En": "Siaosimen(Simen Rd.)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.19741,
+          "PositionLat": 22.98822,
+          "GeoHash": "wsj6z0vh4"
+        },
+        "StationID": "9204",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11020",
+        "StopID": "11020",
+        "StopName": {
+          "Zh_tw": "市政中心(永華路)",
+          "En": "Tainan City Hall(Yonghua Rd.)"
+        },
+        "StopBoarding": -1,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.18489,
+          "PositionLat": 22.98942,
+          "GeoHash": "wsj6yc5gn"
+        },
+        "StationID": "8864",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN11023",
+        "StopID": "11023",
+        "StopName": {
+          "Zh_tw": "永華市政中心(府前路)",
+          "En": "Tainan City Hall(Fu-Cian Rd.)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.18442,
+          "PositionLat": 22.99307,
+          "GeoHash": "wsj6ycg87"
+        },
+        "StationID": "1431",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-09T17:24:27+08:00",
+    "VersionID": 10658
+  }
+]
