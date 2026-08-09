@@ -1,0 +1,508 @@
+[
+  {
+    "RouteUID": "TNN1413",
+    "RouteID": "1413",
+    "RouteName": {
+      "Zh_tw": "橘13",
+      "En": "O13"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16233",
+        "OperatorName": {
+          "Zh_tw": "漢程客運",
+          "En": "Han-Cheng Bus Co., Ltd."
+        },
+        "OperatorCode": "HanChengBus",
+        "OperatorNo": "1404"
+      }
+    ],
+    "SubRouteUID": "TNN141301",
+    "SubRouteID": "141301",
+    "SubRouteName": {
+      "Zh_tw": "橘13 臺南轉運站→麻豆轉運站",
+      "En": "O13 Tainan Bus Station→Madou Bus Station"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN24604",
+        "StopID": "24604",
+        "StopName": {
+          "Zh_tw": "臺南轉運站",
+          "En": "Tainan Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.20929,
+          "PositionLat": 23.00216,
+          "GeoHash": "wsj6z7mtr"
+        },
+        "StationID": "9272",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24605",
+        "StopID": "24605",
+        "StopName": {
+          "Zh_tw": "公園南路",
+          "En": "Gong-Yuan South Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.21003,
+          "PositionLat": 23.00071,
+          "GeoHash": "wsj6z7nkb"
+        },
+        "StationID": "9273",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24606",
+        "StopID": "24606",
+        "StopName": {
+          "Zh_tw": "小東路",
+          "En": "Siaodong Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.21573,
+          "PositionLat": 23.00115,
+          "GeoHash": "wsj6ze4rm"
+        },
+        "StationID": "289",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24406",
+        "StopID": "24406",
+        "StopName": {
+          "Zh_tw": "成功大學",
+          "En": "National Cheng Kung University"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.21794,
+          "PositionLat": 23.00092,
+          "GeoHash": "wsj6zehn1"
+        },
+        "StationID": "290",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24407",
+        "StopID": "24407",
+        "StopName": {
+          "Zh_tw": "成大醫院(小東路)",
+          "En": "Cheng Kung University Hospital(Siaodong Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.22137,
+          "PositionLat": 23.00069,
+          "GeoHash": "wsj6zens8"
+        },
+        "StationID": "291",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24408",
+        "StopID": "24408",
+        "StopName": {
+          "Zh_tw": "無障礙福利之家",
+          "En": "Home for the Disabled"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.22527,
+          "PositionLat": 23.00038,
+          "GeoHash": "wsj6zg16g"
+        },
+        "StationID": "271",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24409",
+        "StopID": "24409",
+        "StopName": {
+          "Zh_tw": "光明街口",
+          "En": "Guangming St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.22892,
+          "PositionLat": 22.99946,
+          "GeoHash": "wsj6zfuj8"
+        },
+        "StationID": "292",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24410",
+        "StopID": "24410",
+        "StopName": {
+          "Zh_tw": "四份子",
+          "En": "Sihfenzih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.23221,
+          "PositionLat": 22.99858,
+          "GeoHash": "wsj6zfy2m"
+        },
+        "StationID": "293",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24411",
+        "StopID": "24411",
+        "StopName": {
+          "Zh_tw": "臺灣銀行",
+          "En": "Bank of Taiwan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.23596,
+          "PositionLat": 22.99838,
+          "GeoHash": "wsjdb49pk"
+        },
+        "StationID": "294",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24412",
+        "StopID": "24412",
+        "StopName": {
+          "Zh_tw": "高雄榮總臺南分院(小東路)",
+          "En": "Kaohsiung Veterans General Hospital Tainan Branch(Siaodong Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.23813,
+          "PositionLat": 22.99838,
+          "GeoHash": "wsjdb4dxr"
+        },
+        "StationID": "295",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24607",
+        "StopID": "24607",
+        "StopName": {
+          "Zh_tw": "影劇三村",
+          "En": "Ying-Jyu 3rd Village"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.24312,
+          "PositionLat": 22.99854,
+          "GeoHash": "wsjdb4y25"
+        },
+        "StationID": "296",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24413",
+        "StopID": "24413",
+        "StopName": {
+          "Zh_tw": "漢聲電台",
+          "En": "Voice of Han Broadcasting Network"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.24555,
+          "PositionLat": 22.99858,
+          "GeoHash": "wsjdb6b0k"
+        },
+        "StationID": "297",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24622",
+        "StopID": "24622",
+        "StopName": {
+          "Zh_tw": "麻豆轉運站",
+          "En": "Madou Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.23917,
+          "PositionLat": 23.18557,
+          "GeoHash": "wsjebhg3x"
+        },
+        "StationID": "4000",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-09T17:24:27+08:00",
+    "VersionID": 10658
+  },
+  {
+    "RouteUID": "TNN1413",
+    "RouteID": "1413",
+    "RouteName": {
+      "Zh_tw": "橘13",
+      "En": "O13"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16233",
+        "OperatorName": {
+          "Zh_tw": "漢程客運",
+          "En": "Han-Cheng Bus Co., Ltd."
+        },
+        "OperatorCode": "HanChengBus",
+        "OperatorNo": "1404"
+      }
+    ],
+    "SubRouteUID": "TNN141302",
+    "SubRouteID": "141302",
+    "SubRouteName": {
+      "Zh_tw": "橘13 麻豆轉運站→臺南轉運站",
+      "En": "O13 Madou Bus Station→Tainan Bus Station"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN24623",
+        "StopID": "24623",
+        "StopName": {
+          "Zh_tw": "麻豆轉運站",
+          "En": "Madou Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.23917,
+          "PositionLat": 23.18557,
+          "GeoHash": "wsjebhg3x"
+        },
+        "StationID": "4000",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24459",
+        "StopID": "24459",
+        "StopName": {
+          "Zh_tw": "漢聲電台",
+          "En": "Voice of Han Broadcasting Network"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.24621,
+          "PositionLat": 22.99872,
+          "GeoHash": "wsjdb6b97"
+        },
+        "StationID": "203",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24618",
+        "StopID": "24618",
+        "StopName": {
+          "Zh_tw": "影劇三村",
+          "En": "Yingjyu 3rd Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.24336,
+          "PositionLat": 22.99873,
+          "GeoHash": "wsjdb4y93"
+        },
+        "StationID": "204",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24460",
+        "StopID": "24460",
+        "StopName": {
+          "Zh_tw": "高雄榮總臺南分院(小東路)",
+          "En": "Kaohsiung Veterans General Hospital Tainan Branch(Siaodong Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.23937,
+          "PositionLat": 22.99858,
+          "GeoHash": "wsjdb4g8k"
+        },
+        "StationID": "205",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24461",
+        "StopID": "24461",
+        "StopName": {
+          "Zh_tw": "臺灣銀行",
+          "En": "Bank of Taiwan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.23598,
+          "PositionLat": 22.99855,
+          "GeoHash": "wsjdb4c0m"
+        },
+        "StationID": "206",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24462",
+        "StopID": "24462",
+        "StopName": {
+          "Zh_tw": "四份子",
+          "En": "Sihfenzih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.23257,
+          "PositionLat": 22.99873,
+          "GeoHash": "wsj6zfy9m"
+        },
+        "StationID": "207",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24463",
+        "StopID": "24463",
+        "StopName": {
+          "Zh_tw": "光明街口",
+          "En": "Guangming St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.22912,
+          "PositionLat": 22.99963,
+          "GeoHash": "wsj6zfunt"
+        },
+        "StationID": "208",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24464",
+        "StopID": "24464",
+        "StopName": {
+          "Zh_tw": "無障礙福利之家",
+          "En": "Home for The Disabled"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.22531,
+          "PositionLat": 23.00055,
+          "GeoHash": "wsj6zg17u"
+        },
+        "StationID": "266",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24465",
+        "StopID": "24465",
+        "StopName": {
+          "Zh_tw": "成大醫院(小東路)",
+          "En": "Cheng Kung University Hospital(Siaodong Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.22142,
+          "PositionLat": 23.00089,
+          "GeoHash": "wsj6zentf"
+        },
+        "StationID": "209",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24466",
+        "StopID": "24466",
+        "StopName": {
+          "Zh_tw": "成功大學",
+          "En": "National Cheng Kung University"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.21812,
+          "PositionLat": 23.00109,
+          "GeoHash": "wsj6zehpj"
+        },
+        "StationID": "210",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24619",
+        "StopID": "24619",
+        "StopName": {
+          "Zh_tw": "小東路",
+          "En": "Siao-Dong Road"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.21601,
+          "PositionLat": 23.00131,
+          "GeoHash": "wsj6ze68k"
+        },
+        "StationID": "211",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24620",
+        "StopID": "24620",
+        "StopName": {
+          "Zh_tw": "公園南路",
+          "En": "Gong-Yuan South Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.21017,
+          "PositionLat": 23.00074,
+          "GeoHash": "wsj6z7nm5"
+        },
+        "StationID": "9212",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24621",
+        "StopID": "24621",
+        "StopName": {
+          "Zh_tw": "臺南轉運站",
+          "En": "Tainan Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.20928,
+          "PositionLat": 23.00187,
+          "GeoHash": "wsj6z7mex"
+        },
+        "StationID": "9213",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-09T17:24:27+08:00",
+    "VersionID": 10658
+  }
+]
