@@ -1,0 +1,474 @@
+[
+  {
+    "RouteUID": "TNN1409",
+    "RouteID": "1409",
+    "RouteName": {
+      "Zh_tw": "橘9",
+      "En": "O9"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16233",
+        "OperatorName": {
+          "Zh_tw": "漢程客運",
+          "En": "Han-Cheng Bus Co., Ltd."
+        },
+        "OperatorCode": "HanChengBus",
+        "OperatorNo": "1404"
+      }
+    ],
+    "SubRouteUID": "TNN140901",
+    "SubRouteID": "140901",
+    "SubRouteName": {
+      "Zh_tw": "橘9 佳里站→高鐵嘉義站",
+      "En": "O9 Jiali Bus Station→THSR Chiayi Station"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN22021",
+        "StopID": "22021",
+        "StopName": {
+          "Zh_tw": "佳里站",
+          "En": "Jiali Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.17735,
+          "PositionLat": 23.16312,
+          "GeoHash": "wsj7y8wqz"
+        },
+        "StationID": "7371",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22022",
+        "StopID": "22022",
+        "StopName": {
+          "Zh_tw": "佳里公園",
+          "En": "Jiali Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.17886,
+          "PositionLat": 23.16841,
+          "GeoHash": "wsj7y9xtf"
+        },
+        "StationID": "7372",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22023",
+        "StopID": "22023",
+        "StopName": {
+          "Zh_tw": "蕭壠文化園區",
+          "En": "Soulangh cultural Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.17954,
+          "PositionLat": 23.17172,
+          "GeoHash": "wsj7yf214"
+        },
+        "StationID": "1807",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22024",
+        "StopID": "22024",
+        "StopName": {
+          "Zh_tw": "奇美佳里分院",
+          "En": "Chi Mei Jiali Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.18374,
+          "PositionLat": 23.18081,
+          "GeoHash": "wsj7yggnh"
+        },
+        "StationID": "7374",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22025",
+        "StopID": "22025",
+        "StopName": {
+          "Zh_tw": "佳里興",
+          "En": "Jialising"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.18815,
+          "PositionLat": 23.18966,
+          "GeoHash": "wsj7yvw3d"
+        },
+        "StationID": "7375",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23820",
+        "StopID": "23820",
+        "StopName": {
+          "Zh_tw": "營頂",
+          "En": "Yingding"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.18882,
+          "PositionLat": 23.19891,
+          "GeoHash": "wsj7yznz6"
+        },
+        "StationID": "7377",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22026",
+        "StopID": "22026",
+        "StopName": {
+          "Zh_tw": "大灣",
+          "En": "Dawan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.18617,
+          "PositionLat": 23.20841,
+          "GeoHash": "wsjknbuyu"
+        },
+        "StationID": "2211",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22027",
+        "StopID": "22027",
+        "StopName": {
+          "Zh_tw": "學甲區公所",
+          "En": "Syuejia District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.18266,
+          "PositionLat": 23.23042,
+          "GeoHash": "wsjknufr4"
+        },
+        "StationID": "7379",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22028",
+        "StopID": "22028",
+        "StopName": {
+          "Zh_tw": "學甲國中",
+          "En": "Syuejia Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.18424,
+          "PositionLat": 23.23886,
+          "GeoHash": "wsjknye2p"
+        },
+        "StationID": "7091",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23348",
+        "StopID": "23348",
+        "StopName": {
+          "Zh_tw": "新營轉運站",
+          "En": "Sinying Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.28317,
+          "PositionLat": 23.31081,
+          "GeoHash": "wsjs95ee3"
+        },
+        "StationID": "2102",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25376",
+        "StopID": "25376",
+        "StopName": {
+          "Zh_tw": "高鐵國寶",
+          "En": "THSR Guo Bao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.32378,
+          "PositionLat": 23.45318,
+          "GeoHash": "wsjt6j90e"
+        },
+        "StationID": "2470",
+        "LocationCityCode": "CYQ"
+      },
+      {
+        "StopUID": "TNN22029",
+        "StopID": "22029",
+        "StopName": {
+          "Zh_tw": "高鐵嘉義站",
+          "En": "THSR Chiayi Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.32295,
+          "PositionLat": 23.45872,
+          "GeoHash": "wsjt6n82z"
+        },
+        "StationID": "4168",
+        "LocationCityCode": "CYQ"
+      }
+    ],
+    "UpdateTime": "2026-08-09T17:24:27+08:00",
+    "VersionID": 10658
+  },
+  {
+    "RouteUID": "TNN1409",
+    "RouteID": "1409",
+    "RouteName": {
+      "Zh_tw": "橘9",
+      "En": "O9"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16233",
+        "OperatorName": {
+          "Zh_tw": "漢程客運",
+          "En": "Han-Cheng Bus Co., Ltd."
+        },
+        "OperatorCode": "HanChengBus",
+        "OperatorNo": "1404"
+      }
+    ],
+    "SubRouteUID": "TNN140902",
+    "SubRouteID": "140902",
+    "SubRouteName": {
+      "Zh_tw": "橘9 高鐵嘉義站→佳里站",
+      "En": "O9 THSR Chiayi Station→Jiali Bus Station"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN22030",
+        "StopID": "22030",
+        "StopName": {
+          "Zh_tw": "高鐵嘉義站",
+          "En": "THSR Chiayi Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.32295,
+          "PositionLat": 23.45872,
+          "GeoHash": "wsjt6n82z"
+        },
+        "StationID": "4168",
+        "LocationCityCode": "CYQ"
+      },
+      {
+        "StopUID": "TNN25377",
+        "StopID": "25377",
+        "StopName": {
+          "Zh_tw": "高鐵國寶",
+          "En": "THSR Guo Bao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.32318,
+          "PositionLat": 23.45298,
+          "GeoHash": "wsjt6j2xt"
+        },
+        "StationID": "2471",
+        "LocationCityCode": "CYQ"
+      },
+      {
+        "StopUID": "TNN23349",
+        "StopID": "23349",
+        "StopName": {
+          "Zh_tw": "新營轉運站",
+          "En": "Sinying Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.28317,
+          "PositionLat": 23.31081,
+          "GeoHash": "wsjs95ee3"
+        },
+        "StationID": "2102",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22031",
+        "StopID": "22031",
+        "StopName": {
+          "Zh_tw": "學甲國中",
+          "En": "Syuejia Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.18402,
+          "PositionLat": 23.23878,
+          "GeoHash": "wsjkny7rd"
+        },
+        "StationID": "7084",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22032",
+        "StopID": "22032",
+        "StopName": {
+          "Zh_tw": "學甲區公所",
+          "En": "Syuejia District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.18248,
+          "PositionLat": 23.23059,
+          "GeoHash": "wsjknufpy"
+        },
+        "StationID": "7396",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22033",
+        "StopID": "22033",
+        "StopName": {
+          "Zh_tw": "大灣",
+          "En": "Dawan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.18581,
+          "PositionLat": 23.20895,
+          "GeoHash": "wsjknch9u"
+        },
+        "StationID": "2240",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23821",
+        "StopID": "23821",
+        "StopName": {
+          "Zh_tw": "營頂",
+          "En": "Yingding"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.18853,
+          "PositionLat": 23.19935,
+          "GeoHash": "wsj7yzqd5"
+        },
+        "StationID": "7398",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22034",
+        "StopID": "22034",
+        "StopName": {
+          "Zh_tw": "佳里興",
+          "En": "Jialising"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.18807,
+          "PositionLat": 23.18961,
+          "GeoHash": "wsj7yvw33"
+        },
+        "StationID": "7568",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22035",
+        "StopID": "22035",
+        "StopName": {
+          "Zh_tw": "奇美佳里分院",
+          "En": "Chi Mei Jiali Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.18355,
+          "PositionLat": 23.18079,
+          "GeoHash": "wsj7ygfvz"
+        },
+        "StationID": "7569",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22036",
+        "StopID": "22036",
+        "StopName": {
+          "Zh_tw": "蕭壠文化園區",
+          "En": "Soulangh cultural Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.17947,
+          "PositionLat": 23.17281,
+          "GeoHash": "wsj7yf2p2"
+        },
+        "StationID": "1832",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22037",
+        "StopID": "22037",
+        "StopName": {
+          "Zh_tw": "佳里公園",
+          "En": "Jiali Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.17881,
+          "PositionLat": 23.16868,
+          "GeoHash": "wsj7y9xx3"
+        },
+        "StationID": "7571",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22038",
+        "StopID": "22038",
+        "StopName": {
+          "Zh_tw": "佳里站",
+          "En": "Jiali Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.17735,
+          "PositionLat": 23.16312,
+          "GeoHash": "wsj7y8wqz"
+        },
+        "StationID": "7371",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-09T17:24:27+08:00",
+    "VersionID": 10658
+  }
+]

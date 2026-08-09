@@ -1,0 +1,576 @@
+[
+  {
+    "RouteUID": "TNN1404",
+    "RouteID": "1404",
+    "RouteName": {
+      "Zh_tw": "橘4",
+      "En": "O4"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10160",
+        "OperatorName": {
+          "Zh_tw": "興南客運",
+          "En": "Shing Nan Bus Co., Ltd."
+        },
+        "OperatorCode": "ShingNanBus",
+        "OperatorNo": "1601"
+      }
+    ],
+    "SubRouteUID": "TNN140401",
+    "SubRouteID": "140401",
+    "SubRouteName": {
+      "Zh_tw": "橘4 善化火車站→南藝大→烏山頭水庫",
+      "En": "O4 Shanhua Bus Station→Wushantou Reservoir"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN7058",
+        "StopID": "7058",
+        "StopName": {
+          "Zh_tw": "善化轉運站",
+          "En": "Shanhua Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.30603,
+          "PositionLat": 23.13361,
+          "GeoHash": "wsje9ek5j"
+        },
+        "StationID": "7764",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7059",
+        "StopID": "7059",
+        "StopName": {
+          "Zh_tw": "北子店",
+          "En": "Beizihdian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.31034,
+          "PositionLat": 23.13723,
+          "GeoHash": "wsje9sp24"
+        },
+        "StationID": "7770",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7060",
+        "StopID": "7060",
+        "StopName": {
+          "Zh_tw": "牛庄",
+          "En": "Nioujhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.31726,
+          "PositionLat": 23.13773,
+          "GeoHash": "wsje9uh75"
+        },
+        "StationID": "7771",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7061",
+        "StopID": "7061",
+        "StopName": {
+          "Zh_tw": "茄拔",
+          "En": "Jiaba"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.32241,
+          "PositionLat": 23.13731,
+          "GeoHash": "wsjedh00e"
+        },
+        "StationID": "3642",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7062",
+        "StopID": "7062",
+        "StopName": {
+          "Zh_tw": "北茄拔",
+          "En": "North Jiaba"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.32369,
+          "PositionLat": 23.13953,
+          "GeoHash": "wsjedh3j9"
+        },
+        "StationID": "3611",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7063",
+        "StopID": "7063",
+        "StopName": {
+          "Zh_tw": "肉品市場",
+          "En": "Meats Market"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.33264,
+          "PositionLat": 23.14912,
+          "GeoHash": "wsjednpt3"
+        },
+        "StationID": "3612",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7064",
+        "StopID": "7064",
+        "StopName": {
+          "Zh_tw": "新中",
+          "En": "Sinjhong"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.34035,
+          "PositionLat": 23.15897,
+          "GeoHash": "wsjedrvnv"
+        },
+        "StationID": "3613",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7065",
+        "StopID": "7065",
+        "StopName": {
+          "Zh_tw": "渡子頭",
+          "En": "Duzihtou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.33833,
+          "PositionLat": 23.17302,
+          "GeoHash": "wsjef6e8w"
+        },
+        "StationID": "3614",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7066",
+        "StopID": "7066",
+        "StopName": {
+          "Zh_tw": "社子",
+          "En": "Shezih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.35898,
+          "PositionLat": 23.18182,
+          "GeoHash": "wsjefu4ez"
+        },
+        "StationID": "4048",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7067",
+        "StopID": "7067",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學",
+          "En": "Tainan National University of the Arts"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.37283,
+          "PositionLat": 23.18543,
+          "GeoHash": "wsjeghubf"
+        },
+        "StationID": "4049",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31636",
+        "StopID": "31636",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學(漢寶德紀念館)",
+          "En": "TNNUA (Han Pao-Teh Memorial Museum)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.37412,
+          "PositionLat": 23.18832,
+          "GeoHash": "wsjegjmcb"
+        },
+        "StationID": "2899",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7068",
+        "StopID": "7068",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學(西側門)",
+          "En": "TNNUA (West Gate)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.37253,
+          "PositionLat": 23.18979,
+          "GeoHash": "wsjegjsd7"
+        },
+        "StationID": "4050",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7069",
+        "StopID": "7069",
+        "StopName": {
+          "Zh_tw": "大崎",
+          "En": "Daci"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.37102,
+          "PositionLat": 23.19127,
+          "GeoHash": "wsjegjgdb"
+        },
+        "StationID": "4051",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN21420",
+        "StopID": "21420",
+        "StopName": {
+          "Zh_tw": "八田路、171路口",
+          "En": "Batian Rd. ＆ 171 Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.35704,
+          "PositionLat": 23.19511,
+          "GeoHash": "wsjefy936"
+        },
+        "StationID": "1912",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7070",
+        "StopID": "7070",
+        "StopName": {
+          "Zh_tw": "烏山頭水庫",
+          "En": "Wushantou Reservoir"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.36259,
+          "PositionLat": 23.20731,
+          "GeoHash": "wsjs4bv27"
+        },
+        "StationID": "4052",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-09T17:24:27+08:00",
+    "VersionID": 10658
+  },
+  {
+    "RouteUID": "TNN1404",
+    "RouteID": "1404",
+    "RouteName": {
+      "Zh_tw": "橘4",
+      "En": "O4"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10160",
+        "OperatorName": {
+          "Zh_tw": "興南客運",
+          "En": "Shing Nan Bus Co., Ltd."
+        },
+        "OperatorCode": "ShingNanBus",
+        "OperatorNo": "1601"
+      }
+    ],
+    "SubRouteUID": "TNN140402",
+    "SubRouteID": "140402",
+    "SubRouteName": {
+      "Zh_tw": "橘4 烏山頭水庫→南藝大→善化火車站",
+      "En": "O4 Wushantou Reservoir→Shanhua Bus Station"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN7071",
+        "StopID": "7071",
+        "StopName": {
+          "Zh_tw": "烏山頭水庫",
+          "En": "Wushantou Reservoir"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.36248,
+          "PositionLat": 23.20743,
+          "GeoHash": "wsjs4bv31"
+        },
+        "StationID": "4053",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN21421",
+        "StopID": "21421",
+        "StopName": {
+          "Zh_tw": "八田路、171路口",
+          "En": "Batian Rd. ＆ 171 Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.35692,
+          "PositionLat": 23.19506,
+          "GeoHash": "wsjefy91p"
+        },
+        "StationID": "1913",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7072",
+        "StopID": "7072",
+        "StopName": {
+          "Zh_tw": "大崎",
+          "En": "Daci"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.37103,
+          "PositionLat": 23.19121,
+          "GeoHash": "wsjegjgd8"
+        },
+        "StationID": "4054",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7073",
+        "StopID": "7073",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學(西側門)",
+          "En": "TNNUA (West Gate)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.37245,
+          "PositionLat": 23.18976,
+          "GeoHash": "wsjegjsd1"
+        },
+        "StationID": "4055",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31637",
+        "StopID": "31637",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學(漢寶德紀念館)",
+          "En": "TNNUA (Han Pao-Teh Memorial Museum)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.37415,
+          "PositionLat": 23.18837,
+          "GeoHash": "wsjegjmf0"
+        },
+        "StationID": "2900",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7074",
+        "StopID": "7074",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學",
+          "En": "Tainan National University of the Arts"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.37278,
+          "PositionLat": 23.18508,
+          "GeoHash": "wsjeghsyc"
+        },
+        "StationID": "4056",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7075",
+        "StopID": "7075",
+        "StopName": {
+          "Zh_tw": "社子",
+          "En": "Shezih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.35918,
+          "PositionLat": 23.18185,
+          "GeoHash": "wsjefu4uh"
+        },
+        "StationID": "4057",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7076",
+        "StopID": "7076",
+        "StopName": {
+          "Zh_tw": "渡子頭",
+          "En": "Duzihtou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.33805,
+          "PositionLat": 23.17261,
+          "GeoHash": "wsjef67qp"
+        },
+        "StationID": "3638",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7077",
+        "StopID": "7077",
+        "StopName": {
+          "Zh_tw": "新中",
+          "En": "Sinjhong"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.34013,
+          "PositionLat": 23.15903,
+          "GeoHash": "wsjedrvp0"
+        },
+        "StationID": "3639",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7078",
+        "StopID": "7078",
+        "StopName": {
+          "Zh_tw": "肉品市場",
+          "En": "Meats Market"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.33244,
+          "PositionLat": 23.14932,
+          "GeoHash": "wsjednpqt"
+        },
+        "StationID": "3640",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7079",
+        "StopID": "7079",
+        "StopName": {
+          "Zh_tw": "北茄拔",
+          "En": "North Jiaba"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.32339,
+          "PositionLat": 23.13941,
+          "GeoHash": "wsjedh2uf"
+        },
+        "StationID": "3641",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7080",
+        "StopID": "7080",
+        "StopName": {
+          "Zh_tw": "茄拔",
+          "En": "Jiaba"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.32221,
+          "PositionLat": 23.13746,
+          "GeoHash": "wsje9upcq"
+        },
+        "StationID": "3610",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7081",
+        "StopID": "7081",
+        "StopName": {
+          "Zh_tw": "牛庄",
+          "En": "Nioujhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.31752,
+          "PositionLat": 23.13791,
+          "GeoHash": "wsje9uhs1"
+        },
+        "StationID": "7762",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7082",
+        "StopID": "7082",
+        "StopName": {
+          "Zh_tw": "北子店",
+          "En": "Beizihdian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.31033,
+          "PositionLat": 23.13724,
+          "GeoHash": "wsje9sp21"
+        },
+        "StationID": "7763",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7083",
+        "StopID": "7083",
+        "StopName": {
+          "Zh_tw": "善化轉運站",
+          "En": "Shanhua Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.30603,
+          "PositionLat": 23.13361,
+          "GeoHash": "wsje9ek5j"
+        },
+        "StationID": "7764",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-09T17:24:27+08:00",
+    "VersionID": 10658
+  }
+]

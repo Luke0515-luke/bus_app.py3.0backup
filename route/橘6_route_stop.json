@@ -1,0 +1,942 @@
+[
+  {
+    "RouteUID": "TNN1406",
+    "RouteID": "1406",
+    "RouteName": {
+      "Zh_tw": "橘6",
+      "En": "O6"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16202",
+        "OperatorName": {
+          "Zh_tw": "台一大車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN140601",
+    "SubRouteID": "140601",
+    "SubRouteName": {
+      "Zh_tw": "橘6 隆田火車站→臺南藝術大學(漢寶德紀念館)",
+      "En": "O6 Longtian Train Station→TNNUA (Han Pao-Teh Memorial Museum)"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN24880",
+        "StopID": "24880",
+        "StopName": {
+          "Zh_tw": "隆田火車站",
+          "En": "Longtian Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.31895,
+          "PositionLat": 23.19246,
+          "GeoHash": "wsjecyj9f"
+        },
+        "StationID": "4067",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24883",
+        "StopID": "24883",
+        "StopName": {
+          "Zh_tw": "官田國中",
+          "En": "Guantian Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.31552,
+          "PositionLat": 23.18973,
+          "GeoHash": "wsjecve1f"
+        },
+        "StationID": "2337",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24884",
+        "StopID": "24884",
+        "StopName": {
+          "Zh_tw": "水雉生態教育園區",
+          "En": "Pheasant-tailed Jacana Ecological Education Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.31623,
+          "PositionLat": 23.18539,
+          "GeoHash": "wsjecug8e"
+        },
+        "StationID": "2094",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24885",
+        "StopID": "24885",
+        "StopName": {
+          "Zh_tw": "官田里",
+          "En": "Guantian Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.33848,
+          "PositionLat": 23.18617,
+          "GeoHash": "wsjefkgv1"
+        },
+        "StationID": "3634",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24886",
+        "StopID": "24886",
+        "StopName": {
+          "Zh_tw": "官田國小",
+          "En": "Guantian Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.34182,
+          "PositionLat": 23.19001,
+          "GeoHash": "wsjefmw5x"
+        },
+        "StationID": "4058",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24887",
+        "StopID": "24887",
+        "StopName": {
+          "Zh_tw": "社子",
+          "En": "Shezih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.35898,
+          "PositionLat": 23.18182,
+          "GeoHash": "wsjefu4ez"
+        },
+        "StationID": "4048",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31703",
+        "StopID": "31703",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學",
+          "En": "Tainan National University of the Arts"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.37276,
+          "PositionLat": 23.18529,
+          "GeoHash": "wsjeghub0"
+        },
+        "StationID": "4049",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33499",
+        "StopID": "33499",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學(西側門)",
+          "En": "TNNUA (West Gate)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.37253,
+          "PositionLat": 23.18979,
+          "GeoHash": "wsjegjsd7"
+        },
+        "StationID": "4050",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33479",
+        "StopID": "33479",
+        "StopName": {
+          "Zh_tw": "大崎",
+          "En": "Daci"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.37103,
+          "PositionLat": 23.19121,
+          "GeoHash": "wsjegjgd8"
+        },
+        "StationID": "4054",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31704",
+        "StopID": "31704",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學(漢寶德紀念館)",
+          "En": "TNNUA (Han Pao-Teh Memorial Museum)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.37412,
+          "PositionLat": 23.18832,
+          "GeoHash": "wsjegjmcb"
+        },
+        "StationID": "2899",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-09T17:24:27+08:00",
+    "VersionID": 10658
+  },
+  {
+    "RouteUID": "TNN1406",
+    "RouteID": "1406",
+    "RouteName": {
+      "Zh_tw": "橘6",
+      "En": "O6"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16202",
+        "OperatorName": {
+          "Zh_tw": "台一大車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN140602",
+    "SubRouteID": "140602",
+    "SubRouteName": {
+      "Zh_tw": "橘6 臺南藝術大學(漢寶德紀念館)→隆田火車站",
+      "En": "O6 TNNUA (Han Pao-Teh Memorial Museum)→Longtian Train Station"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN31705",
+        "StopID": "31705",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學(漢寶德紀念館)",
+          "En": "TNNUA (Han Pao-Teh Memorial Museum)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.37415,
+          "PositionLat": 23.18837,
+          "GeoHash": "wsjegjmf0"
+        },
+        "StationID": "2900",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33480",
+        "StopID": "33480",
+        "StopName": {
+          "Zh_tw": "大崎",
+          "En": "Daci"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.37102,
+          "PositionLat": 23.19127,
+          "GeoHash": "wsjegjgdb"
+        },
+        "StationID": "4051",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33500",
+        "StopID": "33500",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學(西側門)",
+          "En": "TNNUA (West Gate)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.37245,
+          "PositionLat": 23.18976,
+          "GeoHash": "wsjegjsd1"
+        },
+        "StationID": "4055",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31706",
+        "StopID": "31706",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學",
+          "En": "Tainan National University of the Arts"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.37281,
+          "PositionLat": 23.18505,
+          "GeoHash": "wsjeghsy9"
+        },
+        "StationID": "4056",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24890",
+        "StopID": "24890",
+        "StopName": {
+          "Zh_tw": "社子",
+          "En": "Shezih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.35918,
+          "PositionLat": 23.18185,
+          "GeoHash": "wsjefu4uh"
+        },
+        "StationID": "4057",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24891",
+        "StopID": "24891",
+        "StopName": {
+          "Zh_tw": "官田國小",
+          "En": "Guantian Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.34128,
+          "PositionLat": 23.18978,
+          "GeoHash": "wsjefmtf7"
+        },
+        "StationID": "4061",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24892",
+        "StopID": "24892",
+        "StopName": {
+          "Zh_tw": "官田里",
+          "En": "Guantian Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.33831,
+          "PositionLat": 23.18616,
+          "GeoHash": "wsjefkgtj"
+        },
+        "StationID": "3618",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24893",
+        "StopID": "24893",
+        "StopName": {
+          "Zh_tw": "水雉生態教育園區",
+          "En": "Pheasant-tailed Jacana Ecological Education Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.31631,
+          "PositionLat": 23.18543,
+          "GeoHash": "wsjecug8v"
+        },
+        "StationID": "2095",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24894",
+        "StopID": "24894",
+        "StopName": {
+          "Zh_tw": "官田國中",
+          "En": "Guantian Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.31566,
+          "PositionLat": 23.18973,
+          "GeoHash": "wsjecve1y"
+        },
+        "StationID": "2338",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24899",
+        "StopID": "24899",
+        "StopName": {
+          "Zh_tw": "隆田火車站",
+          "En": "Longtian Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.31895,
+          "PositionLat": 23.19246,
+          "GeoHash": "wsjecyj9f"
+        },
+        "StationID": "4067",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-09T17:24:27+08:00",
+    "VersionID": 10658
+  },
+  {
+    "RouteUID": "TNN1406",
+    "RouteID": "1406",
+    "RouteName": {
+      "Zh_tw": "橘6",
+      "En": "O6"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16202",
+        "OperatorName": {
+          "Zh_tw": "台一大車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN140603",
+    "SubRouteID": "140603",
+    "SubRouteName": {
+      "Zh_tw": "橘6 隆田火車站→臺南藝術大學(漢寶德紀念館)[僅供預約]",
+      "En": "O6 Longtian Train Station→ TNNUA (Han Pao-Teh Memorial Museum)[Reservation only]"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN33473",
+        "StopID": "33473",
+        "StopName": {
+          "Zh_tw": "南廍里",
+          "En": "Nanbu Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.30652,
+          "PositionLat": 23.21399,
+          "GeoHash": "wsjs19ux3"
+        },
+        "StationID": "8891",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33474",
+        "StopID": "33474",
+        "StopName": {
+          "Zh_tw": "南廍牌樓",
+          "En": "Nanbu Decorated Archway"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.30746,
+          "PositionLat": 23.21286,
+          "GeoHash": "wsjs19v0x"
+        },
+        "StationID": "8893",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33475",
+        "StopID": "33475",
+        "StopName": {
+          "Zh_tw": "隆田",
+          "En": "Longtian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.31668,
+          "PositionLat": 23.19902,
+          "GeoHash": "wsjecz7bj"
+        },
+        "StationID": "4075",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24880",
+        "StopID": "24880",
+        "StopName": {
+          "Zh_tw": "隆田火車站",
+          "En": "Longtian Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.31895,
+          "PositionLat": 23.19246,
+          "GeoHash": "wsjecyj9f"
+        },
+        "StationID": "4067",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24883",
+        "StopID": "24883",
+        "StopName": {
+          "Zh_tw": "官田國中",
+          "En": "Guantian Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.31552,
+          "PositionLat": 23.18973,
+          "GeoHash": "wsjecve1f"
+        },
+        "StationID": "2337",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24884",
+        "StopID": "24884",
+        "StopName": {
+          "Zh_tw": "水雉生態教育園區",
+          "En": "Pheasant-tailed Jacana Ecological Education Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.31623,
+          "PositionLat": 23.18539,
+          "GeoHash": "wsjecug8e"
+        },
+        "StationID": "2094",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24885",
+        "StopID": "24885",
+        "StopName": {
+          "Zh_tw": "官田里",
+          "En": "Guantian Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.33848,
+          "PositionLat": 23.18617,
+          "GeoHash": "wsjefkgv1"
+        },
+        "StationID": "3634",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24886",
+        "StopID": "24886",
+        "StopName": {
+          "Zh_tw": "官田國小",
+          "En": "Guantian Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.34182,
+          "PositionLat": 23.19001,
+          "GeoHash": "wsjefmw5x"
+        },
+        "StationID": "4058",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24887",
+        "StopID": "24887",
+        "StopName": {
+          "Zh_tw": "社子",
+          "En": "Shezih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.35898,
+          "PositionLat": 23.18182,
+          "GeoHash": "wsjefu4ez"
+        },
+        "StationID": "4048",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24888",
+        "StopID": "24888",
+        "StopName": {
+          "Zh_tw": "六雙天清宮",
+          "En": "Lioushuang Tiancing Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.36678,
+          "PositionLat": 23.16608,
+          "GeoHash": "wsjeg122j"
+        },
+        "StationID": "2336",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31703",
+        "StopID": "31703",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學",
+          "En": "Tainan National University of the Arts"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.37276,
+          "PositionLat": 23.18529,
+          "GeoHash": "wsjeghub0"
+        },
+        "StationID": "4049",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33499",
+        "StopID": "33499",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學(西側門)",
+          "En": "TNNUA (West Gate)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.37253,
+          "PositionLat": 23.18979,
+          "GeoHash": "wsjegjsd7"
+        },
+        "StationID": "4050",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33479",
+        "StopID": "33479",
+        "StopName": {
+          "Zh_tw": "大崎",
+          "En": "Daci"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.37103,
+          "PositionLat": 23.19121,
+          "GeoHash": "wsjegjgd8"
+        },
+        "StationID": "4054",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31704",
+        "StopID": "31704",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學(漢寶德紀念館)",
+          "En": "TNNUA (Han Pao-Teh Memorial Museum)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.37412,
+          "PositionLat": 23.18832,
+          "GeoHash": "wsjegjmcb"
+        },
+        "StationID": "2899",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-09T17:24:27+08:00",
+    "VersionID": 10658
+  },
+  {
+    "RouteUID": "TNN1406",
+    "RouteID": "1406",
+    "RouteName": {
+      "Zh_tw": "橘6",
+      "En": "O6"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16202",
+        "OperatorName": {
+          "Zh_tw": "台一大車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN140604",
+    "SubRouteID": "140604",
+    "SubRouteName": {
+      "Zh_tw": "橘6 臺南藝術大學(漢寶德紀念館)→隆田火車站[僅供預約]",
+      "En": "O6 TNNUA (Han Pao-Teh Memorial Museum)→Longtian Train Station[Reservation only]"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN31705",
+        "StopID": "31705",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學(漢寶德紀念館)",
+          "En": "TNNUA (Han Pao-Teh Memorial Museum)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.37415,
+          "PositionLat": 23.18837,
+          "GeoHash": "wsjegjmf0"
+        },
+        "StationID": "2900",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33480",
+        "StopID": "33480",
+        "StopName": {
+          "Zh_tw": "大崎",
+          "En": "Daci"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.37102,
+          "PositionLat": 23.19127,
+          "GeoHash": "wsjegjgdb"
+        },
+        "StationID": "4051",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33500",
+        "StopID": "33500",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學(西側門)",
+          "En": "TNNUA (West Gate)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.37245,
+          "PositionLat": 23.18976,
+          "GeoHash": "wsjegjsd1"
+        },
+        "StationID": "4055",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31706",
+        "StopID": "31706",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學",
+          "En": "Tainan National University of the Arts"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.37281,
+          "PositionLat": 23.18505,
+          "GeoHash": "wsjeghsy9"
+        },
+        "StationID": "4056",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24889",
+        "StopID": "24889",
+        "StopName": {
+          "Zh_tw": "六雙天清宮",
+          "En": "Lioushuang Tiancing Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.36678,
+          "PositionLat": 23.16608,
+          "GeoHash": "wsjeg122j"
+        },
+        "StationID": "2336",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24890",
+        "StopID": "24890",
+        "StopName": {
+          "Zh_tw": "社子",
+          "En": "Shezih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.35918,
+          "PositionLat": 23.18185,
+          "GeoHash": "wsjefu4uh"
+        },
+        "StationID": "4057",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24891",
+        "StopID": "24891",
+        "StopName": {
+          "Zh_tw": "官田國小",
+          "En": "Guantian Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.34128,
+          "PositionLat": 23.18978,
+          "GeoHash": "wsjefmtf7"
+        },
+        "StationID": "4061",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24892",
+        "StopID": "24892",
+        "StopName": {
+          "Zh_tw": "官田里",
+          "En": "Guantian Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.33831,
+          "PositionLat": 23.18616,
+          "GeoHash": "wsjefkgtj"
+        },
+        "StationID": "3618",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24893",
+        "StopID": "24893",
+        "StopName": {
+          "Zh_tw": "水雉生態教育園區",
+          "En": "Pheasant-tailed Jacana Ecological Education Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.31631,
+          "PositionLat": 23.18543,
+          "GeoHash": "wsjecug8v"
+        },
+        "StationID": "2095",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24894",
+        "StopID": "24894",
+        "StopName": {
+          "Zh_tw": "官田國中",
+          "En": "Guantian Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.31566,
+          "PositionLat": 23.18973,
+          "GeoHash": "wsjecve1y"
+        },
+        "StationID": "2338",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24899",
+        "StopID": "24899",
+        "StopName": {
+          "Zh_tw": "隆田火車站",
+          "En": "Longtian Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.31895,
+          "PositionLat": 23.19246,
+          "GeoHash": "wsjecyj9f"
+        },
+        "StationID": "4067",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33476",
+        "StopID": "33476",
+        "StopName": {
+          "Zh_tw": "隆田",
+          "En": "Longtian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.31696,
+          "PositionLat": 23.19909,
+          "GeoHash": "wsjeczk0k"
+        },
+        "StationID": "4068",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33477",
+        "StopID": "33477",
+        "StopName": {
+          "Zh_tw": "南廍牌樓",
+          "En": "Nanbu Decorated Archway"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.30746,
+          "PositionLat": 23.21286,
+          "GeoHash": "wsjs19v0x"
+        },
+        "StationID": "8893",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33478",
+        "StopID": "33478",
+        "StopName": {
+          "Zh_tw": "南廍里",
+          "En": "Nanbu Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.30652,
+          "PositionLat": 23.21399,
+          "GeoHash": "wsjs19ux3"
+        },
+        "StationID": "8891",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-09T17:24:27+08:00",
+    "VersionID": 10658
+  }
+]
