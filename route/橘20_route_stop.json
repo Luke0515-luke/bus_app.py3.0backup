@@ -1,0 +1,882 @@
+[
+  {
+    "RouteUID": "TNN1420",
+    "RouteID": "1420",
+    "RouteName": {
+      "Zh_tw": "橘20",
+      "En": "O20"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10160",
+        "OperatorName": {
+          "Zh_tw": "興南客運",
+          "En": "Shing Nan Bus Co., Ltd."
+        },
+        "OperatorCode": "ShingNanBus",
+        "OperatorNo": "1601"
+      }
+    ],
+    "SubRouteUID": "TNN142001",
+    "SubRouteID": "142001",
+    "SubRouteName": {
+      "Zh_tw": "橘20 大內教會→環湖→玉井",
+      "En": "O20 Danei Church→Yujing Bus Station"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN7375",
+        "StopID": "7375",
+        "StopName": {
+          "Zh_tw": "大內教會",
+          "En": "Danei Church"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.35879,
+          "PositionLat": 23.11997,
+          "GeoHash": "wsjedbfee"
+        },
+        "StationID": "8008",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7376",
+        "StopID": "7376",
+        "StopName": {
+          "Zh_tw": "大內",
+          "En": "Danei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.36107,
+          "PositionLat": 23.11812,
+          "GeoHash": "wsjedbs2b"
+        },
+        "StationID": "8009",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16033",
+        "StopID": "16033",
+        "StopName": {
+          "Zh_tw": "內庄朝天宮",
+          "En": "Neijhuang Chaotien Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.36276,
+          "PositionLat": 23.11731,
+          "GeoHash": "wsjedbmkp"
+        },
+        "StationID": "8745",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8401",
+        "StopID": "8401",
+        "StopName": {
+          "Zh_tw": "大內口",
+          "En": "Daneikou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.36588,
+          "PositionLat": 23.11623,
+          "GeoHash": "wsjedbpvb"
+        },
+        "StationID": "8368",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16393",
+        "StopID": "16393",
+        "StopName": {
+          "Zh_tw": "大內生命園區",
+          "En": "Danei Columbarium Area"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.36829,
+          "PositionLat": 23.11604,
+          "GeoHash": "wsjee01s8"
+        },
+        "StationID": "1169",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7377",
+        "StopID": "7377",
+        "StopName": {
+          "Zh_tw": "後堀路口",
+          "En": "Houku Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.36951,
+          "PositionLat": 23.11692,
+          "GeoHash": "wsjee063u"
+        },
+        "StationID": "8010",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7378",
+        "StopID": "7378",
+        "StopName": {
+          "Zh_tw": "天公廟",
+          "En": "Tiangong Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.36984,
+          "PositionLat": 23.12014,
+          "GeoHash": "wsjee0fss"
+        },
+        "StationID": "8575",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7379",
+        "StopID": "7379",
+        "StopName": {
+          "Zh_tw": "秀才莊",
+          "En": "Sioucaijhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.37168,
+          "PositionLat": 23.12349,
+          "GeoHash": "wsjee1ebp"
+        },
+        "StationID": "8011",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7380",
+        "StopID": "7380",
+        "StopName": {
+          "Zh_tw": "竹湖",
+          "En": "Jhuhu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.37921,
+          "PositionLat": 23.14194,
+          "GeoHash": "wsjeekc7w"
+        },
+        "StationID": "8012",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7381",
+        "StopID": "7381",
+        "StopName": {
+          "Zh_tw": "頭社",
+          "En": "Toushe"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.38494,
+          "PositionLat": 23.14341,
+          "GeoHash": "wsjeemjsh"
+        },
+        "StationID": "8013",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7382",
+        "StopID": "7382",
+        "StopName": {
+          "Zh_tw": "頭社路口",
+          "En": "Toushe Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.38671,
+          "PositionLat": 23.14447,
+          "GeoHash": "wsjeemqfm"
+        },
+        "StationID": "8014",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7383",
+        "StopID": "7383",
+        "StopName": {
+          "Zh_tw": "紅花園",
+          "En": "Honghuayuan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.38866,
+          "PositionLat": 23.15111,
+          "GeoHash": "wsjeew82g"
+        },
+        "StationID": "8015",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7384",
+        "StopID": "7384",
+        "StopName": {
+          "Zh_tw": "竹宅子",
+          "En": "Jhujhaizih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.39226,
+          "PositionLat": 23.15556,
+          "GeoHash": "wsjeex6fy"
+        },
+        "StationID": "8016",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7385",
+        "StopID": "7385",
+        "StopName": {
+          "Zh_tw": "風窗",
+          "En": "Fongchuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.40062,
+          "PositionLat": 23.15585,
+          "GeoHash": "wsjeez3h9"
+        },
+        "StationID": "8017",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7386",
+        "StopID": "7386",
+        "StopName": {
+          "Zh_tw": "環湖崎頂",
+          "En": "Huanhuciding"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.40545,
+          "PositionLat": 23.15355,
+          "GeoHash": "wsjeeyux4"
+        },
+        "StationID": "8018",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7387",
+        "StopID": "7387",
+        "StopName": {
+          "Zh_tw": "湖頭教會",
+          "En": "HuTou Church"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.41692,
+          "PositionLat": 23.14733,
+          "GeoHash": "wsjesjufv"
+        },
+        "StationID": "8019",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7388",
+        "StopID": "7388",
+        "StopName": {
+          "Zh_tw": "環湖",
+          "En": "Huanhu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.41886,
+          "PositionLat": 23.14683,
+          "GeoHash": "wsjesjy24"
+        },
+        "StationID": "8020",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7389",
+        "StopID": "7389",
+        "StopName": {
+          "Zh_tw": "環湖廟口",
+          "En": "Huanhu Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.42039,
+          "PositionLat": 23.14591,
+          "GeoHash": "wsjesjx6w"
+        },
+        "StationID": "7686",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7390",
+        "StopID": "7390",
+        "StopName": {
+          "Zh_tw": "走馬瀨口",
+          "En": "Zoumalai Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.43212,
+          "PositionLat": 23.14001,
+          "GeoHash": "wsjeskxbr"
+        },
+        "StationID": "4010",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16458",
+        "StopID": "16458",
+        "StopName": {
+          "Zh_tw": "厝尾",
+          "En": "Cuowei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.43468,
+          "PositionLat": 23.13802,
+          "GeoHash": "wsjess1ue"
+        },
+        "StationID": "8882",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7391",
+        "StopID": "7391",
+        "StopName": {
+          "Zh_tw": "豐里",
+          "En": "Fongli"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.44163,
+          "PositionLat": 23.13192,
+          "GeoHash": "wsjesencj"
+        },
+        "StationID": "7688",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20540",
+        "StopID": "20540",
+        "StopName": {
+          "Zh_tw": "口豐",
+          "En": "Koufong"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.44808,
+          "PositionLat": 23.12632,
+          "GeoHash": "wsjesf58e"
+        },
+        "StationID": "1856",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7392",
+        "StopID": "7392",
+        "StopName": {
+          "Zh_tw": "玉井國小",
+          "En": "Yujing Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.45856,
+          "PositionLat": 23.12193,
+          "GeoHash": "wsjet15pp"
+        },
+        "StationID": "4011",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7393",
+        "StopID": "7393",
+        "StopName": {
+          "Zh_tw": "玉井站",
+          "En": "Yujing Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.46055,
+          "PositionLat": 23.12398,
+          "GeoHash": "wsjet1sdy"
+        },
+        "StationID": "7115",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T14:04:27+08:00",
+    "VersionID": 10663
+  },
+  {
+    "RouteUID": "TNN1420",
+    "RouteID": "1420",
+    "RouteName": {
+      "Zh_tw": "橘20",
+      "En": "O20"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10160",
+        "OperatorName": {
+          "Zh_tw": "興南客運",
+          "En": "Shing Nan Bus Co., Ltd."
+        },
+        "OperatorCode": "ShingNanBus",
+        "OperatorNo": "1601"
+      }
+    ],
+    "SubRouteUID": "TNN142002",
+    "SubRouteID": "142002",
+    "SubRouteName": {
+      "Zh_tw": "橘20 玉井→環湖→大內教會",
+      "En": "O20 Yujing Bus Station→Danei Church"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN7394",
+        "StopID": "7394",
+        "StopName": {
+          "Zh_tw": "玉井站",
+          "En": "Yujing Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.46055,
+          "PositionLat": 23.12398,
+          "GeoHash": "wsjet1sdy"
+        },
+        "StationID": "7115",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7395",
+        "StopID": "7395",
+        "StopName": {
+          "Zh_tw": "玉井國小",
+          "En": "Yujing Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.45879,
+          "PositionLat": 23.12194,
+          "GeoHash": "wsjet15rj"
+        },
+        "StationID": "4012",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN20541",
+        "StopID": "20541",
+        "StopName": {
+          "Zh_tw": "口豐",
+          "En": "Koufong"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.44818,
+          "PositionLat": 23.12654,
+          "GeoHash": "wsjesf59y"
+        },
+        "StationID": "1857",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7396",
+        "StopID": "7396",
+        "StopName": {
+          "Zh_tw": "豐里",
+          "En": "Fongli"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.44224,
+          "PositionLat": 23.13177,
+          "GeoHash": "wsjesep27"
+        },
+        "StationID": "7683",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16459",
+        "StopID": "16459",
+        "StopName": {
+          "Zh_tw": "厝尾",
+          "En": "Cuowei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.43477,
+          "PositionLat": 23.13815,
+          "GeoHash": "wsjess1vm"
+        },
+        "StationID": "8883",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7397",
+        "StopID": "7397",
+        "StopName": {
+          "Zh_tw": "走馬瀨口",
+          "En": "Zoumalai Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.43206,
+          "PositionLat": 23.14031,
+          "GeoHash": "wsjeskxfn"
+        },
+        "StationID": "4013",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7398",
+        "StopID": "7398",
+        "StopName": {
+          "Zh_tw": "環湖廟口",
+          "En": "Huanhu Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.42049,
+          "PositionLat": 23.14589,
+          "GeoHash": "wsjesjxd8"
+        },
+        "StationID": "7685",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7399",
+        "StopID": "7399",
+        "StopName": {
+          "Zh_tw": "環湖",
+          "En": "Huanhu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.41903,
+          "PositionLat": 23.14688,
+          "GeoHash": "wsjesjy2q"
+        },
+        "StationID": "8021",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7400",
+        "StopID": "7400",
+        "StopName": {
+          "Zh_tw": "湖頭教會",
+          "En": "HuTou Church"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.41681,
+          "PositionLat": 23.14747,
+          "GeoHash": "wsjesjugg"
+        },
+        "StationID": "8022",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7401",
+        "StopID": "7401",
+        "StopName": {
+          "Zh_tw": "環湖崎頂",
+          "En": "Huanhuciding"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.40526,
+          "PositionLat": 23.15371,
+          "GeoHash": "wsjeezh2j"
+        },
+        "StationID": "8023",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7402",
+        "StopID": "7402",
+        "StopName": {
+          "Zh_tw": "風窗",
+          "En": "Fongchuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.40081,
+          "PositionLat": 23.15583,
+          "GeoHash": "wsjeez3hq"
+        },
+        "StationID": "8024",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7403",
+        "StopID": "7403",
+        "StopName": {
+          "Zh_tw": "竹宅子",
+          "En": "Jhujhaizih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.39219,
+          "PositionLat": 23.15555,
+          "GeoHash": "wsjeex6fv"
+        },
+        "StationID": "8025",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7404",
+        "StopID": "7404",
+        "StopName": {
+          "Zh_tw": "紅花園",
+          "En": "Honghuayuan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.38882,
+          "PositionLat": 23.15133,
+          "GeoHash": "wsjeew86q"
+        },
+        "StationID": "8026",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7405",
+        "StopID": "7405",
+        "StopName": {
+          "Zh_tw": "頭社路口",
+          "En": "Toushe Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.38657,
+          "PositionLat": 23.14484,
+          "GeoHash": "wsjeemqu6"
+        },
+        "StationID": "8027",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7406",
+        "StopID": "7406",
+        "StopName": {
+          "Zh_tw": "頭社",
+          "En": "Toushe"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.38513,
+          "PositionLat": 23.14343,
+          "GeoHash": "wsjeemju2"
+        },
+        "StationID": "8028",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7407",
+        "StopID": "7407",
+        "StopName": {
+          "Zh_tw": "竹湖",
+          "En": "Jhuhu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.37908,
+          "PositionLat": 23.14202,
+          "GeoHash": "wsjeekck5"
+        },
+        "StationID": "8029",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7408",
+        "StopID": "7408",
+        "StopName": {
+          "Zh_tw": "秀才莊",
+          "En": "Sioucaijhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.37161,
+          "PositionLat": 23.12348,
+          "GeoHash": "wsjee1ebj"
+        },
+        "StationID": "8030",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7409",
+        "StopID": "7409",
+        "StopName": {
+          "Zh_tw": "天公廟",
+          "En": "Tiangong Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.36973,
+          "PositionLat": 23.11973,
+          "GeoHash": "wsjee0fd4"
+        },
+        "StationID": "8576",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7410",
+        "StopID": "7410",
+        "StopName": {
+          "Zh_tw": "後堀路口",
+          "En": "Houku Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.36944,
+          "PositionLat": 23.11697,
+          "GeoHash": "wsjee0665"
+        },
+        "StationID": "8031",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16394",
+        "StopID": "16394",
+        "StopName": {
+          "Zh_tw": "大內生命園區",
+          "En": "Danei Columbarium Area"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.36821,
+          "PositionLat": 23.11609,
+          "GeoHash": "wsjee01ky"
+        },
+        "StationID": "1170",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8402",
+        "StopID": "8402",
+        "StopName": {
+          "Zh_tw": "大內口",
+          "En": "Daneikou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.36601,
+          "PositionLat": 23.11633,
+          "GeoHash": "wsjedbpy7"
+        },
+        "StationID": "8369",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16034",
+        "StopID": "16034",
+        "StopName": {
+          "Zh_tw": "內庄朝天宮",
+          "En": "Neijhuang Chaotien Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.36262,
+          "PositionLat": 23.11744,
+          "GeoHash": "wsjedbmku"
+        },
+        "StationID": "8746",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7411",
+        "StopID": "7411",
+        "StopName": {
+          "Zh_tw": "大內",
+          "En": "Danei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.36116,
+          "PositionLat": 23.11818,
+          "GeoHash": "wsjedbs34"
+        },
+        "StationID": "8032",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7412",
+        "StopID": "7412",
+        "StopName": {
+          "Zh_tw": "大內教會",
+          "En": "Danei Church"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.35882,
+          "PositionLat": 23.12004,
+          "GeoHash": "wsjedbfeg"
+        },
+        "StationID": "8033",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T14:04:27+08:00",
+    "VersionID": 10663
+  }
+]

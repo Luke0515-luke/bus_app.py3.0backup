@@ -1,0 +1,1282 @@
+[
+  {
+    "RouteUID": "TNN1121",
+    "RouteID": "1121",
+    "RouteName": {
+      "Zh_tw": "綠21",
+      "En": "G21"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16202",
+        "OperatorName": {
+          "Zh_tw": "台一大車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN112111",
+    "SubRouteID": "112111",
+    "SubRouteName": {
+      "Zh_tw": "綠21 小黃 玉井→龜丹油礦",
+      "En": "G21 Shuttle Taxi Yujing Bus Station→Gueidan Oil Field"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN5347",
+        "StopID": "5347",
+        "StopName": {
+          "Zh_tw": "玉井站",
+          "En": "Yujing Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.46037,
+          "PositionLat": 23.12416,
+          "GeoHash": "wsjet1sef"
+        },
+        "StationID": "7115",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17679",
+        "StopID": "17679",
+        "StopName": {
+          "Zh_tw": "玉安街口",
+          "En": "Yuan St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.46392,
+          "PositionLat": 23.12562,
+          "GeoHash": "wsjet1zhs"
+        },
+        "StationID": "1766",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5348",
+        "StopID": "5348",
+        "StopName": {
+          "Zh_tw": "玉田里",
+          "En": "Yutian Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.46543,
+          "PositionLat": 23.12648,
+          "GeoHash": "wsjet601x"
+        },
+        "StationID": "7201",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5349",
+        "StopID": "5349",
+        "StopName": {
+          "Zh_tw": "後旦",
+          "En": "Houdan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.46844,
+          "PositionLat": 23.12912,
+          "GeoHash": "wsjet6d2y"
+        },
+        "StationID": "7202",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5350",
+        "StopID": "5350",
+        "StopName": {
+          "Zh_tw": "竹圍",
+          "En": "Jhuwei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.47375,
+          "PositionLat": 23.13359,
+          "GeoHash": "wsjet7q6c"
+        },
+        "StationID": "7203",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8946",
+        "StopID": "8946",
+        "StopName": {
+          "Zh_tw": "鹿陶廟",
+          "En": "Lutao Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.47976,
+          "PositionLat": 23.13843,
+          "GeoHash": "wsjets4xj"
+        },
+        "StationID": "8501",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5351",
+        "StopID": "5351",
+        "StopName": {
+          "Zh_tw": "鹿陶",
+          "En": "Lutao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.48221,
+          "PositionLat": 23.14219,
+          "GeoHash": "wsjetsumn"
+        },
+        "StationID": "7204",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16514",
+        "StopID": "16514",
+        "StopName": {
+          "Zh_tw": "三清宮",
+          "En": "Sancing Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.48478,
+          "PositionLat": 23.14144,
+          "GeoHash": "wsjetsy2d"
+        },
+        "StationID": "8940",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5352",
+        "StopID": "5352",
+        "StopName": {
+          "Zh_tw": "林口",
+          "En": "Linkou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.48887,
+          "PositionLat": 23.13859,
+          "GeoHash": "wsjetu324"
+        },
+        "StationID": "7673",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5353",
+        "StopID": "5353",
+        "StopName": {
+          "Zh_tw": "蘆藤腳",
+          "En": "Lutengjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.49314,
+          "PositionLat": 23.13494,
+          "GeoHash": "wsjetgs6v"
+        },
+        "StationID": "7674",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5354",
+        "StopID": "5354",
+        "StopName": {
+          "Zh_tw": "東龜丹",
+          "En": "East Gueidan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.49624,
+          "PositionLat": 23.13452,
+          "GeoHash": "wsjetgw8m"
+        },
+        "StationID": "7675",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5355",
+        "StopID": "5355",
+        "StopName": {
+          "Zh_tw": "龜丹里",
+          "En": "Gueidan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.50237,
+          "PositionLat": 23.13538,
+          "GeoHash": "wsjew5ejk"
+        },
+        "StationID": "7676",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5356",
+        "StopID": "5356",
+        "StopName": {
+          "Zh_tw": "龜丹溫泉",
+          "En": "Gueidan Warm Spring"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.50821,
+          "PositionLat": 23.13687,
+          "GeoHash": "wsjew5zqh"
+        },
+        "StationID": "3078",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8972",
+        "StopID": "8972",
+        "StopName": {
+          "Zh_tw": "牛坑",
+          "En": "Nioukeng"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.50837,
+          "PositionLat": 23.13441,
+          "GeoHash": "wsjew5rx8"
+        },
+        "StationID": "8521",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8973",
+        "StopID": "8973",
+        "StopName": {
+          "Zh_tw": "三層線",
+          "En": "Sancengsian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.51505,
+          "PositionLat": 23.12961,
+          "GeoHash": "wsjew6s7s"
+        },
+        "StationID": "8523",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5357",
+        "StopID": "5357",
+        "StopName": {
+          "Zh_tw": "龜丹油礦",
+          "En": "Gueidan Oil Field"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.52473,
+          "PositionLat": 23.12888,
+          "GeoHash": "wsjewd7rm"
+        },
+        "StationID": "7677",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T14:04:27+08:00",
+    "VersionID": 10663
+  },
+  {
+    "RouteUID": "TNN1121",
+    "RouteID": "1121",
+    "RouteName": {
+      "Zh_tw": "綠21",
+      "En": "G21"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16202",
+        "OperatorName": {
+          "Zh_tw": "台一大車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN112112",
+    "SubRouteID": "112112",
+    "SubRouteName": {
+      "Zh_tw": "綠21 小黃 龜丹油礦→玉井",
+      "En": "G21 Shuttle Taxi Gueidan Oil Field→Yujing Bus Station"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN5358",
+        "StopID": "5358",
+        "StopName": {
+          "Zh_tw": "龜丹油礦",
+          "En": "Gueidan Oil Field"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.52473,
+          "PositionLat": 23.12888,
+          "GeoHash": "wsjewd7rm"
+        },
+        "StationID": "7678",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8974",
+        "StopID": "8974",
+        "StopName": {
+          "Zh_tw": "三層線",
+          "En": "Sancengsian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.51496,
+          "PositionLat": 23.13017,
+          "GeoHash": "wsjew6sr4"
+        },
+        "StationID": "8524",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8975",
+        "StopID": "8975",
+        "StopName": {
+          "Zh_tw": "牛坑",
+          "En": "Nioukeng"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.50854,
+          "PositionLat": 23.13444,
+          "GeoHash": "wsjew5rxu"
+        },
+        "StationID": "8522",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5359",
+        "StopID": "5359",
+        "StopName": {
+          "Zh_tw": "龜丹溫泉",
+          "En": "Gueidan Warm Spring"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.50821,
+          "PositionLat": 23.13687,
+          "GeoHash": "wsjew5zqh"
+        },
+        "StationID": "3078",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5360",
+        "StopID": "5360",
+        "StopName": {
+          "Zh_tw": "龜丹里",
+          "En": "Gueidan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.50243,
+          "PositionLat": 23.13544,
+          "GeoHash": "wsjew5ejw"
+        },
+        "StationID": "7679",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5361",
+        "StopID": "5361",
+        "StopName": {
+          "Zh_tw": "東龜丹",
+          "En": "East Gueidan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.49597,
+          "PositionLat": 23.13464,
+          "GeoHash": "wsjetgw3p"
+        },
+        "StationID": "7680",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5362",
+        "StopID": "5362",
+        "StopName": {
+          "Zh_tw": "蘆藤腳",
+          "En": "Lutengjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.49303,
+          "PositionLat": 23.13522,
+          "GeoHash": "wsjetgsk7"
+        },
+        "StationID": "7681",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5363",
+        "StopID": "5363",
+        "StopName": {
+          "Zh_tw": "林口",
+          "En": "Linkou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.48906,
+          "PositionLat": 23.13857,
+          "GeoHash": "wsjetu1ry"
+        },
+        "StationID": "7682",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16515",
+        "StopID": "16515",
+        "StopName": {
+          "Zh_tw": "三清宮",
+          "En": "Sancing Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.48491,
+          "PositionLat": 23.14145,
+          "GeoHash": "wsjetsy2t"
+        },
+        "StationID": "8941",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5364",
+        "StopID": "5364",
+        "StopName": {
+          "Zh_tw": "鹿陶",
+          "En": "Lutao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.48218,
+          "PositionLat": 23.14243,
+          "GeoHash": "wsjetsuqq"
+        },
+        "StationID": "7221",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8947",
+        "StopID": "8947",
+        "StopName": {
+          "Zh_tw": "鹿陶廟",
+          "En": "Lutao Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.47973,
+          "PositionLat": 23.13861,
+          "GeoHash": "wsjets68j"
+        },
+        "StationID": "8502",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5365",
+        "StopID": "5365",
+        "StopName": {
+          "Zh_tw": "竹圍",
+          "En": "Jhuwei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.47368,
+          "PositionLat": 23.13365,
+          "GeoHash": "wsjet7q72"
+        },
+        "StationID": "7222",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5366",
+        "StopID": "5366",
+        "StopName": {
+          "Zh_tw": "後旦",
+          "En": "Houdan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.46824,
+          "PositionLat": 23.12915,
+          "GeoHash": "wsjet6d31"
+        },
+        "StationID": "7223",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5367",
+        "StopID": "5367",
+        "StopName": {
+          "Zh_tw": "玉田里",
+          "En": "Yutian Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.46534,
+          "PositionLat": 23.12654,
+          "GeoHash": "wsjet601v"
+        },
+        "StationID": "7224",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17680",
+        "StopID": "17680",
+        "StopName": {
+          "Zh_tw": "玉安街口",
+          "En": "Yuan St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.46397,
+          "PositionLat": 23.12572,
+          "GeoHash": "wsjet1zjj"
+        },
+        "StationID": "1767",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5368",
+        "StopID": "5368",
+        "StopName": {
+          "Zh_tw": "玉井站",
+          "En": "Yujing Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.46037,
+          "PositionLat": 23.12416,
+          "GeoHash": "wsjet1sef"
+        },
+        "StationID": "7115",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T14:04:27+08:00",
+    "VersionID": 10663
+  },
+  {
+    "RouteUID": "TNN1121",
+    "RouteID": "1121",
+    "RouteName": {
+      "Zh_tw": "綠21",
+      "En": "G21"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16202",
+        "OperatorName": {
+          "Zh_tw": "台一大車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN112121",
+    "SubRouteID": "112121",
+    "SubRouteName": {
+      "Zh_tw": "綠21 小黃 玉井→龜丹油礦[僅供預約]",
+      "En": "G21 Shuttle Taxi Yujing Bus Station→Gueidan Oil Field[Reservation only]"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN5347",
+        "StopID": "5347",
+        "StopName": {
+          "Zh_tw": "玉井站",
+          "En": "Yujing Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.46037,
+          "PositionLat": 23.12416,
+          "GeoHash": "wsjet1sef"
+        },
+        "StationID": "7115",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17679",
+        "StopID": "17679",
+        "StopName": {
+          "Zh_tw": "玉安街口",
+          "En": "Yuan St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.46392,
+          "PositionLat": 23.12562,
+          "GeoHash": "wsjet1zhs"
+        },
+        "StationID": "1766",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5348",
+        "StopID": "5348",
+        "StopName": {
+          "Zh_tw": "玉田里",
+          "En": "Yutian Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.46543,
+          "PositionLat": 23.12648,
+          "GeoHash": "wsjet601x"
+        },
+        "StationID": "7201",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5349",
+        "StopID": "5349",
+        "StopName": {
+          "Zh_tw": "後旦",
+          "En": "Houdan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.46844,
+          "PositionLat": 23.12912,
+          "GeoHash": "wsjet6d2y"
+        },
+        "StationID": "7202",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5350",
+        "StopID": "5350",
+        "StopName": {
+          "Zh_tw": "竹圍",
+          "En": "Jhuwei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.47375,
+          "PositionLat": 23.13359,
+          "GeoHash": "wsjet7q6c"
+        },
+        "StationID": "7203",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8946",
+        "StopID": "8946",
+        "StopName": {
+          "Zh_tw": "鹿陶廟",
+          "En": "Lutao Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.47976,
+          "PositionLat": 23.13843,
+          "GeoHash": "wsjets4xj"
+        },
+        "StationID": "8501",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5351",
+        "StopID": "5351",
+        "StopName": {
+          "Zh_tw": "鹿陶",
+          "En": "Lutao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.48221,
+          "PositionLat": 23.14219,
+          "GeoHash": "wsjetsumn"
+        },
+        "StationID": "7204",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16514",
+        "StopID": "16514",
+        "StopName": {
+          "Zh_tw": "三清宮",
+          "En": "Sancing Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.48478,
+          "PositionLat": 23.14144,
+          "GeoHash": "wsjetsy2d"
+        },
+        "StationID": "8940",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5352",
+        "StopID": "5352",
+        "StopName": {
+          "Zh_tw": "林口",
+          "En": "Linkou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.48887,
+          "PositionLat": 23.13859,
+          "GeoHash": "wsjetu324"
+        },
+        "StationID": "7673",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5353",
+        "StopID": "5353",
+        "StopName": {
+          "Zh_tw": "蘆藤腳",
+          "En": "Lutengjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.49314,
+          "PositionLat": 23.13494,
+          "GeoHash": "wsjetgs6v"
+        },
+        "StationID": "7674",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5354",
+        "StopID": "5354",
+        "StopName": {
+          "Zh_tw": "東龜丹",
+          "En": "East Gueidan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.49624,
+          "PositionLat": 23.13452,
+          "GeoHash": "wsjetgw8m"
+        },
+        "StationID": "7675",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5355",
+        "StopID": "5355",
+        "StopName": {
+          "Zh_tw": "龜丹里",
+          "En": "Gueidan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.50237,
+          "PositionLat": 23.13538,
+          "GeoHash": "wsjew5ejk"
+        },
+        "StationID": "7676",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25113",
+        "StopID": "25113",
+        "StopName": {
+          "Zh_tw": "鳳萊園",
+          "En": "Feng Lai Yuan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.50723,
+          "PositionLat": 23.14032,
+          "GeoHash": "wsjewhwdj"
+        },
+        "StationID": "2444",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25114",
+        "StopID": "25114",
+        "StopName": {
+          "Zh_tw": "開王殿",
+          "En": "Kai Wang Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.51304,
+          "PositionLat": 23.14382,
+          "GeoHash": "wsjewm4yt"
+        },
+        "StationID": "2445",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5356",
+        "StopID": "5356",
+        "StopName": {
+          "Zh_tw": "龜丹溫泉",
+          "En": "Gueidan Warm Spring"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.50821,
+          "PositionLat": 23.13687,
+          "GeoHash": "wsjew5zqh"
+        },
+        "StationID": "3078",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8972",
+        "StopID": "8972",
+        "StopName": {
+          "Zh_tw": "牛坑",
+          "En": "Nioukeng"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.50837,
+          "PositionLat": 23.13441,
+          "GeoHash": "wsjew5rx8"
+        },
+        "StationID": "8521",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8973",
+        "StopID": "8973",
+        "StopName": {
+          "Zh_tw": "三層線",
+          "En": "Sancengsian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.51505,
+          "PositionLat": 23.12961,
+          "GeoHash": "wsjew6s7s"
+        },
+        "StationID": "8523",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5357",
+        "StopID": "5357",
+        "StopName": {
+          "Zh_tw": "龜丹油礦",
+          "En": "Gueidan Oil Field"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.52473,
+          "PositionLat": 23.12888,
+          "GeoHash": "wsjewd7rm"
+        },
+        "StationID": "7677",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T14:04:27+08:00",
+    "VersionID": 10663
+  },
+  {
+    "RouteUID": "TNN1121",
+    "RouteID": "1121",
+    "RouteName": {
+      "Zh_tw": "綠21",
+      "En": "G21"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16202",
+        "OperatorName": {
+          "Zh_tw": "台一大車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN112122",
+    "SubRouteID": "112122",
+    "SubRouteName": {
+      "Zh_tw": "綠21 小黃 龜丹油礦→玉井[僅供預約]",
+      "En": "G21 Shuttle Taxi Gueidan Oil Field→Yujing Bus Station[Reservation only]"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN5358",
+        "StopID": "5358",
+        "StopName": {
+          "Zh_tw": "龜丹油礦",
+          "En": "Gueidan Oil Field"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.52473,
+          "PositionLat": 23.12888,
+          "GeoHash": "wsjewd7rm"
+        },
+        "StationID": "7678",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8974",
+        "StopID": "8974",
+        "StopName": {
+          "Zh_tw": "三層線",
+          "En": "Sancengsian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.51496,
+          "PositionLat": 23.13017,
+          "GeoHash": "wsjew6sr4"
+        },
+        "StationID": "8524",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8975",
+        "StopID": "8975",
+        "StopName": {
+          "Zh_tw": "牛坑",
+          "En": "Nioukeng"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.50854,
+          "PositionLat": 23.13444,
+          "GeoHash": "wsjew5rxu"
+        },
+        "StationID": "8522",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5359",
+        "StopID": "5359",
+        "StopName": {
+          "Zh_tw": "龜丹溫泉",
+          "En": "Gueidan Warm Spring"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.50821,
+          "PositionLat": 23.13687,
+          "GeoHash": "wsjew5zqh"
+        },
+        "StationID": "3078",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25115",
+        "StopID": "25115",
+        "StopName": {
+          "Zh_tw": "開王殿",
+          "En": "Kai Wang Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.51304,
+          "PositionLat": 23.14382,
+          "GeoHash": "wsjewm4yt"
+        },
+        "StationID": "2445",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25116",
+        "StopID": "25116",
+        "StopName": {
+          "Zh_tw": "鳳萊園",
+          "En": "Feng Lai Yuan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.50723,
+          "PositionLat": 23.14032,
+          "GeoHash": "wsjewhwdj"
+        },
+        "StationID": "2444",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5360",
+        "StopID": "5360",
+        "StopName": {
+          "Zh_tw": "龜丹里",
+          "En": "Gueidan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.50243,
+          "PositionLat": 23.13544,
+          "GeoHash": "wsjew5ejw"
+        },
+        "StationID": "7679",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5361",
+        "StopID": "5361",
+        "StopName": {
+          "Zh_tw": "東龜丹",
+          "En": "East Gueidan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.49597,
+          "PositionLat": 23.13464,
+          "GeoHash": "wsjetgw3p"
+        },
+        "StationID": "7680",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5362",
+        "StopID": "5362",
+        "StopName": {
+          "Zh_tw": "蘆藤腳",
+          "En": "Lutengjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.49303,
+          "PositionLat": 23.13522,
+          "GeoHash": "wsjetgsk7"
+        },
+        "StationID": "7681",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5363",
+        "StopID": "5363",
+        "StopName": {
+          "Zh_tw": "林口",
+          "En": "Linkou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.48906,
+          "PositionLat": 23.13857,
+          "GeoHash": "wsjetu1ry"
+        },
+        "StationID": "7682",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16515",
+        "StopID": "16515",
+        "StopName": {
+          "Zh_tw": "三清宮",
+          "En": "Sancing Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.48491,
+          "PositionLat": 23.14145,
+          "GeoHash": "wsjetsy2t"
+        },
+        "StationID": "8941",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5364",
+        "StopID": "5364",
+        "StopName": {
+          "Zh_tw": "鹿陶",
+          "En": "Lutao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.48218,
+          "PositionLat": 23.14243,
+          "GeoHash": "wsjetsuqq"
+        },
+        "StationID": "7221",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8947",
+        "StopID": "8947",
+        "StopName": {
+          "Zh_tw": "鹿陶廟",
+          "En": "Lutao Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.47973,
+          "PositionLat": 23.13861,
+          "GeoHash": "wsjets68j"
+        },
+        "StationID": "8502",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5365",
+        "StopID": "5365",
+        "StopName": {
+          "Zh_tw": "竹圍",
+          "En": "Jhuwei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.47368,
+          "PositionLat": 23.13365,
+          "GeoHash": "wsjet7q72"
+        },
+        "StationID": "7222",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5366",
+        "StopID": "5366",
+        "StopName": {
+          "Zh_tw": "後旦",
+          "En": "Houdan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.46824,
+          "PositionLat": 23.12915,
+          "GeoHash": "wsjet6d31"
+        },
+        "StationID": "7223",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5367",
+        "StopID": "5367",
+        "StopName": {
+          "Zh_tw": "玉田里",
+          "En": "Yutian Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.46534,
+          "PositionLat": 23.12654,
+          "GeoHash": "wsjet601v"
+        },
+        "StationID": "7224",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17680",
+        "StopID": "17680",
+        "StopName": {
+          "Zh_tw": "玉安街口",
+          "En": "Yuan St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.46397,
+          "PositionLat": 23.12572,
+          "GeoHash": "wsjet1zjj"
+        },
+        "StationID": "1767",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN5368",
+        "StopID": "5368",
+        "StopName": {
+          "Zh_tw": "玉井站",
+          "En": "Yujing Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.46037,
+          "PositionLat": 23.12416,
+          "GeoHash": "wsjet1sef"
+        },
+        "StationID": "7115",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T14:04:27+08:00",
+    "VersionID": 10663
+  }
+]
