@@ -1,0 +1,1724 @@
+[
+  {
+    "RouteUID": "TNN1098",
+    "RouteID": "1098",
+    "RouteName": {
+      "Zh_tw": "98",
+      "En": "98"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10001",
+        "OperatorName": {
+          "Zh_tw": "府城客運",
+          "En": "TainanCityBus"
+        },
+        "OperatorCode": "TainanCityBus",
+        "OperatorNo": "0803"
+      }
+    ],
+    "SubRouteUID": "TNN109801",
+    "SubRouteID": "109801",
+    "SubRouteName": {
+      "Zh_tw": "98路 臺南轉運站→觀夕平台",
+      "En": "98 Tainan Bus Station→Sunset Platform"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN31288",
+        "StopID": "31288",
+        "StopName": {
+          "Zh_tw": "臺南轉運站",
+          "En": "Tainan Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.20929,
+          "PositionLat": 23.00216,
+          "GeoHash": "wsj6z7mtr"
+        },
+        "StationID": "9272",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31355",
+        "StopID": "31355",
+        "StopName": {
+          "Zh_tw": "成功路",
+          "En": "Chenggong Rd"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.20788,
+          "PositionLat": 22.99786,
+          "GeoHash": "wsj6z6ssn"
+        },
+        "StationID": "8801",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31289",
+        "StopID": "31289",
+        "StopName": {
+          "Zh_tw": "臺南火車站(中山路C)",
+          "En": "Tainan Train Station(Jhongshan Rd. C)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.21142,
+          "PositionLat": 22.99673,
+          "GeoHash": "wsj6z6rm9"
+        },
+        "StationID": "1093",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31290",
+        "StopID": "31290",
+        "StopName": {
+          "Zh_tw": "延平郡王祠(府前路)",
+          "En": "Koxinga Shrine(Fu-Cian Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.20597,
+          "PositionLat": 22.98906,
+          "GeoHash": "wsj6z352f"
+        },
+        "StationID": "659",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31291",
+        "StopID": "31291",
+        "StopName": {
+          "Zh_tw": "建興國中(府前路)",
+          "En": "Jian-Sing Junior High School(Fucian Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.20424,
+          "PositionLat": 22.98923,
+          "GeoHash": "wsj6z341c"
+        },
+        "StationID": "9607",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31292",
+        "StopID": "31292",
+        "StopName": {
+          "Zh_tw": "林百貨、鄭成功祖廟",
+          "En": "Hayashi Department Store、Koxigan Ancestral Shrine"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.20292,
+          "PositionLat": 22.99262,
+          "GeoHash": "wsj6z39je"
+        },
+        "StationID": "8810",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31293",
+        "StopID": "31293",
+        "StopName": {
+          "Zh_tw": "赤崁樓",
+          "En": "Chihkan Tower"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.20231,
+          "PositionLat": 22.99698,
+          "GeoHash": "wsj6z62xh"
+        },
+        "StationID": "321",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31294",
+        "StopID": "31294",
+        "StopName": {
+          "Zh_tw": "中正商圈(台灣好行)",
+          "En": "Jhongjheng Commercial District(Taiwan Tourist Shuttle)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.19683,
+          "PositionLat": 22.99324,
+          "GeoHash": "wsj6z1u9m"
+        },
+        "StationID": "8807",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31298",
+        "StopID": "31298",
+        "StopName": {
+          "Zh_tw": "億載金城",
+          "En": "Eternal Golden Castle"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.16026,
+          "PositionLat": 22.98909,
+          "GeoHash": "wsj6y3410"
+        },
+        "StationID": "1412",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31299",
+        "StopID": "31299",
+        "StopName": {
+          "Zh_tw": "原住民文化會館",
+          "En": "The Indigenous Culture Museum"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.16391,
+          "PositionLat": 22.99573,
+          "GeoHash": "wsj6y6hxy"
+        },
+        "StationID": "8819",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31300",
+        "StopID": "31300",
+        "StopName": {
+          "Zh_tw": "延平街",
+          "En": "Yanping St."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.16434,
+          "PositionLat": 23.00059,
+          "GeoHash": "wsj6y7jh0"
+        },
+        "StationID": "8821",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31301",
+        "StopID": "31301",
+        "StopName": {
+          "Zh_tw": "安平蚵灰窯文化館",
+          "En": "AnPing Oyster Shell Cement Kiln Museum"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.16428,
+          "PositionLat": 23.00243,
+          "GeoHash": "wsj6y7kyy"
+        },
+        "StationID": "8822",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31302",
+        "StopID": "31302",
+        "StopName": {
+          "Zh_tw": "安平古堡(安北路)",
+          "En": "Fort Zeelandia(An-Bei Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.16052,
+          "PositionLat": 23.00278,
+          "GeoHash": "wsj6y7d0z"
+        },
+        "StationID": "8863",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31303",
+        "StopID": "31303",
+        "StopName": {
+          "Zh_tw": "德記洋行、安平樹屋",
+          "En": "Tait&Co. and Anping Tree House"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.15828,
+          "PositionLat": 23.00221,
+          "GeoHash": "wsj6y72td"
+        },
+        "StationID": "8824",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31413",
+        "StopID": "31413",
+        "StopName": {
+          "Zh_tw": "古運河(福爾摩沙遊艇酒店)",
+          "En": "Old Canal(Formosa Yacht Resort)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.15426,
+          "PositionLat": 23.00044,
+          "GeoHash": "wsj6y5jem"
+        },
+        "StationID": "8825",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31304",
+        "StopID": "31304",
+        "StopName": {
+          "Zh_tw": "大員皇冠假日酒店(安北路)",
+          "En": "Crowne Plaza Tainan(Anbei Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.15007,
+          "PositionLat": 22.99866,
+          "GeoHash": "wsj6y4f8g"
+        },
+        "StationID": "1589",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31305",
+        "StopID": "31305",
+        "StopName": {
+          "Zh_tw": "觀夕平台",
+          "En": "Sunset Platform"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.14705,
+          "PositionLat": 22.99064,
+          "GeoHash": "wsj6y126j"
+        },
+        "StationID": "8854",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T18:04:25+08:00",
+    "VersionID": 10664
+  },
+  {
+    "RouteUID": "TNN1098",
+    "RouteID": "1098",
+    "RouteName": {
+      "Zh_tw": "98",
+      "En": "98"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10001",
+        "OperatorName": {
+          "Zh_tw": "府城客運",
+          "En": "TainanCityBus"
+        },
+        "OperatorCode": "TainanCityBus",
+        "OperatorNo": "0803"
+      }
+    ],
+    "SubRouteUID": "TNN109802",
+    "SubRouteID": "109802",
+    "SubRouteName": {
+      "Zh_tw": "98路 觀夕平台→臺南轉運站",
+      "En": "98 Sunset Platform→Tainan Bus Station"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN31338",
+        "StopID": "31338",
+        "StopName": {
+          "Zh_tw": "觀夕平台",
+          "En": "Sunset Platform"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.14705,
+          "PositionLat": 22.99064,
+          "GeoHash": "wsj6y126j"
+        },
+        "StationID": "8854",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31339",
+        "StopID": "31339",
+        "StopName": {
+          "Zh_tw": "大員皇冠假日酒店(安北路)",
+          "En": "Crowne Plaza Tainan(Anbei Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.15001,
+          "PositionLat": 22.99849,
+          "GeoHash": "wsj6y4dxf"
+        },
+        "StationID": "1590",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31414",
+        "StopID": "31414",
+        "StopName": {
+          "Zh_tw": "古運河(福爾摩沙遊艇酒店)",
+          "En": "Old Canal(Formosa Yacht Resort)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.15414,
+          "PositionLat": 23.00035,
+          "GeoHash": "wsj6y5jdf"
+        },
+        "StationID": "8828",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31340",
+        "StopID": "31340",
+        "StopName": {
+          "Zh_tw": "德記洋行、安平樹屋",
+          "En": "Tait&Co. and Anping Tree House"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.15833,
+          "PositionLat": 23.00215,
+          "GeoHash": "wsj6y72th"
+        },
+        "StationID": "8829",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31341",
+        "StopID": "31341",
+        "StopName": {
+          "Zh_tw": "安平古堡(安北路)",
+          "En": "Anping Fort(Anbei Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.16142,
+          "PositionLat": 23.00283,
+          "GeoHash": "wsj6y7dch"
+        },
+        "StationID": "8855",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31342",
+        "StopID": "31342",
+        "StopName": {
+          "Zh_tw": "延平街",
+          "En": "Yen-Ping Street"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.16417,
+          "PositionLat": 23.00045,
+          "GeoHash": "wsj6y7hgk"
+        },
+        "StationID": "8831",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31343",
+        "StopID": "31343",
+        "StopName": {
+          "Zh_tw": "原住民文化會館",
+          "En": "The Indigenous Culture Museum"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.16367,
+          "PositionLat": 22.99585,
+          "GeoHash": "wsj6y6k88"
+        },
+        "StationID": "8833",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31344",
+        "StopID": "31344",
+        "StopName": {
+          "Zh_tw": "億載金城",
+          "En": "Eternal Golden Castle"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.16013,
+          "PositionLat": 22.98907,
+          "GeoHash": "wsj6y31cj"
+        },
+        "StationID": "1400",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31348",
+        "StopID": "31348",
+        "StopName": {
+          "Zh_tw": "中正商圈(台灣好行)",
+          "En": "Jhongjheng Commercial District(Taiwan Tourist Shuttle)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.19657,
+          "PositionLat": 22.99305,
+          "GeoHash": "wsj6z1u2p"
+        },
+        "StationID": "8806",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31349",
+        "StopID": "31349",
+        "StopName": {
+          "Zh_tw": "赤崁樓",
+          "En": "Chihkan Tower"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.20221,
+          "PositionLat": 22.99691,
+          "GeoHash": "wsj6z62wd"
+        },
+        "StationID": "366",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31350",
+        "StopID": "31350",
+        "StopName": {
+          "Zh_tw": "林百貨、鄭成功祖廟",
+          "En": "Hayashi Department Store、Koxigan Ancestral Shrine"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.20271,
+          "PositionLat": 22.99242,
+          "GeoHash": "wsj6z38uw"
+        },
+        "StationID": "8841",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31351",
+        "StopID": "31351",
+        "StopName": {
+          "Zh_tw": "建興國中(府前路)",
+          "En": "Jian-Sing Junior High School(Fucian Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.20344,
+          "PositionLat": 22.98926,
+          "GeoHash": "wsj6z316p"
+        },
+        "StationID": "9608",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31352",
+        "StopID": "31352",
+        "StopName": {
+          "Zh_tw": "延平郡王祠(府前路)",
+          "En": "Koxinga Shrine(Fu-Cian Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.20589,
+          "PositionLat": 22.98902,
+          "GeoHash": "wsj6z3528"
+        },
+        "StationID": "627",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31353",
+        "StopID": "31353",
+        "StopName": {
+          "Zh_tw": "臺南火車站(中山路D)",
+          "En": "Tainan Train Station(Jhongshan Rd. D)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.21113,
+          "PositionLat": 22.99641,
+          "GeoHash": "wsj6z6r5f"
+        },
+        "StationID": "1094",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31356",
+        "StopID": "31356",
+        "StopName": {
+          "Zh_tw": "成功路",
+          "En": "Chenggong Rd"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.20761,
+          "PositionLat": 22.99806,
+          "GeoHash": "wsj6z6st2"
+        },
+        "StationID": "8850",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31354",
+        "StopID": "31354",
+        "StopName": {
+          "Zh_tw": "臺南轉運站",
+          "En": "Tainan Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.20928,
+          "PositionLat": 23.00187,
+          "GeoHash": "wsj6z7mex"
+        },
+        "StationID": "9213",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T18:04:25+08:00",
+    "VersionID": 10664
+  },
+  {
+    "RouteUID": "TNN1098",
+    "RouteID": "1098",
+    "RouteName": {
+      "Zh_tw": "98",
+      "En": "98"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10001",
+        "OperatorName": {
+          "Zh_tw": "府城客運",
+          "En": "TainanCityBus"
+        },
+        "OperatorCode": "TainanCityBus",
+        "OperatorNo": "0803"
+      }
+    ],
+    "SubRouteUID": "TNN109811",
+    "SubRouteID": "109811",
+    "SubRouteName": {
+      "Zh_tw": "98路 臺南轉運站→七股鹽山",
+      "En": "98 Tainan Bus Station→Cigu Salt Mountain"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN31288",
+        "StopID": "31288",
+        "StopName": {
+          "Zh_tw": "臺南轉運站",
+          "En": "Tainan Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.20929,
+          "PositionLat": 23.00216,
+          "GeoHash": "wsj6z7mtr"
+        },
+        "StationID": "9272",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31355",
+        "StopID": "31355",
+        "StopName": {
+          "Zh_tw": "成功路",
+          "En": "Chenggong Rd"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.20788,
+          "PositionLat": 22.99786,
+          "GeoHash": "wsj6z6ssn"
+        },
+        "StationID": "8801",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31289",
+        "StopID": "31289",
+        "StopName": {
+          "Zh_tw": "臺南火車站(中山路C)",
+          "En": "Tainan Train Station(Jhongshan Rd. C)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.21142,
+          "PositionLat": 22.99673,
+          "GeoHash": "wsj6z6rm9"
+        },
+        "StationID": "1093",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31290",
+        "StopID": "31290",
+        "StopName": {
+          "Zh_tw": "延平郡王祠(府前路)",
+          "En": "Koxinga Shrine(Fu-Cian Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.20597,
+          "PositionLat": 22.98906,
+          "GeoHash": "wsj6z352f"
+        },
+        "StationID": "659",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31291",
+        "StopID": "31291",
+        "StopName": {
+          "Zh_tw": "建興國中(府前路)",
+          "En": "Jian-Sing Junior High School(Fucian Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.20424,
+          "PositionLat": 22.98923,
+          "GeoHash": "wsj6z341c"
+        },
+        "StationID": "9607",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31292",
+        "StopID": "31292",
+        "StopName": {
+          "Zh_tw": "林百貨、鄭成功祖廟",
+          "En": "Hayashi Department Store、Koxigan Ancestral Shrine"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.20292,
+          "PositionLat": 22.99262,
+          "GeoHash": "wsj6z39je"
+        },
+        "StationID": "8810",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31293",
+        "StopID": "31293",
+        "StopName": {
+          "Zh_tw": "赤崁樓",
+          "En": "Chihkan Tower"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.20231,
+          "PositionLat": 22.99698,
+          "GeoHash": "wsj6z62xh"
+        },
+        "StationID": "321",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31294",
+        "StopID": "31294",
+        "StopName": {
+          "Zh_tw": "中正商圈(台灣好行)",
+          "En": "Jhongjheng Commercial District(Taiwan Tourist Shuttle)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.19683,
+          "PositionLat": 22.99324,
+          "GeoHash": "wsj6z1u9m"
+        },
+        "StationID": "8807",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31298",
+        "StopID": "31298",
+        "StopName": {
+          "Zh_tw": "億載金城",
+          "En": "Eternal Golden Castle"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.16026,
+          "PositionLat": 22.98909,
+          "GeoHash": "wsj6y3410"
+        },
+        "StationID": "1412",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31299",
+        "StopID": "31299",
+        "StopName": {
+          "Zh_tw": "原住民文化會館",
+          "En": "The Indigenous Culture Museum"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.16391,
+          "PositionLat": 22.99573,
+          "GeoHash": "wsj6y6hxy"
+        },
+        "StationID": "8819",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31300",
+        "StopID": "31300",
+        "StopName": {
+          "Zh_tw": "延平街",
+          "En": "Yanping St."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.16434,
+          "PositionLat": 23.00059,
+          "GeoHash": "wsj6y7jh0"
+        },
+        "StationID": "8821",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31301",
+        "StopID": "31301",
+        "StopName": {
+          "Zh_tw": "安平蚵灰窯文化館",
+          "En": "AnPing Oyster Shell Cement Kiln Museum"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.16428,
+          "PositionLat": 23.00243,
+          "GeoHash": "wsj6y7kyy"
+        },
+        "StationID": "8822",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31302",
+        "StopID": "31302",
+        "StopName": {
+          "Zh_tw": "安平古堡(安北路)",
+          "En": "Fort Zeelandia(An-Bei Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.16052,
+          "PositionLat": 23.00278,
+          "GeoHash": "wsj6y7d0z"
+        },
+        "StationID": "8863",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31303",
+        "StopID": "31303",
+        "StopName": {
+          "Zh_tw": "德記洋行、安平樹屋",
+          "En": "Tait&Co. and Anping Tree House"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.15828,
+          "PositionLat": 23.00221,
+          "GeoHash": "wsj6y72td"
+        },
+        "StationID": "8824",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31413",
+        "StopID": "31413",
+        "StopName": {
+          "Zh_tw": "古運河(福爾摩沙遊艇酒店)",
+          "En": "Old Canal(Formosa Yacht Resort)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.15426,
+          "PositionLat": 23.00044,
+          "GeoHash": "wsj6y5jem"
+        },
+        "StationID": "8825",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31304",
+        "StopID": "31304",
+        "StopName": {
+          "Zh_tw": "大員皇冠假日酒店(安北路)",
+          "En": "Crowne Plaza Tainan(Anbei Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.15007,
+          "PositionLat": 22.99866,
+          "GeoHash": "wsj6y4f8g"
+        },
+        "StationID": "1589",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31305",
+        "StopID": "31305",
+        "StopName": {
+          "Zh_tw": "觀夕平台",
+          "En": "Sunset Platform"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.14705,
+          "PositionLat": 22.99064,
+          "GeoHash": "wsj6y126j"
+        },
+        "StationID": "8854",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31306",
+        "StopID": "31306",
+        "StopName": {
+          "Zh_tw": "台江國家公園管理處",
+          "En": "Taijiang National Park Headquarters"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.13564,
+          "PositionLat": 23.00326,
+          "GeoHash": "wsj6vg85e"
+        },
+        "StationID": "9904",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31307",
+        "StopID": "31307",
+        "StopName": {
+          "Zh_tw": "四草生態文化園區(大眾廟)",
+          "En": "Sihcao Ecological ＆ Cultural Area(Dajhong Temple)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.13473,
+          "PositionLat": 23.01924,
+          "GeoHash": "wsj6vwx2y"
+        },
+        "StationID": "1028",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31308",
+        "StopID": "31308",
+        "StopName": {
+          "Zh_tw": "四草野生動物保護區",
+          "En": "Sihcao Wildlife Conservation Area"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.13744,
+          "PositionLat": 23.02644,
+          "GeoHash": "wsj6vzc6t"
+        },
+        "StationID": "1022",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31309",
+        "StopID": "31309",
+        "StopName": {
+          "Zh_tw": "鹿耳門天后宮(鹿耳門橋)",
+          "En": "Luermen Matsu Temple(Lu-Er Bridge)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.12825,
+          "PositionLat": 23.03657,
+          "GeoHash": "wsj7j9dtx"
+        },
+        "StationID": "1015",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31311",
+        "StopID": "31311",
+        "StopName": {
+          "Zh_tw": "聖母廟(城安路)",
+          "En": "Shengmu Temple(ChengAn Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.12791,
+          "PositionLat": 23.06651,
+          "GeoHash": "wsj7jx4kp"
+        },
+        "StationID": "1937",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31318",
+        "StopID": "31318",
+        "StopName": {
+          "Zh_tw": "龍山里",
+          "En": "Longshan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.11386,
+          "PositionLat": 23.13805,
+          "GeoHash": "wsj7tk0hz"
+        },
+        "StationID": "9930",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31315",
+        "StopID": "31315",
+        "StopName": {
+          "Zh_tw": "臺灣鹽博物館",
+          "En": "Taiwan Salt Museum"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.10501,
+          "PositionLat": 23.15476,
+          "GeoHash": "wsj7tp1y3"
+        },
+        "StationID": "9934",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31316",
+        "StopID": "31316",
+        "StopName": {
+          "Zh_tw": "七股鹽山",
+          "En": "Cigu Salt Mountain"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.09897,
+          "PositionLat": 23.15295,
+          "GeoHash": "wsj7syv7s"
+        },
+        "StationID": "9927",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T18:04:25+08:00",
+    "VersionID": 10664
+  },
+  {
+    "RouteUID": "TNN1098",
+    "RouteID": "1098",
+    "RouteName": {
+      "Zh_tw": "98",
+      "En": "98"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10001",
+        "OperatorName": {
+          "Zh_tw": "府城客運",
+          "En": "TainanCityBus"
+        },
+        "OperatorCode": "TainanCityBus",
+        "OperatorNo": "0803"
+      }
+    ],
+    "SubRouteUID": "TNN109812",
+    "SubRouteID": "109812",
+    "SubRouteName": {
+      "Zh_tw": "98路 七股鹽山→臺南轉運站",
+      "En": "98 Cigu Salt Mountain→Tainan Bus Station"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN31327",
+        "StopID": "31327",
+        "StopName": {
+          "Zh_tw": "七股鹽山",
+          "En": "Cigu Salt Mountain"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.09897,
+          "PositionLat": 23.15295,
+          "GeoHash": "wsj7syv7s"
+        },
+        "StationID": "9927",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31328",
+        "StopID": "31328",
+        "StopName": {
+          "Zh_tw": "臺灣鹽博物館",
+          "En": "Taiwan Salt Museum"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.10501,
+          "PositionLat": 23.15476,
+          "GeoHash": "wsj7tp1y3"
+        },
+        "StationID": "9934",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31325",
+        "StopID": "31325",
+        "StopName": {
+          "Zh_tw": "龍山里",
+          "En": "Longshan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.11368,
+          "PositionLat": 23.13818,
+          "GeoHash": "wsj7tk0je"
+        },
+        "StationID": "9925",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31332",
+        "StopID": "31332",
+        "StopName": {
+          "Zh_tw": "聖母廟(城安路)",
+          "En": "Shengmu Temple(ChengAn Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.12827,
+          "PositionLat": 23.06669,
+          "GeoHash": "wsj7jx4tp"
+        },
+        "StationID": "1130",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31334",
+        "StopID": "31334",
+        "StopName": {
+          "Zh_tw": "鹿耳門天后宮(鹿耳門橋)",
+          "En": "Luermen Matsu Temple(Lu-Er Bridge)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.12794,
+          "PositionLat": 23.03661,
+          "GeoHash": "wsj7j9dmz"
+        },
+        "StationID": "1016",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31335",
+        "StopID": "31335",
+        "StopName": {
+          "Zh_tw": "四草野生動物保護區",
+          "En": "Sihcao Wildlife Conservation Area"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.13742,
+          "PositionLat": 23.02668,
+          "GeoHash": "wsj6vzckh"
+        },
+        "StationID": "1009",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31336",
+        "StopID": "31336",
+        "StopName": {
+          "Zh_tw": "四草生態文化園區(大眾廟)",
+          "En": "Sihcao Ecological ＆ Cultural Area(Dajhong Temple)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.13471,
+          "PositionLat": 23.01928,
+          "GeoHash": "wsj6vwx3j"
+        },
+        "StationID": "1010",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31337",
+        "StopID": "31337",
+        "StopName": {
+          "Zh_tw": "台江國家公園管理處",
+          "En": "Taijiang National Park Headquarters"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.13581,
+          "PositionLat": 23.00155,
+          "GeoHash": "wsj6vg21x"
+        },
+        "StationID": "9909",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31338",
+        "StopID": "31338",
+        "StopName": {
+          "Zh_tw": "觀夕平台",
+          "En": "Sunset Platform"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.14705,
+          "PositionLat": 22.99064,
+          "GeoHash": "wsj6y126j"
+        },
+        "StationID": "8854",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31339",
+        "StopID": "31339",
+        "StopName": {
+          "Zh_tw": "大員皇冠假日酒店(安北路)",
+          "En": "Crowne Plaza Tainan(Anbei Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.15001,
+          "PositionLat": 22.99849,
+          "GeoHash": "wsj6y4dxf"
+        },
+        "StationID": "1590",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31414",
+        "StopID": "31414",
+        "StopName": {
+          "Zh_tw": "古運河(福爾摩沙遊艇酒店)",
+          "En": "Old Canal(Formosa Yacht Resort)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.15414,
+          "PositionLat": 23.00035,
+          "GeoHash": "wsj6y5jdf"
+        },
+        "StationID": "8828",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31340",
+        "StopID": "31340",
+        "StopName": {
+          "Zh_tw": "德記洋行、安平樹屋",
+          "En": "Tait&Co. and Anping Tree House"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.15833,
+          "PositionLat": 23.00215,
+          "GeoHash": "wsj6y72th"
+        },
+        "StationID": "8829",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31341",
+        "StopID": "31341",
+        "StopName": {
+          "Zh_tw": "安平古堡(安北路)",
+          "En": "Anping Fort(Anbei Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.16142,
+          "PositionLat": 23.00283,
+          "GeoHash": "wsj6y7dch"
+        },
+        "StationID": "8855",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31342",
+        "StopID": "31342",
+        "StopName": {
+          "Zh_tw": "延平街",
+          "En": "Yen-Ping Street"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.16417,
+          "PositionLat": 23.00045,
+          "GeoHash": "wsj6y7hgk"
+        },
+        "StationID": "8831",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31343",
+        "StopID": "31343",
+        "StopName": {
+          "Zh_tw": "原住民文化會館",
+          "En": "The Indigenous Culture Museum"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.16367,
+          "PositionLat": 22.99585,
+          "GeoHash": "wsj6y6k88"
+        },
+        "StationID": "8833",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31344",
+        "StopID": "31344",
+        "StopName": {
+          "Zh_tw": "億載金城",
+          "En": "Eternal Golden Castle"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.16013,
+          "PositionLat": 22.98907,
+          "GeoHash": "wsj6y31cj"
+        },
+        "StationID": "1400",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31348",
+        "StopID": "31348",
+        "StopName": {
+          "Zh_tw": "中正商圈(台灣好行)",
+          "En": "Jhongjheng Commercial District(Taiwan Tourist Shuttle)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.19657,
+          "PositionLat": 22.99305,
+          "GeoHash": "wsj6z1u2p"
+        },
+        "StationID": "8806",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31349",
+        "StopID": "31349",
+        "StopName": {
+          "Zh_tw": "赤崁樓",
+          "En": "Chihkan Tower"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.20221,
+          "PositionLat": 22.99691,
+          "GeoHash": "wsj6z62wd"
+        },
+        "StationID": "366",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31350",
+        "StopID": "31350",
+        "StopName": {
+          "Zh_tw": "林百貨、鄭成功祖廟",
+          "En": "Hayashi Department Store、Koxigan Ancestral Shrine"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.20271,
+          "PositionLat": 22.99242,
+          "GeoHash": "wsj6z38uw"
+        },
+        "StationID": "8841",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31351",
+        "StopID": "31351",
+        "StopName": {
+          "Zh_tw": "建興國中(府前路)",
+          "En": "Jian-Sing Junior High School(Fucian Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.20344,
+          "PositionLat": 22.98926,
+          "GeoHash": "wsj6z316p"
+        },
+        "StationID": "9608",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31352",
+        "StopID": "31352",
+        "StopName": {
+          "Zh_tw": "延平郡王祠(府前路)",
+          "En": "Koxinga Shrine(Fu-Cian Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.20589,
+          "PositionLat": 22.98902,
+          "GeoHash": "wsj6z3528"
+        },
+        "StationID": "627",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31353",
+        "StopID": "31353",
+        "StopName": {
+          "Zh_tw": "臺南火車站(中山路D)",
+          "En": "Tainan Train Station(Jhongshan Rd. D)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.21113,
+          "PositionLat": 22.99641,
+          "GeoHash": "wsj6z6r5f"
+        },
+        "StationID": "1094",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31356",
+        "StopID": "31356",
+        "StopName": {
+          "Zh_tw": "成功路",
+          "En": "Chenggong Rd"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.20761,
+          "PositionLat": 22.99806,
+          "GeoHash": "wsj6z6st2"
+        },
+        "StationID": "8850",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31354",
+        "StopID": "31354",
+        "StopName": {
+          "Zh_tw": "臺南轉運站",
+          "En": "Tainan Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.20928,
+          "PositionLat": 23.00187,
+          "GeoHash": "wsj6z7mex"
+        },
+        "StationID": "9213",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T18:04:25+08:00",
+    "VersionID": 10664
+  },
+  {
+    "RouteUID": "TNN1098",
+    "RouteID": "1098",
+    "RouteName": {
+      "Zh_tw": "98",
+      "En": "98"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10001",
+        "OperatorName": {
+          "Zh_tw": "府城客運",
+          "En": "TainanCityBus"
+        },
+        "OperatorCode": "TainanCityBus",
+        "OperatorNo": "0803"
+      }
+    ],
+    "SubRouteUID": "TNN109821",
+    "SubRouteID": "109821",
+    "SubRouteName": {
+      "Zh_tw": "98路 七股鹽山→黑面琵鷺賞鳥亭",
+      "En": "98 Cigu Salt Mountain→Black-faced Spoonbill Bird-Watching Pavilion"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN31316",
+        "StopID": "31316",
+        "StopName": {
+          "Zh_tw": "七股鹽山",
+          "En": "Cigu Salt Mountain"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.09897,
+          "PositionLat": 23.15295,
+          "GeoHash": "wsj7syv7s"
+        },
+        "StationID": "9927",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31317",
+        "StopID": "31317",
+        "StopName": {
+          "Zh_tw": "臺灣鹽博物館",
+          "En": "Taiwan Salt Museum"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.10501,
+          "PositionLat": 23.15476,
+          "GeoHash": "wsj7tp1y3"
+        },
+        "StationID": "9934",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31320",
+        "StopID": "31320",
+        "StopName": {
+          "Zh_tw": "黑面琵鷺生態展示館",
+          "En": "Black-faced Spoonbill Ecology Exhibition Hall"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.06211,
+          "PositionLat": 23.08226,
+          "GeoHash": "wsj7k1fxc"
+        },
+        "StationID": "9938",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31321",
+        "StopID": "31321",
+        "StopName": {
+          "Zh_tw": "黑面琵鷺賞鳥亭",
+          "En": "Black-faced Spoonbill Bird-Watching Pavilion"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.05371,
+          "PositionLat": 23.07957,
+          "GeoHash": "wsj77cs2n"
+        },
+        "StationID": "9939",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T18:04:25+08:00",
+    "VersionID": 10664
+  },
+  {
+    "RouteUID": "TNN1098",
+    "RouteID": "1098",
+    "RouteName": {
+      "Zh_tw": "98",
+      "En": "98"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10001",
+        "OperatorName": {
+          "Zh_tw": "府城客運",
+          "En": "TainanCityBus"
+        },
+        "OperatorCode": "TainanCityBus",
+        "OperatorNo": "0803"
+      }
+    ],
+    "SubRouteUID": "TNN109822",
+    "SubRouteID": "109822",
+    "SubRouteName": {
+      "Zh_tw": "98路 黑面琵鷺賞鳥亭→七股鹽山",
+      "En": "98 Black-faced Spoonbill Bird-Watching Pavilion→Cigu Salt Mountain"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN31322",
+        "StopID": "31322",
+        "StopName": {
+          "Zh_tw": "黑面琵鷺賞鳥亭",
+          "En": "Black-faced Spoonbill Bird-Watching Pavilion"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.05371,
+          "PositionLat": 23.07957,
+          "GeoHash": "wsj77cs2n"
+        },
+        "StationID": "9940",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31323",
+        "StopID": "31323",
+        "StopName": {
+          "Zh_tw": "黑面琵鷺生態展示館",
+          "En": "Black-faced Spoonbill Ecology Exhibition Hall"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.06222,
+          "PositionLat": 23.08221,
+          "GeoHash": "wsj7k1fxs"
+        },
+        "StationID": "9941",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31326",
+        "StopID": "31326",
+        "StopName": {
+          "Zh_tw": "臺灣鹽博物館",
+          "En": "Taiwan Salt Museum"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.10501,
+          "PositionLat": 23.15476,
+          "GeoHash": "wsj7tp1y3"
+        },
+        "StationID": "9934",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31327",
+        "StopID": "31327",
+        "StopName": {
+          "Zh_tw": "七股鹽山",
+          "En": "Cigu Salt Mountain"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.09897,
+          "PositionLat": 23.15295,
+          "GeoHash": "wsj7syv7s"
+        },
+        "StationID": "9927",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T18:04:25+08:00",
+    "VersionID": 10664
+  }
+]

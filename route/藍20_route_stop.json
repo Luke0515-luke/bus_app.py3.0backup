@@ -1,0 +1,1052 @@
+[
+  {
+    "RouteUID": "TNN1220",
+    "RouteID": "1220",
+    "RouteName": {
+      "Zh_tw": "藍20",
+      "En": "B20"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10160",
+        "OperatorName": {
+          "Zh_tw": "興南客運",
+          "En": "Shing Nan Bus Co., Ltd."
+        },
+        "OperatorCode": "ShingNanBus",
+        "OperatorNo": "1601"
+      }
+    ],
+    "SubRouteUID": "TNN122001",
+    "SubRouteID": "122001",
+    "SubRouteName": {
+      "Zh_tw": "藍20 佳里→台區→青鯤鯓→馬沙溝遊憩區",
+      "En": "B20 Jiali Bus Station→Mashagou Recreation Area"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN6100",
+        "StopID": "6100",
+        "StopName": {
+          "Zh_tw": "佳里站",
+          "En": "Jiali Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.17735,
+          "PositionLat": 23.16312,
+          "GeoHash": "wsj7y8wqz"
+        },
+        "StationID": "7371",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6101",
+        "StopID": "6101",
+        "StopName": {
+          "Zh_tw": "愛明橋",
+          "En": "Aiming Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.17474,
+          "PositionLat": 23.16118,
+          "GeoHash": "wsj7y8ked"
+        },
+        "StationID": "7573",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6102",
+        "StopID": "6102",
+        "StopName": {
+          "Zh_tw": "佳里國中",
+          "En": "Jiali Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.17071,
+          "PositionLat": 23.15884,
+          "GeoHash": "wsj7wxcwh"
+        },
+        "StationID": "7826",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6103",
+        "StopID": "6103",
+        "StopName": {
+          "Zh_tw": "佳里新城",
+          "En": "Jiali Housing Complex"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.16453,
+          "PositionLat": 23.15748,
+          "GeoHash": "wsj7wrtnh"
+        },
+        "StationID": "7827",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6104",
+        "StopID": "6104",
+        "StopName": {
+          "Zh_tw": "大寮",
+          "En": "Daliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.14983,
+          "PositionLat": 23.14901,
+          "GeoHash": "wsj7wn4kv"
+        },
+        "StationID": "7828",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6105",
+        "StopID": "6105",
+        "StopName": {
+          "Zh_tw": "三合",
+          "En": "Sanhe"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.14535,
+          "PositionLat": 23.14589,
+          "GeoHash": "wsj7tvx4t"
+        },
+        "StationID": "7829",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6106",
+        "StopID": "6106",
+        "StopName": {
+          "Zh_tw": "七股農會",
+          "En": "Cigu Farmers’ Assn."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.14201,
+          "PositionLat": 23.14319,
+          "GeoHash": "wsj7tvhdz"
+        },
+        "StationID": "7830",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6107",
+        "StopID": "6107",
+        "StopName": {
+          "Zh_tw": "七股區公所",
+          "En": "Cigu District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.13913,
+          "PositionLat": 23.14085,
+          "GeoHash": "wsj7tudth"
+        },
+        "StationID": "7831",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6108",
+        "StopID": "6108",
+        "StopName": {
+          "Zh_tw": "五股",
+          "En": "Wugu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.13738,
+          "PositionLat": 23.13936,
+          "GeoHash": "wsj7tu3ke"
+        },
+        "StationID": "7832",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6109",
+        "StopID": "6109",
+        "StopName": {
+          "Zh_tw": "玉成",
+          "En": "Yucheng"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.13396,
+          "PositionLat": 23.13544,
+          "GeoHash": "wsj7tewvs"
+        },
+        "StationID": "7833",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6110",
+        "StopID": "6110",
+        "StopName": {
+          "Zh_tw": "東七股寮",
+          "En": "East Ciguliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.13286,
+          "PositionLat": 23.13398,
+          "GeoHash": "wsj7teqj4"
+        },
+        "StationID": "7834",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6111",
+        "StopID": "6111",
+        "StopName": {
+          "Zh_tw": "七股寮",
+          "En": "Ciguliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.13007,
+          "PositionLat": 23.13479,
+          "GeoHash": "wsj7tes1c"
+        },
+        "StationID": "7835",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25046",
+        "StopID": "25046",
+        "StopName": {
+          "Zh_tw": "七股里活動中心",
+          "En": "Cigu Vil. Community Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.12768,
+          "PositionLat": 23.13519,
+          "GeoHash": "wsj7tedk1"
+        },
+        "StationID": "2436",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6112",
+        "StopID": "6112",
+        "StopName": {
+          "Zh_tw": "東龍山里",
+          "En": "Donglongshan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.11714,
+          "PositionLat": 23.13736,
+          "GeoHash": "wsj7tk48u"
+        },
+        "StationID": "7836",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6113",
+        "StopID": "6113",
+        "StopName": {
+          "Zh_tw": "龍山里",
+          "En": "Longshan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.11386,
+          "PositionLat": 23.13805,
+          "GeoHash": "wsj7tk0hz"
+        },
+        "StationID": "9930",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6114",
+        "StopID": "6114",
+        "StopName": {
+          "Zh_tw": "沙崙寮",
+          "En": "Shalunliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.10915,
+          "PositionLat": 23.14668,
+          "GeoHash": "wsj7tjsz4"
+        },
+        "StationID": "7837",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31707",
+        "StopID": "31707",
+        "StopName": {
+          "Zh_tw": "光復實小",
+          "En": "Guangfu Experimental Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.10791,
+          "PositionLat": 23.14976,
+          "GeoHash": "wsj7tn7cj"
+        },
+        "StationID": "2912",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6115",
+        "StopID": "6115",
+        "StopName": {
+          "Zh_tw": "中寮子",
+          "En": "Jhongliaozih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.10693,
+          "PositionLat": 23.15248,
+          "GeoHash": "wsj7tng0y"
+        },
+        "StationID": "7838",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6116",
+        "StopID": "6116",
+        "StopName": {
+          "Zh_tw": "七股遊客中心",
+          "En": "Cigu Visitor Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.10328,
+          "PositionLat": 23.15299,
+          "GeoHash": "wsj7tnbec"
+        },
+        "StationID": "9932",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6117",
+        "StopID": "6117",
+        "StopName": {
+          "Zh_tw": "七股鹽山",
+          "En": "Cigu Salt Mountain"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.09875,
+          "PositionLat": 23.15247,
+          "GeoHash": "wsj7syv0z"
+        },
+        "StationID": "7839",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6118",
+        "StopID": "6118",
+        "StopName": {
+          "Zh_tw": "新山子寮",
+          "En": "Sinshanzihliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.09149,
+          "PositionLat": 23.15261,
+          "GeoHash": "wsj7swzcw"
+        },
+        "StationID": "7840",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6119",
+        "StopID": "6119",
+        "StopName": {
+          "Zh_tw": "台區",
+          "En": "Taicyu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.08901,
+          "PositionLat": 23.15241,
+          "GeoHash": "wsj7swy0s"
+        },
+        "StationID": "7841",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6120",
+        "StopID": "6120",
+        "StopName": {
+          "Zh_tw": "西寮",
+          "En": "Siliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.09751,
+          "PositionLat": 23.16971,
+          "GeoHash": "wsj7ucum6"
+        },
+        "StationID": "7842",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6121",
+        "StopID": "6121",
+        "StopName": {
+          "Zh_tw": "青鯤鯓前",
+          "En": "Cingkunshencian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.09239,
+          "PositionLat": 23.19161,
+          "GeoHash": "wsj7uvbsg"
+        },
+        "StationID": "7801",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6122",
+        "StopID": "6122",
+        "StopName": {
+          "Zh_tw": "青鯤鯓",
+          "En": "Cingkunshen"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.08842,
+          "PositionLat": 23.19069,
+          "GeoHash": "wsj7uttxx"
+        },
+        "StationID": "7802",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6123",
+        "StopID": "6123",
+        "StopName": {
+          "Zh_tw": "青山漁港",
+          "En": "Cingshan  Fish Port"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.08672,
+          "PositionLat": 23.19072,
+          "GeoHash": "wsj7utsrx"
+        },
+        "StationID": "7803",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30490",
+        "StopID": "30490",
+        "StopName": {
+          "Zh_tw": "扇形鹽田(生命之樹)",
+          "En": "Fan-shaped Salt Fields(Tree of Life) "
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.09108,
+          "PositionLat": 23.19373,
+          "GeoHash": "wsj7uwr9k"
+        },
+        "StationID": "2775",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6124",
+        "StopID": "6124",
+        "StopName": {
+          "Zh_tw": "將軍漁港",
+          "En": "Jiangjyun Fish Port"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.08971,
+          "PositionLat": 23.21121,
+          "GeoHash": "wsjkh9qxj"
+        },
+        "StationID": "3151",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6125",
+        "StopID": "6125",
+        "StopName": {
+          "Zh_tw": "馬沙溝遊憩區",
+          "En": "Mashagou Recreation Area"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.08458,
+          "PositionLat": 23.21694,
+          "GeoHash": "wsjkhddbm"
+        },
+        "StationID": "3152",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T18:04:25+08:00",
+    "VersionID": 10664
+  },
+  {
+    "RouteUID": "TNN1220",
+    "RouteID": "1220",
+    "RouteName": {
+      "Zh_tw": "藍20",
+      "En": "B20"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10160",
+        "OperatorName": {
+          "Zh_tw": "興南客運",
+          "En": "Shing Nan Bus Co., Ltd."
+        },
+        "OperatorCode": "ShingNanBus",
+        "OperatorNo": "1601"
+      }
+    ],
+    "SubRouteUID": "TNN122002",
+    "SubRouteID": "122002",
+    "SubRouteName": {
+      "Zh_tw": "藍20 馬沙溝遊憩區→青鯤鯓→台區→佳里",
+      "En": "B20 Mashagou Recreation Area→Jiali Bus Station"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN6126",
+        "StopID": "6126",
+        "StopName": {
+          "Zh_tw": "馬沙溝遊憩區",
+          "En": "Mashagou Recreation Area"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.08458,
+          "PositionLat": 23.21694,
+          "GeoHash": "wsjkhddbm"
+        },
+        "StationID": "3152",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6127",
+        "StopID": "6127",
+        "StopName": {
+          "Zh_tw": "將軍漁港",
+          "En": "Jiangjyun Fish Port"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.08966,
+          "PositionLat": 23.21093,
+          "GeoHash": "wsjkh9qt7"
+        },
+        "StationID": "3154",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30491",
+        "StopID": "30491",
+        "StopName": {
+          "Zh_tw": "扇形鹽田(生命之樹)",
+          "En": "Fan-shaped Salt Fields(Tree of Life) "
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.09102,
+          "PositionLat": 23.19373,
+          "GeoHash": "wsj7uwr97"
+        },
+        "StationID": "2776",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6128",
+        "StopID": "6128",
+        "StopName": {
+          "Zh_tw": "青山漁港",
+          "En": "Cingshan  Fish Port"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.08672,
+          "PositionLat": 23.19072,
+          "GeoHash": "wsj7utsrx"
+        },
+        "StationID": "7804",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6129",
+        "StopID": "6129",
+        "StopName": {
+          "Zh_tw": "青鯤鯓",
+          "En": "Cingkunshen"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.08848,
+          "PositionLat": 23.19055,
+          "GeoHash": "wsj7utty8"
+        },
+        "StationID": "7805",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6130",
+        "StopID": "6130",
+        "StopName": {
+          "Zh_tw": "青鯤鯓前",
+          "En": "Cingkunshencian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.09281,
+          "PositionLat": 23.19155,
+          "GeoHash": "wsj7uvbut"
+        },
+        "StationID": "7806",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6131",
+        "StopID": "6131",
+        "StopName": {
+          "Zh_tw": "西寮",
+          "En": "Siliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.09729,
+          "PositionLat": 23.16986,
+          "GeoHash": "wsj7ucunj"
+        },
+        "StationID": "7843",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6132",
+        "StopID": "6132",
+        "StopName": {
+          "Zh_tw": "台區",
+          "En": "Taicyu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.08901,
+          "PositionLat": 23.15241,
+          "GeoHash": "wsj7swy0s"
+        },
+        "StationID": "7844",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6133",
+        "StopID": "6133",
+        "StopName": {
+          "Zh_tw": "新山子寮",
+          "En": "Sinshanzihliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.09145,
+          "PositionLat": 23.15246,
+          "GeoHash": "wsj7swzbv"
+        },
+        "StationID": "7845",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6134",
+        "StopID": "6134",
+        "StopName": {
+          "Zh_tw": "七股鹽山",
+          "En": "Cigu Salt Mountain"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.09934,
+          "PositionLat": 23.15231,
+          "GeoHash": "wsj7sytxv"
+        },
+        "StationID": "7846",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6135",
+        "StopID": "6135",
+        "StopName": {
+          "Zh_tw": "七股遊客中心",
+          "En": "Cigu Visitor Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.10326,
+          "PositionLat": 23.15286,
+          "GeoHash": "wsj7tnbe0"
+        },
+        "StationID": "9933",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6136",
+        "StopID": "6136",
+        "StopName": {
+          "Zh_tw": "中寮子",
+          "En": "Jhongliaozih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.10671,
+          "PositionLat": 23.15258,
+          "GeoHash": "wsj7tng19"
+        },
+        "StationID": "7847",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31708",
+        "StopID": "31708",
+        "StopName": {
+          "Zh_tw": "光復實小",
+          "En": "Guangfu Experimental Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.10758,
+          "PositionLat": 23.15047,
+          "GeoHash": "wsj7tn7tm"
+        },
+        "StationID": "2913",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6137",
+        "StopID": "6137",
+        "StopName": {
+          "Zh_tw": "沙崙寮",
+          "En": "Shalunliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.10901,
+          "PositionLat": 23.14682,
+          "GeoHash": "wsj7tjsxy"
+        },
+        "StationID": "7848",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6138",
+        "StopID": "6138",
+        "StopName": {
+          "Zh_tw": "龍山里",
+          "En": "Longshan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.11368,
+          "PositionLat": 23.13818,
+          "GeoHash": "wsj7tk0je"
+        },
+        "StationID": "9925",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6139",
+        "StopID": "6139",
+        "StopName": {
+          "Zh_tw": "東龍山里",
+          "En": "Donglongshan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.11727,
+          "PositionLat": 23.13722,
+          "GeoHash": "wsj7tk48p"
+        },
+        "StationID": "7849",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25047",
+        "StopID": "25047",
+        "StopName": {
+          "Zh_tw": "七股里活動中心",
+          "En": "Cigu Vil. Community Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.12767,
+          "PositionLat": 23.13521,
+          "GeoHash": "wsj7tedk3"
+        },
+        "StationID": "2437",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6140",
+        "StopID": "6140",
+        "StopName": {
+          "Zh_tw": "七股寮",
+          "En": "Ciguliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.13022,
+          "PositionLat": 23.13465,
+          "GeoHash": "wsj7tes1j"
+        },
+        "StationID": "7850",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6141",
+        "StopID": "6141",
+        "StopName": {
+          "Zh_tw": "東七股寮",
+          "En": "East Ciguliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.13275,
+          "PositionLat": 23.13392,
+          "GeoHash": "wsj7temuz"
+        },
+        "StationID": "7851",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6142",
+        "StopID": "6142",
+        "StopName": {
+          "Zh_tw": "玉成",
+          "En": "Yucheng"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.13466,
+          "PositionLat": 23.13637,
+          "GeoHash": "wsj7tez7h"
+        },
+        "StationID": "7852",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6143",
+        "StopID": "6143",
+        "StopName": {
+          "Zh_tw": "五股",
+          "En": "Wugu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.13657,
+          "PositionLat": 23.13861,
+          "GeoHash": "wsj7tu2b0"
+        },
+        "StationID": "7853",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6144",
+        "StopID": "6144",
+        "StopName": {
+          "Zh_tw": "七股區公所",
+          "En": "Cigu District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.13835,
+          "PositionLat": 23.14005,
+          "GeoHash": "wsj7tud0d"
+        },
+        "StationID": "7854",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6145",
+        "StopID": "6145",
+        "StopName": {
+          "Zh_tw": "七股農會",
+          "En": "Cigu Farmers’ Assn."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.14205,
+          "PositionLat": 23.14302,
+          "GeoHash": "wsj7tvhcb"
+        },
+        "StationID": "7855",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6146",
+        "StopID": "6146",
+        "StopName": {
+          "Zh_tw": "三合",
+          "En": "Sanhe"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.14577,
+          "PositionLat": 23.14606,
+          "GeoHash": "wsj7tvx7x"
+        },
+        "StationID": "7856",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6147",
+        "StopID": "6147",
+        "StopName": {
+          "Zh_tw": "大寮",
+          "En": "Daliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.14986,
+          "PositionLat": 23.14891,
+          "GeoHash": "wsj7wn4kn"
+        },
+        "StationID": "7857",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6148",
+        "StopID": "6148",
+        "StopName": {
+          "Zh_tw": "佳里新城",
+          "En": "Jiali Housing Complex"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.16515,
+          "PositionLat": 23.15771,
+          "GeoHash": "wsj7wrtx6"
+        },
+        "StationID": "7858",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6149",
+        "StopID": "6149",
+        "StopName": {
+          "Zh_tw": "佳里國中",
+          "En": "Jiali Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.17057,
+          "PositionLat": 23.15868,
+          "GeoHash": "wsj7wxct1"
+        },
+        "StationID": "7859",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6150",
+        "StopID": "6150",
+        "StopName": {
+          "Zh_tw": "愛明橋",
+          "En": "Aiming Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.17481,
+          "PositionLat": 23.16114,
+          "GeoHash": "wsj7y8kek"
+        },
+        "StationID": "7825",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN6151",
+        "StopID": "6151",
+        "StopName": {
+          "Zh_tw": "佳里站",
+          "En": "Jiali Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.17735,
+          "PositionLat": 23.16312,
+          "GeoHash": "wsj7y8wqz"
+        },
+        "StationID": "7371",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T18:04:25+08:00",
+    "VersionID": 10664
+  }
+]

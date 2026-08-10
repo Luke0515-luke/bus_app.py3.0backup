@@ -1,0 +1,506 @@
+[
+  {
+    "RouteUID": "TNN1227",
+    "RouteID": "1227",
+    "RouteName": {
+      "Zh_tw": "藍27",
+      "En": "B27"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16202",
+        "OperatorName": {
+          "Zh_tw": "台一大車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN122701",
+    "SubRouteID": "122701",
+    "SubRouteName": {
+      "Zh_tw": "藍27 佳里站→溪南里寶龍宮",
+      "En": "B27 Jiali Bus Station→Sinan Vil. Baolong Temple"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN24822",
+        "StopID": "24822",
+        "StopName": {
+          "Zh_tw": "奇美佳里分院",
+          "En": "Chi Mei Jiali Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.18355,
+          "PositionLat": 23.18079,
+          "GeoHash": "wsj7ygfvz"
+        },
+        "StationID": "7569",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24824",
+        "StopID": "24824",
+        "StopName": {
+          "Zh_tw": "佳里站",
+          "En": "Jiali Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.17735,
+          "PositionLat": 23.16312,
+          "GeoHash": "wsj7y8wqz"
+        },
+        "StationID": "7371",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24825",
+        "StopID": "24825",
+        "StopName": {
+          "Zh_tw": "愛明橋",
+          "En": "Aiming Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.17474,
+          "PositionLat": 23.16118,
+          "GeoHash": "wsj7y8ked"
+        },
+        "StationID": "7573",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24826",
+        "StopID": "24826",
+        "StopName": {
+          "Zh_tw": "佳里國中",
+          "En": "Jiali Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.17071,
+          "PositionLat": 23.15884,
+          "GeoHash": "wsj7wxcwh"
+        },
+        "StationID": "7826",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24827",
+        "StopID": "24827",
+        "StopName": {
+          "Zh_tw": "佳里新城",
+          "En": "Jiali Housing Complex"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.16453,
+          "PositionLat": 23.15748,
+          "GeoHash": "wsj7wrtnh"
+        },
+        "StationID": "7827",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24828",
+        "StopID": "24828",
+        "StopName": {
+          "Zh_tw": "大寮龍安宮",
+          "En": "Daliao Long-an Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.15372,
+          "PositionLat": 23.14803,
+          "GeoHash": "wsj7wjvr0"
+        },
+        "StationID": "2382",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24829",
+        "StopID": "24829",
+        "StopName": {
+          "Zh_tw": "埔頂通興宮",
+          "En": "Puding Tongsing Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.15499,
+          "PositionLat": 23.14481,
+          "GeoHash": "wsj7wjqhq"
+        },
+        "StationID": "2384",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24830",
+        "StopID": "24830",
+        "StopName": {
+          "Zh_tw": "東勢寮",
+          "En": "Dongshihliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.15706,
+          "PositionLat": 23.14357,
+          "GeoHash": "wsj7wjptn"
+        },
+        "StationID": "2386",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24831",
+        "StopID": "24831",
+        "StopName": {
+          "Zh_tw": "港墘",
+          "En": "Gangcian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.15901,
+          "PositionLat": 23.13664,
+          "GeoHash": "wsj7w7che"
+        },
+        "StationID": "2388",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24833",
+        "StopID": "24833",
+        "StopName": {
+          "Zh_tw": "蚶寮尾",
+          "En": "Hanliaowei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.15175,
+          "PositionLat": 23.12851,
+          "GeoHash": "wsj7w47v6"
+        },
+        "StationID": "7864",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25058",
+        "StopID": "25058",
+        "StopName": {
+          "Zh_tw": "看坪",
+          "En": "Kanping"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.14746,
+          "PositionLat": 23.12746,
+          "GeoHash": "wsj7w40xn"
+        },
+        "StationID": "7865",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24834",
+        "StopID": "24834",
+        "StopName": {
+          "Zh_tw": "十一分文昌殿",
+          "En": "Shihyifen Wunchang Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.13964,
+          "PositionLat": 23.12339,
+          "GeoHash": "wsj7tc7p8"
+        },
+        "StationID": "2390",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24835",
+        "StopID": "24835",
+        "StopName": {
+          "Zh_tw": "溪南里寶龍宮",
+          "En": "Sinan Vil. Baolong Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.11973,
+          "PositionLat": 23.12732,
+          "GeoHash": "wsj7t6hw2"
+        },
+        "StationID": "2392",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T18:04:25+08:00",
+    "VersionID": 10664
+  },
+  {
+    "RouteUID": "TNN1227",
+    "RouteID": "1227",
+    "RouteName": {
+      "Zh_tw": "藍27",
+      "En": "B27"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16202",
+        "OperatorName": {
+          "Zh_tw": "台一大車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN122702",
+    "SubRouteID": "122702",
+    "SubRouteName": {
+      "Zh_tw": "藍27 溪南里寶龍宮→佳里站",
+      "En": "B27 Sinan Vil. Baolong Temple→Jiali Bus Station"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN24836",
+        "StopID": "24836",
+        "StopName": {
+          "Zh_tw": "溪南里寶龍宮",
+          "En": "Sinan Vil. Baolong Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.11973,
+          "PositionLat": 23.12732,
+          "GeoHash": "wsj7t6hw2"
+        },
+        "StationID": "2392",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24837",
+        "StopID": "24837",
+        "StopName": {
+          "Zh_tw": "十一分文昌殿",
+          "En": "Shihyifen Wunchang Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.13978,
+          "PositionLat": 23.12338,
+          "GeoHash": "wsj7tc7p7"
+        },
+        "StationID": "2391",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25059",
+        "StopID": "25059",
+        "StopName": {
+          "Zh_tw": "看坪",
+          "En": "Kanping"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.14782,
+          "PositionLat": 23.12751,
+          "GeoHash": "wsj7w40zx"
+        },
+        "StationID": "7876",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24838",
+        "StopID": "24838",
+        "StopName": {
+          "Zh_tw": "蚶寮尾",
+          "En": "Hanliaowei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.15177,
+          "PositionLat": 23.12848,
+          "GeoHash": "wsj7w47v5"
+        },
+        "StationID": "7877",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24840",
+        "StopID": "24840",
+        "StopName": {
+          "Zh_tw": "港墘",
+          "En": "Gangcian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.15877,
+          "PositionLat": 23.13653,
+          "GeoHash": "wsj7w7bun"
+        },
+        "StationID": "2389",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24841",
+        "StopID": "24841",
+        "StopName": {
+          "Zh_tw": "東勢寮",
+          "En": "Dongshihliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.15718,
+          "PositionLat": 23.14357,
+          "GeoHash": "wsj7wjpv1"
+        },
+        "StationID": "2387",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24842",
+        "StopID": "24842",
+        "StopName": {
+          "Zh_tw": "埔頂通興宮",
+          "En": "Puding Tongsing Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.15505,
+          "PositionLat": 23.14487,
+          "GeoHash": "wsj7wjqhx"
+        },
+        "StationID": "2385",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24843",
+        "StopID": "24843",
+        "StopName": {
+          "Zh_tw": "大寮龍安宮",
+          "En": "Daliao Long-an Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.15384,
+          "PositionLat": 23.14798,
+          "GeoHash": "wsj7wjvqg"
+        },
+        "StationID": "2383",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24844",
+        "StopID": "24844",
+        "StopName": {
+          "Zh_tw": "佳里新城",
+          "En": "Jiali Housing Complex"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.16515,
+          "PositionLat": 23.15771,
+          "GeoHash": "wsj7wrtx6"
+        },
+        "StationID": "7858",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24845",
+        "StopID": "24845",
+        "StopName": {
+          "Zh_tw": "佳里國中",
+          "En": "Jiali Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.17057,
+          "PositionLat": 23.15868,
+          "GeoHash": "wsj7wxct1"
+        },
+        "StationID": "7859",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24846",
+        "StopID": "24846",
+        "StopName": {
+          "Zh_tw": "愛明橋",
+          "En": "Aiming Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.17481,
+          "PositionLat": 23.16114,
+          "GeoHash": "wsj7y8kek"
+        },
+        "StationID": "7825",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24847",
+        "StopID": "24847",
+        "StopName": {
+          "Zh_tw": "佳里站",
+          "En": "Jiali Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.17735,
+          "PositionLat": 23.16312,
+          "GeoHash": "wsj7y8wqz"
+        },
+        "StationID": "7371",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN24823",
+        "StopID": "24823",
+        "StopName": {
+          "Zh_tw": "奇美佳里分院",
+          "En": "Chi Mei Jiali Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.18374,
+          "PositionLat": 23.18081,
+          "GeoHash": "wsj7yggnh"
+        },
+        "StationID": "7374",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T18:04:25+08:00",
+    "VersionID": 10664
+  }
+]
