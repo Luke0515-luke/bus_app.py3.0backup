@@ -1,0 +1,370 @@
+[
+  {
+    "RouteUID": "TNN1716",
+    "RouteID": "1716",
+    "RouteName": {
+      "Zh_tw": "綠30-1",
+      "En": "G30-1"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16253",
+        "OperatorName": {
+          "Zh_tw": "中華衛星台南車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN171601",
+    "SubRouteID": "171601",
+    "SubRouteName": {
+      "Zh_tw": "綠30-1 左鎮國中→澄山心理園區",
+      "En": "G30-1 Zuojhen Junior High School→Mt.Clarity Body-Mind Creative Park"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN25845",
+        "StopID": "25845",
+        "StopName": {
+          "Zh_tw": "左鎮國中",
+          "En": "Zuojhen Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.41051,
+          "PositionLat": 23.05613,
+          "GeoHash": "wsjehj0r8"
+        },
+        "StationID": "5540",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25847",
+        "StopID": "25847",
+        "StopName": {
+          "Zh_tw": "左鎮區公所",
+          "En": "Zuojhen District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.40884,
+          "PositionLat": 23.05707,
+          "GeoHash": "wsje5vrj1"
+        },
+        "StationID": "5541",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25848",
+        "StopID": "25848",
+        "StopName": {
+          "Zh_tw": "左鎮果菜市場",
+          "En": "Zuojhen Agricultural Product Market"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.40615,
+          "PositionLat": 23.05791,
+          "GeoHash": "wsje5vt44"
+        },
+        "StationID": "1944",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25849",
+        "StopID": "25849",
+        "StopName": {
+          "Zh_tw": "左鎮分駐所",
+          "En": "Zuojhen Police Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.40462,
+          "PositionLat": 23.05527,
+          "GeoHash": "wsje5v5fw"
+        },
+        "StationID": "7130",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25850",
+        "StopID": "25850",
+        "StopName": {
+          "Zh_tw": "橄欖山",
+          "En": "Ganlanshan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.40046,
+          "PositionLat": 23.05615,
+          "GeoHash": "wsje5v0zy"
+        },
+        "StationID": "5543",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25851",
+        "StopID": "25851",
+        "StopName": {
+          "Zh_tw": "摔死猴",
+          "En": "Shuaisihhou　"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.40141,
+          "PositionLat": 23.05129,
+          "GeoHash": "wsje5u3ek"
+        },
+        "StationID": "2633",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25852",
+        "StopID": "25852",
+        "StopName": {
+          "Zh_tw": "中興公厝",
+          "En": "Jhongsing Gongcuo"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.40104,
+          "PositionLat": 23.04674,
+          "GeoHash": "wsje5g92g"
+        },
+        "StationID": "2634",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25853",
+        "StopID": "25853",
+        "StopName": {
+          "Zh_tw": "過嶺",
+          "En": "Guoling"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.39727,
+          "PositionLat": 23.03498,
+          "GeoHash": "wsje59qs7"
+        },
+        "StationID": "2635",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25854",
+        "StopID": "25854",
+        "StopName": {
+          "Zh_tw": "澄山心理園區",
+          "En": "Mt.Clarity Body-Mind Creative Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.39835,
+          "PositionLat": 23.01635,
+          "GeoHash": "wsjdgtzru"
+        },
+        "StationID": "2636",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T10:04:27+08:00",
+    "VersionID": 10662
+  },
+  {
+    "RouteUID": "TNN1716",
+    "RouteID": "1716",
+    "RouteName": {
+      "Zh_tw": "綠30-1",
+      "En": "G30-1"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16253",
+        "OperatorName": {
+          "Zh_tw": "中華衛星台南車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN171602",
+    "SubRouteID": "171602",
+    "SubRouteName": {
+      "Zh_tw": "綠30-1 澄山心理園區→左鎮國中",
+      "En": "G30-1 Mt.Clarity Body-Mind Creative Park→Zuojhen Junior High School"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN25855",
+        "StopID": "25855",
+        "StopName": {
+          "Zh_tw": "澄山心理園區",
+          "En": "Mt.Clarity Body-Mind Creative Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.39835,
+          "PositionLat": 23.01635,
+          "GeoHash": "wsjdgtzru"
+        },
+        "StationID": "2636",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25856",
+        "StopID": "25856",
+        "StopName": {
+          "Zh_tw": "過嶺",
+          "En": "Guoling"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.39727,
+          "PositionLat": 23.03498,
+          "GeoHash": "wsje59qs7"
+        },
+        "StationID": "2635",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25857",
+        "StopID": "25857",
+        "StopName": {
+          "Zh_tw": "中興公厝",
+          "En": "Jhongsing Gongcuo"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.40104,
+          "PositionLat": 23.04674,
+          "GeoHash": "wsje5g92g"
+        },
+        "StationID": "2634",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25858",
+        "StopID": "25858",
+        "StopName": {
+          "Zh_tw": "摔死猴",
+          "En": "Shuaisihhou　"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.40141,
+          "PositionLat": 23.05129,
+          "GeoHash": "wsje5u3ek"
+        },
+        "StationID": "2633",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25859",
+        "StopID": "25859",
+        "StopName": {
+          "Zh_tw": "橄欖山",
+          "En": "Ganlanshan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.40067,
+          "PositionLat": 23.05595,
+          "GeoHash": "wsje5v1nd"
+        },
+        "StationID": "5508",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25860",
+        "StopID": "25860",
+        "StopName": {
+          "Zh_tw": "左鎮分駐所",
+          "En": "Zuojhen Police Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.40478,
+          "PositionLat": 23.05549,
+          "GeoHash": "wsje5vh5f"
+        },
+        "StationID": "7101",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25861",
+        "StopID": "25861",
+        "StopName": {
+          "Zh_tw": "左鎮果菜市場",
+          "En": "Zuojhen Agricultural Product Market"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.40563,
+          "PositionLat": 23.05744,
+          "GeoHash": "wsje5vkxq"
+        },
+        "StationID": "1943",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25862",
+        "StopID": "25862",
+        "StopName": {
+          "Zh_tw": "左鎮區公所",
+          "En": "Zuojhen District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.40865,
+          "PositionLat": 23.05709,
+          "GeoHash": "wsje5vqvk"
+        },
+        "StationID": "5510",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25846",
+        "StopID": "25846",
+        "StopName": {
+          "Zh_tw": "左鎮國中",
+          "En": "Zuojhen Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.41016,
+          "PositionLat": 23.05621,
+          "GeoHash": "wsjehj200"
+        },
+        "StationID": "5511",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T10:04:27+08:00",
+    "VersionID": 10662
+  }
+]

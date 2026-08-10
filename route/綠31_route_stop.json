@@ -1,0 +1,234 @@
+[
+  {
+    "RouteUID": "TNN1131",
+    "RouteID": "1131",
+    "RouteName": {
+      "Zh_tw": "綠31",
+      "En": "G31"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16253",
+        "OperatorName": {
+          "Zh_tw": "中華衛星台南車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN113101",
+    "SubRouteID": "113101",
+    "SubRouteName": {
+      "Zh_tw": "綠31 玉井站→竹湖",
+      "En": "G31 Yujing Bus Station→Jhuhu"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN25811",
+        "StopID": "25811",
+        "StopName": {
+          "Zh_tw": "玉井站",
+          "En": "Yujing Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.46037,
+          "PositionLat": 23.12416,
+          "GeoHash": "wsjet1sef"
+        },
+        "StationID": "7115",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25817",
+        "StopID": "25817",
+        "StopName": {
+          "Zh_tw": "玉井國小",
+          "En": "Yujing Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.45879,
+          "PositionLat": 23.12194,
+          "GeoHash": "wsjet15rj"
+        },
+        "StationID": "4012",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25818",
+        "StopID": "25818",
+        "StopName": {
+          "Zh_tw": "口豐里",
+          "En": "Koufong Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.44521,
+          "PositionLat": 23.12276,
+          "GeoHash": "wsjesc3eb"
+        },
+        "StationID": "2594",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25819",
+        "StopID": "25819",
+        "StopName": {
+          "Zh_tw": "內豐里",
+          "En": "Neifong Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.44292,
+          "PositionLat": 23.14351,
+          "GeoHash": "wsjestpue"
+        },
+        "StationID": "2596",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25820",
+        "StopID": "25820",
+        "StopName": {
+          "Zh_tw": "竹湖",
+          "En": "Jhuhu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.44867,
+          "PositionLat": 23.15915,
+          "GeoHash": "wsjeszupc"
+        },
+        "StationID": "2598",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T10:04:27+08:00",
+    "VersionID": 10662
+  },
+  {
+    "RouteUID": "TNN1131",
+    "RouteID": "1131",
+    "RouteName": {
+      "Zh_tw": "綠31",
+      "En": "G31"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16253",
+        "OperatorName": {
+          "Zh_tw": "中華衛星台南車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN113102",
+    "SubRouteID": "113102",
+    "SubRouteName": {
+      "Zh_tw": "綠31 竹湖→玉井站",
+      "En": "G31 Jhuhu→Yujing Bus Station"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN25821",
+        "StopID": "25821",
+        "StopName": {
+          "Zh_tw": "竹湖",
+          "En": "Jhuhu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.44867,
+          "PositionLat": 23.15915,
+          "GeoHash": "wsjeszupc"
+        },
+        "StationID": "2598",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25822",
+        "StopID": "25822",
+        "StopName": {
+          "Zh_tw": "內豐里",
+          "En": "Neifong Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.44286,
+          "PositionLat": 23.14347,
+          "GeoHash": "wsjestpu6"
+        },
+        "StationID": "2597",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25823",
+        "StopID": "25823",
+        "StopName": {
+          "Zh_tw": "口豐里",
+          "En": "Koufong Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.44522,
+          "PositionLat": 23.12269,
+          "GeoHash": "wsjesc3e3"
+        },
+        "StationID": "2595",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25824",
+        "StopID": "25824",
+        "StopName": {
+          "Zh_tw": "玉井國小",
+          "En": "Yujing Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.45856,
+          "PositionLat": 23.12193,
+          "GeoHash": "wsjet15pp"
+        },
+        "StationID": "4011",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25812",
+        "StopID": "25812",
+        "StopName": {
+          "Zh_tw": "玉井站",
+          "En": "Yujing Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.46037,
+          "PositionLat": 23.12416,
+          "GeoHash": "wsjet1sef"
+        },
+        "StationID": "7115",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T10:04:27+08:00",
+    "VersionID": 10662
+  }
+]

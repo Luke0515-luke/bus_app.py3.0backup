@@ -1,0 +1,1316 @@
+[
+  {
+    "RouteUID": "TNN1230",
+    "RouteID": "1230",
+    "RouteName": {
+      "Zh_tw": "藍30",
+      "En": "B30"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16253",
+        "OperatorName": {
+          "Zh_tw": "中華衛星台南車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN123001",
+    "SubRouteID": "123001",
+    "SubRouteName": {
+      "Zh_tw": "藍30 西港→佳里",
+      "En": "B30 Sigang→Jiali Bus Station"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN30964",
+        "StopID": "30964",
+        "StopName": {
+          "Zh_tw": "西港",
+          "En": "Sigang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.20321,
+          "PositionLat": 23.12177,
+          "GeoHash": "wsj7x31q1"
+        },
+        "StationID": "7580",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31008",
+        "StopID": "31008",
+        "StopName": {
+          "Zh_tw": "慶安宮",
+          "En": "Cingan Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.20155,
+          "PositionLat": 23.12103,
+          "GeoHash": "wsj7x301g"
+        },
+        "StationID": "2812",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31009",
+        "StopID": "31009",
+        "StopName": {
+          "Zh_tw": "南海",
+          "En": "Nanhai"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.19744,
+          "PositionLat": 23.11849,
+          "GeoHash": "wsj7x0t4g"
+        },
+        "StationID": "2814",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31010",
+        "StopID": "31010",
+        "StopName": {
+          "Zh_tw": "大竹林",
+          "En": "Dajhulin"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.18597,
+          "PositionLat": 23.12225,
+          "GeoHash": "wsj7wckbb"
+        },
+        "StationID": "2816",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31011",
+        "StopID": "31011",
+        "StopName": {
+          "Zh_tw": "永樂里新港",
+          "En": "Yongle Vil.Singang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.18497,
+          "PositionLat": 23.10801,
+          "GeoHash": "wsj7qysjb"
+        },
+        "StationID": "2818",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31012",
+        "StopID": "31012",
+        "StopName": {
+          "Zh_tw": "永樂里活動中心",
+          "En": "Yongle Vil.Community Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.17881,
+          "PositionLat": 23.10403,
+          "GeoHash": "wsj7qtzw9"
+        },
+        "StationID": "2820",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31013",
+        "StopID": "31013",
+        "StopName": {
+          "Zh_tw": "大塭寮",
+          "En": "Dawunliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.17771,
+          "PositionLat": 23.10526,
+          "GeoHash": "wsj7qwntz"
+        },
+        "StationID": "2822",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31014",
+        "StopID": "31014",
+        "StopName": {
+          "Zh_tw": "竹港德安宮",
+          "En": "Jhugan Dean Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.17131,
+          "PositionLat": 23.11028,
+          "GeoHash": "wsj7qx454"
+        },
+        "StationID": "2824",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31015",
+        "StopID": "31015",
+        "StopName": {
+          "Zh_tw": "竹橋",
+          "En": "Jhu Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.16449,
+          "PositionLat": 23.10416,
+          "GeoHash": "wsj7qmvp7"
+        },
+        "StationID": "7891",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31016",
+        "StopID": "31016",
+        "StopName": {
+          "Zh_tw": "樹子腳",
+          "En": "Shuzihjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.16097,
+          "PositionLat": 23.11521,
+          "GeoHash": "wsj7qrfxc"
+        },
+        "StationID": "7892",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31017",
+        "StopID": "31017",
+        "StopName": {
+          "Zh_tw": "林投內",
+          "En": "Lintounei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.16095,
+          "PositionLat": 23.11785,
+          "GeoHash": "wsj7w26x1"
+        },
+        "StationID": "7893",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31018",
+        "StopID": "31018",
+        "StopName": {
+          "Zh_tw": "塭子內",
+          "En": "Wunzihnei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.16441,
+          "PositionLat": 23.12461,
+          "GeoHash": "wsj7w3tn9"
+        },
+        "StationID": "7880",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31019",
+        "StopID": "31019",
+        "StopName": {
+          "Zh_tw": "南勢成功",
+          "En": "Nanshih Chenggong"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.17355,
+          "PositionLat": 23.15011,
+          "GeoHash": "wsj7ww7en"
+        },
+        "StationID": "2083",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31020",
+        "StopID": "31020",
+        "StopName": {
+          "Zh_tw": "南勢",
+          "En": "Nanshih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.17812,
+          "PositionLat": 23.15457,
+          "GeoHash": "wsj7wxpj1"
+        },
+        "StationID": "7369",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31021",
+        "StopID": "31021",
+        "StopName": {
+          "Zh_tw": "南佳里",
+          "En": "South Jiali"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.17723,
+          "PositionLat": 23.15841,
+          "GeoHash": "wsj7wxy7s"
+        },
+        "StationID": "7370",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31022",
+        "StopID": "31022",
+        "StopName": {
+          "Zh_tw": "愛明橋",
+          "En": "Aiming Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.17481,
+          "PositionLat": 23.16114,
+          "GeoHash": "wsj7y8kek"
+        },
+        "StationID": "7825",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30982",
+        "StopID": "30982",
+        "StopName": {
+          "Zh_tw": "佳里站",
+          "En": "Jiali Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.17735,
+          "PositionLat": 23.16312,
+          "GeoHash": "wsj7y8wqz"
+        },
+        "StationID": "7371",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T10:04:27+08:00",
+    "VersionID": 10662
+  },
+  {
+    "RouteUID": "TNN1230",
+    "RouteID": "1230",
+    "RouteName": {
+      "Zh_tw": "藍30",
+      "En": "B30"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16253",
+        "OperatorName": {
+          "Zh_tw": "中華衛星台南車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN123002",
+    "SubRouteID": "123002",
+    "SubRouteName": {
+      "Zh_tw": "藍30 佳里→西港",
+      "En": "B30 Blue Jiali Bus Station→Sigang"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN30989",
+        "StopID": "30989",
+        "StopName": {
+          "Zh_tw": "佳里站",
+          "En": "Jiali Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.17735,
+          "PositionLat": 23.16312,
+          "GeoHash": "wsj7y8wqz"
+        },
+        "StationID": "7371",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31023",
+        "StopID": "31023",
+        "StopName": {
+          "Zh_tw": "愛明橋",
+          "En": "Aiming Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.17474,
+          "PositionLat": 23.16118,
+          "GeoHash": "wsj7y8ked"
+        },
+        "StationID": "7573",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31024",
+        "StopID": "31024",
+        "StopName": {
+          "Zh_tw": "南佳里",
+          "En": "South Jiali"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.17711,
+          "PositionLat": 23.15835,
+          "GeoHash": "wsj7wxy71"
+        },
+        "StationID": "7574",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31025",
+        "StopID": "31025",
+        "StopName": {
+          "Zh_tw": "南勢",
+          "En": "Nanshih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.17805,
+          "PositionLat": 23.15451,
+          "GeoHash": "wsj7wxnuz"
+        },
+        "StationID": "7575",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31026",
+        "StopID": "31026",
+        "StopName": {
+          "Zh_tw": "南勢成功",
+          "En": "Nanshih Chenggong"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.17344,
+          "PositionLat": 23.14996,
+          "GeoHash": "wsj7ww7dk"
+        },
+        "StationID": "2082",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31027",
+        "StopID": "31027",
+        "StopName": {
+          "Zh_tw": "塭子內",
+          "En": "Wunzihnei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.16441,
+          "PositionLat": 23.12509,
+          "GeoHash": "wsj7w3v13"
+        },
+        "StationID": "7861",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31028",
+        "StopID": "31028",
+        "StopName": {
+          "Zh_tw": "林投內",
+          "En": "Lintounei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.16104,
+          "PositionLat": 23.11821,
+          "GeoHash": "wsj7w2d97"
+        },
+        "StationID": "7886",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31029",
+        "StopID": "31029",
+        "StopName": {
+          "Zh_tw": "樹子腳",
+          "En": "Shuzihjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.16079,
+          "PositionLat": 23.11475,
+          "GeoHash": "wsj7qrfmj"
+        },
+        "StationID": "7887",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31030",
+        "StopID": "31030",
+        "StopName": {
+          "Zh_tw": "竹橋",
+          "En": "Jhu Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.16431,
+          "PositionLat": 23.10428,
+          "GeoHash": "wsj7qqhbp"
+        },
+        "StationID": "7888",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31031",
+        "StopID": "31031",
+        "StopName": {
+          "Zh_tw": "竹港德安宮",
+          "En": "Jhugan Dean Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.17113,
+          "PositionLat": 23.11005,
+          "GeoHash": "wsj7qx1cy"
+        },
+        "StationID": "2825",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31032",
+        "StopID": "31032",
+        "StopName": {
+          "Zh_tw": "大塭寮",
+          "En": "Dawunliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.17804,
+          "PositionLat": 23.10515,
+          "GeoHash": "wsj7qwnvr"
+        },
+        "StationID": "2823",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31033",
+        "StopID": "31033",
+        "StopName": {
+          "Zh_tw": "永樂里活動中心",
+          "En": "Yongle Vil.Community Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.17878,
+          "PositionLat": 23.10397,
+          "GeoHash": "wsj7qtzw2"
+        },
+        "StationID": "2821",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31034",
+        "StopID": "31034",
+        "StopName": {
+          "Zh_tw": "永樂里新港",
+          "En": "Yongle Vil.Singang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.18501,
+          "PositionLat": 23.10798,
+          "GeoHash": "wsj7qysj9"
+        },
+        "StationID": "2819",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31035",
+        "StopID": "31035",
+        "StopName": {
+          "Zh_tw": "大竹林",
+          "En": "Dajhulin"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.18587,
+          "PositionLat": 23.12222,
+          "GeoHash": "wsj7wck8t"
+        },
+        "StationID": "2817",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31036",
+        "StopID": "31036",
+        "StopName": {
+          "Zh_tw": "南海",
+          "En": "Nanhai"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.19748,
+          "PositionLat": 23.11842,
+          "GeoHash": "wsj7x0t4s"
+        },
+        "StationID": "2815",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31037",
+        "StopID": "31037",
+        "StopName": {
+          "Zh_tw": "慶安宮",
+          "En": "Cingan Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.20161,
+          "PositionLat": 23.12101,
+          "GeoHash": "wsj7x301s"
+        },
+        "StationID": "2813",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31007",
+        "StopID": "31007",
+        "StopName": {
+          "Zh_tw": "西港",
+          "En": "Sigang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.20319,
+          "PositionLat": 23.12199,
+          "GeoHash": "wsj7x31r3"
+        },
+        "StationID": "7364",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T10:04:27+08:00",
+    "VersionID": 10662
+  },
+  {
+    "RouteUID": "TNN1230",
+    "RouteID": "1230",
+    "RouteName": {
+      "Zh_tw": "藍30",
+      "En": "B30"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16253",
+        "OperatorName": {
+          "Zh_tw": "中華衛星台南車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN123011",
+    "SubRouteID": "123011",
+    "SubRouteName": {
+      "Zh_tw": "藍30 西港→佳里[僅供預約]",
+      "En": "B30 Sigang→Jiali Bus Station[Reservation only]"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN30964",
+        "StopID": "30964",
+        "StopName": {
+          "Zh_tw": "西港",
+          "En": "Sigang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.20321,
+          "PositionLat": 23.12177,
+          "GeoHash": "wsj7x31q1"
+        },
+        "StationID": "7580",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31008",
+        "StopID": "31008",
+        "StopName": {
+          "Zh_tw": "慶安宮",
+          "En": "Cingan Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.20155,
+          "PositionLat": 23.12103,
+          "GeoHash": "wsj7x301g"
+        },
+        "StationID": "2812",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31009",
+        "StopID": "31009",
+        "StopName": {
+          "Zh_tw": "南海",
+          "En": "Nanhai"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.19744,
+          "PositionLat": 23.11849,
+          "GeoHash": "wsj7x0t4g"
+        },
+        "StationID": "2814",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31010",
+        "StopID": "31010",
+        "StopName": {
+          "Zh_tw": "大竹林",
+          "En": "Dajhulin"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.18597,
+          "PositionLat": 23.12225,
+          "GeoHash": "wsj7wckbb"
+        },
+        "StationID": "2816",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31011",
+        "StopID": "31011",
+        "StopName": {
+          "Zh_tw": "永樂里新港",
+          "En": "Yongle Vil.Singang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.18497,
+          "PositionLat": 23.10801,
+          "GeoHash": "wsj7qysjb"
+        },
+        "StationID": "2818",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31012",
+        "StopID": "31012",
+        "StopName": {
+          "Zh_tw": "永樂里活動中心",
+          "En": "Yongle Vil.Community Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.17881,
+          "PositionLat": 23.10403,
+          "GeoHash": "wsj7qtzw9"
+        },
+        "StationID": "2820",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31013",
+        "StopID": "31013",
+        "StopName": {
+          "Zh_tw": "大塭寮",
+          "En": "Dawunliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.17771,
+          "PositionLat": 23.10526,
+          "GeoHash": "wsj7qwntz"
+        },
+        "StationID": "2822",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31014",
+        "StopID": "31014",
+        "StopName": {
+          "Zh_tw": "竹港德安宮",
+          "En": "Jhugan Dean Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.17131,
+          "PositionLat": 23.11028,
+          "GeoHash": "wsj7qx454"
+        },
+        "StationID": "2824",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31015",
+        "StopID": "31015",
+        "StopName": {
+          "Zh_tw": "竹橋",
+          "En": "Jhu Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.16449,
+          "PositionLat": 23.10416,
+          "GeoHash": "wsj7qmvp7"
+        },
+        "StationID": "7891",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31016",
+        "StopID": "31016",
+        "StopName": {
+          "Zh_tw": "樹子腳",
+          "En": "Shuzihjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.16097,
+          "PositionLat": 23.11521,
+          "GeoHash": "wsj7qrfxc"
+        },
+        "StationID": "7892",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31017",
+        "StopID": "31017",
+        "StopName": {
+          "Zh_tw": "林投內",
+          "En": "Lintounei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.16095,
+          "PositionLat": 23.11785,
+          "GeoHash": "wsj7w26x1"
+        },
+        "StationID": "7893",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31018",
+        "StopID": "31018",
+        "StopName": {
+          "Zh_tw": "塭子內",
+          "En": "Wunzihnei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.16441,
+          "PositionLat": 23.12461,
+          "GeoHash": "wsj7w3tn9"
+        },
+        "StationID": "7880",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31019",
+        "StopID": "31019",
+        "StopName": {
+          "Zh_tw": "南勢成功",
+          "En": "Nanshih Chenggong"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.17355,
+          "PositionLat": 23.15011,
+          "GeoHash": "wsj7ww7en"
+        },
+        "StationID": "2083",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31020",
+        "StopID": "31020",
+        "StopName": {
+          "Zh_tw": "南勢",
+          "En": "Nanshih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.17812,
+          "PositionLat": 23.15457,
+          "GeoHash": "wsj7wxpj1"
+        },
+        "StationID": "7369",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31021",
+        "StopID": "31021",
+        "StopName": {
+          "Zh_tw": "南佳里",
+          "En": "South Jiali"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.17723,
+          "PositionLat": 23.15841,
+          "GeoHash": "wsj7wxy7s"
+        },
+        "StationID": "7370",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31022",
+        "StopID": "31022",
+        "StopName": {
+          "Zh_tw": "愛明橋",
+          "En": "Aiming Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.17481,
+          "PositionLat": 23.16114,
+          "GeoHash": "wsj7y8kek"
+        },
+        "StationID": "7825",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30982",
+        "StopID": "30982",
+        "StopName": {
+          "Zh_tw": "佳里站",
+          "En": "Jiali Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.17735,
+          "PositionLat": 23.16312,
+          "GeoHash": "wsj7y8wqz"
+        },
+        "StationID": "7371",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30985",
+        "StopID": "30985",
+        "StopName": {
+          "Zh_tw": "奇美佳里分院",
+          "En": "Chi Mei Jiali Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.18374,
+          "PositionLat": 23.18081,
+          "GeoHash": "wsj7yggnh"
+        },
+        "StationID": "7374",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T10:04:27+08:00",
+    "VersionID": 10662
+  },
+  {
+    "RouteUID": "TNN1230",
+    "RouteID": "1230",
+    "RouteName": {
+      "Zh_tw": "藍30",
+      "En": "B30"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16253",
+        "OperatorName": {
+          "Zh_tw": "中華衛星台南車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN123012",
+    "SubRouteID": "123012",
+    "SubRouteName": {
+      "Zh_tw": "藍30 佳里→西港[僅供預約]",
+      "En": "B30 Blue Jiali Bus Station→Sigang[Reservation only]"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN30986",
+        "StopID": "30986",
+        "StopName": {
+          "Zh_tw": "奇美佳里分院",
+          "En": "Chi Mei Jiali Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.18355,
+          "PositionLat": 23.18079,
+          "GeoHash": "wsj7ygfvz"
+        },
+        "StationID": "7569",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30989",
+        "StopID": "30989",
+        "StopName": {
+          "Zh_tw": "佳里站",
+          "En": "Jiali Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.17735,
+          "PositionLat": 23.16312,
+          "GeoHash": "wsj7y8wqz"
+        },
+        "StationID": "7371",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31023",
+        "StopID": "31023",
+        "StopName": {
+          "Zh_tw": "愛明橋",
+          "En": "Aiming Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.17474,
+          "PositionLat": 23.16118,
+          "GeoHash": "wsj7y8ked"
+        },
+        "StationID": "7573",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31024",
+        "StopID": "31024",
+        "StopName": {
+          "Zh_tw": "南佳里",
+          "En": "South Jiali"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.17711,
+          "PositionLat": 23.15835,
+          "GeoHash": "wsj7wxy71"
+        },
+        "StationID": "7574",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31025",
+        "StopID": "31025",
+        "StopName": {
+          "Zh_tw": "南勢",
+          "En": "Nanshih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.17805,
+          "PositionLat": 23.15451,
+          "GeoHash": "wsj7wxnuz"
+        },
+        "StationID": "7575",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31026",
+        "StopID": "31026",
+        "StopName": {
+          "Zh_tw": "南勢成功",
+          "En": "Nanshih Chenggong"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.17344,
+          "PositionLat": 23.14996,
+          "GeoHash": "wsj7ww7dk"
+        },
+        "StationID": "2082",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31027",
+        "StopID": "31027",
+        "StopName": {
+          "Zh_tw": "塭子內",
+          "En": "Wunzihnei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.16441,
+          "PositionLat": 23.12509,
+          "GeoHash": "wsj7w3v13"
+        },
+        "StationID": "7861",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31028",
+        "StopID": "31028",
+        "StopName": {
+          "Zh_tw": "林投內",
+          "En": "Lintounei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.16104,
+          "PositionLat": 23.11821,
+          "GeoHash": "wsj7w2d97"
+        },
+        "StationID": "7886",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31029",
+        "StopID": "31029",
+        "StopName": {
+          "Zh_tw": "樹子腳",
+          "En": "Shuzihjiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.16079,
+          "PositionLat": 23.11475,
+          "GeoHash": "wsj7qrfmj"
+        },
+        "StationID": "7887",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31030",
+        "StopID": "31030",
+        "StopName": {
+          "Zh_tw": "竹橋",
+          "En": "Jhu Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.16431,
+          "PositionLat": 23.10428,
+          "GeoHash": "wsj7qqhbp"
+        },
+        "StationID": "7888",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31031",
+        "StopID": "31031",
+        "StopName": {
+          "Zh_tw": "竹港德安宮",
+          "En": "Jhugan Dean Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.17113,
+          "PositionLat": 23.11005,
+          "GeoHash": "wsj7qx1cy"
+        },
+        "StationID": "2825",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31032",
+        "StopID": "31032",
+        "StopName": {
+          "Zh_tw": "大塭寮",
+          "En": "Dawunliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.17804,
+          "PositionLat": 23.10515,
+          "GeoHash": "wsj7qwnvr"
+        },
+        "StationID": "2823",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31033",
+        "StopID": "31033",
+        "StopName": {
+          "Zh_tw": "永樂里活動中心",
+          "En": "Yongle Vil.Community Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.17878,
+          "PositionLat": 23.10397,
+          "GeoHash": "wsj7qtzw2"
+        },
+        "StationID": "2821",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31034",
+        "StopID": "31034",
+        "StopName": {
+          "Zh_tw": "永樂里新港",
+          "En": "Yongle Vil.Singang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.18501,
+          "PositionLat": 23.10798,
+          "GeoHash": "wsj7qysj9"
+        },
+        "StationID": "2819",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31035",
+        "StopID": "31035",
+        "StopName": {
+          "Zh_tw": "大竹林",
+          "En": "Dajhulin"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.18587,
+          "PositionLat": 23.12222,
+          "GeoHash": "wsj7wck8t"
+        },
+        "StationID": "2817",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31036",
+        "StopID": "31036",
+        "StopName": {
+          "Zh_tw": "南海",
+          "En": "Nanhai"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.19748,
+          "PositionLat": 23.11842,
+          "GeoHash": "wsj7x0t4s"
+        },
+        "StationID": "2815",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31037",
+        "StopID": "31037",
+        "StopName": {
+          "Zh_tw": "慶安宮",
+          "En": "Cingan Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.20161,
+          "PositionLat": 23.12101,
+          "GeoHash": "wsj7x301s"
+        },
+        "StationID": "2813",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31007",
+        "StopID": "31007",
+        "StopName": {
+          "Zh_tw": "西港",
+          "En": "Sigang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.20319,
+          "PositionLat": 23.12199,
+          "GeoHash": "wsj7x31r3"
+        },
+        "StationID": "7364",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T10:04:27+08:00",
+    "VersionID": 10662
+  }
+]
