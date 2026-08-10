@@ -1,0 +1,5541 @@
+[
+  {
+    "RouteUID": "TNN1410",
+    "RouteID": "1410",
+    "RouteName": {
+      "Zh_tw": "橘10",
+      "En": "O10"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10160",
+        "OperatorName": {
+          "Zh_tw": "興南客運",
+          "En": "Shing Nan Bus Co., Ltd."
+        },
+        "OperatorCode": "ShingNanBus",
+        "OperatorNo": "1601"
+      }
+    ],
+    "SubRouteUID": "TNN141001",
+    "SubRouteID": "141001",
+    "SubRouteName": {
+      "Zh_tw": "橘10 大地莊園→麻豆→隆田→臺南藝術大學",
+      "En": "O10 Dadi Manor→TNNUA (Han Pao-Teh Memorial Museum)"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN8822",
+        "StopID": "8822",
+        "StopName": {
+          "Zh_tw": "大地莊園",
+          "En": "Dadi Manor"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.22181,
+          "PositionLat": 23.22081,
+          "GeoHash": "wsjkpenz5"
+        },
+        "StationID": "8479",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7126",
+        "StopID": "7126",
+        "StopName": {
+          "Zh_tw": "真理大學",
+          "En": "Aletheia University"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.22858,
+          "PositionLat": 23.21963,
+          "GeoHash": "wsjkpg5b0"
+        },
+        "StationID": "8067",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15964",
+        "StopID": "15964",
+        "StopName": {
+          "Zh_tw": "四角仔",
+          "En": "Sihjiaozih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.23652,
+          "PositionLat": 23.21587,
+          "GeoHash": "wsjs043d1"
+        },
+        "StationID": "8726",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7127",
+        "StopID": "7127",
+        "StopName": {
+          "Zh_tw": "北勢寮",
+          "En": "Beishihliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.23943,
+          "PositionLat": 23.20959,
+          "GeoHash": "wsjs015tt"
+        },
+        "StationID": "8068",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7128",
+        "StopID": "7128",
+        "StopName": {
+          "Zh_tw": "北勢國小",
+          "En": "Beishih Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.23971,
+          "PositionLat": 23.20501,
+          "GeoHash": "wsjs007fu"
+        },
+        "StationID": "8069",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7129",
+        "StopID": "7129",
+        "StopName": {
+          "Zh_tw": "北勢里",
+          "En": "Beishih Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.24031,
+          "PositionLat": 23.20085,
+          "GeoHash": "wsjebps6d"
+        },
+        "StationID": "8070",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7130",
+        "StopID": "7130",
+        "StopName": {
+          "Zh_tw": "油車里",
+          "En": "Youche Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.24445,
+          "PositionLat": 23.19352,
+          "GeoHash": "wsjebnr24"
+        },
+        "StationID": "8071",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23330",
+        "StopID": "23330",
+        "StopName": {
+          "Zh_tw": "仁厚宮",
+          "En": "Renhou Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.24382,
+          "PositionLat": 23.19037,
+          "GeoHash": "wsjebjwvs"
+        },
+        "StationID": "2099",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7131",
+        "StopID": "7131",
+        "StopName": {
+          "Zh_tw": "小埤頭",
+          "En": "Siaobitou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.23241,
+          "PositionLat": 23.18979,
+          "GeoHash": "wsj7zvwd6"
+        },
+        "StationID": "7294",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7132",
+        "StopID": "7132",
+        "StopName": {
+          "Zh_tw": "新樓醫院",
+          "En": "Sinlau Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.23261,
+          "PositionLat": 23.18079,
+          "GeoHash": "wsj7zgyty"
+        },
+        "StationID": "7904",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7133",
+        "StopID": "7133",
+        "StopName": {
+          "Zh_tw": "麻豆轉運站",
+          "En": "Madou Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.23917,
+          "PositionLat": 23.18557,
+          "GeoHash": "wsjebhg3x"
+        },
+        "StationID": "4000",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7134",
+        "StopID": "7134",
+        "StopName": {
+          "Zh_tw": "圓環",
+          "En": "Traffic Circle"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.24198,
+          "PositionLat": 23.18466,
+          "GeoHash": "wsjebhts3"
+        },
+        "StationID": "7906",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7135",
+        "StopID": "7135",
+        "StopName": {
+          "Zh_tw": "電姬戲院",
+          "En": "Dianji Theater"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.24482,
+          "PositionLat": 23.18366,
+          "GeoHash": "wsjebhrwe"
+        },
+        "StationID": "7907",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7136",
+        "StopID": "7136",
+        "StopName": {
+          "Zh_tw": "一商前",
+          "En": "Yishangcian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.24877,
+          "PositionLat": 23.18367,
+          "GeoHash": "wsjebk6qx"
+        },
+        "StationID": "7908",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15666",
+        "StopID": "15666",
+        "StopName": {
+          "Zh_tw": "興中民生路口",
+          "En": "Singjhong Rd. ＆ Minsheng Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.25366,
+          "PositionLat": 23.18364,
+          "GeoHash": "wsjebkqn3"
+        },
+        "StationID": "8587",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7137",
+        "StopID": "7137",
+        "StopName": {
+          "Zh_tw": "麻豆區公所",
+          "En": "Madou District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.25803,
+          "PositionLat": 23.18512,
+          "GeoHash": "wsjebs9pp"
+        },
+        "StationID": "8270",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22101",
+        "StopID": "22101",
+        "StopName": {
+          "Zh_tw": "南勢里",
+          "En": "Nanshih Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.26101,
+          "PositionLat": 23.18594,
+          "GeoHash": "wsjebsg7u"
+        },
+        "StationID": "1973",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7138",
+        "StopID": "7138",
+        "StopName": {
+          "Zh_tw": "曾文農工",
+          "En": "T.W.I.V.S"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.26371,
+          "PositionLat": 23.18721,
+          "GeoHash": "wsjebtj77"
+        },
+        "StationID": "8271",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7139",
+        "StopID": "7139",
+        "StopName": {
+          "Zh_tw": "總爺糖廠",
+          "En": "Zongye Sugar Refinery"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.26774,
+          "PositionLat": 23.18381,
+          "GeoHash": "wsjebu2r3"
+        },
+        "StationID": "4062",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30500",
+        "StopID": "30500",
+        "StopName": {
+          "Zh_tw": "曾文市政願景園區",
+          "En": "Zengwen Municipality Vision Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.26888,
+          "PositionLat": 23.19277,
+          "GeoHash": "wsjeby15s"
+        },
+        "StationID": "8488",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7140",
+        "StopID": "7140",
+        "StopName": {
+          "Zh_tw": "水堀頭",
+          "En": "Shuijuetou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.27137,
+          "PositionLat": 23.19123,
+          "GeoHash": "wsjebvffw"
+        },
+        "StationID": "7912",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30823",
+        "StopID": "30823",
+        "StopName": {
+          "Zh_tw": "金特區",
+          "En": "Jintecyu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.28411,
+          "PositionLat": 23.19504,
+          "GeoHash": "wsjecns0y"
+        },
+        "StationID": "1662",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30824",
+        "StopID": "30824",
+        "StopName": {
+          "Zh_tw": "葫蘆埤自然公園",
+          "En": "Hulupi Nature Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.29672,
+          "PositionLat": 23.19861,
+          "GeoHash": "wsjecrjms"
+        },
+        "StationID": "1664",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7143",
+        "StopID": "7143",
+        "StopName": {
+          "Zh_tw": "隆本里",
+          "En": "Longben Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.30827,
+          "PositionLat": 23.19386,
+          "GeoHash": "wsjecwmf1"
+        },
+        "StationID": "4065",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7144",
+        "StopID": "7144",
+        "StopName": {
+          "Zh_tw": "官田區公所",
+          "En": "Guantian District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.31545,
+          "PositionLat": 23.19282,
+          "GeoHash": "wsjecy55c"
+        },
+        "StationID": "4066",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7145",
+        "StopID": "7145",
+        "StopName": {
+          "Zh_tw": "隆田火車站",
+          "En": "Longtian Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.31895,
+          "PositionLat": 23.19246,
+          "GeoHash": "wsjecyj9f"
+        },
+        "StationID": "4067",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7146",
+        "StopID": "7146",
+        "StopName": {
+          "Zh_tw": "隆田",
+          "En": "Longtian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.31696,
+          "PositionLat": 23.19909,
+          "GeoHash": "wsjeczk0k"
+        },
+        "StationID": "4068",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7147",
+        "StopID": "7147",
+        "StopName": {
+          "Zh_tw": "官田工業區",
+          "En": "Guantian Industrial Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.32171,
+          "PositionLat": 23.20607,
+          "GeoHash": "wsjs1bx95"
+        },
+        "StationID": "4069",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15688",
+        "StopID": "15688",
+        "StopName": {
+          "Zh_tw": "官田服務中心",
+          "En": "Guantian Industrial Park Service Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.32295,
+          "PositionLat": 23.20969,
+          "GeoHash": "wsjs410qp"
+        },
+        "StationID": "8411",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15689",
+        "StopID": "15689",
+        "StopName": {
+          "Zh_tw": "勞動力發展署",
+          "En": "Workforce Development Agency"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLon": 120.32333,
+          "PositionLat": 23.21471,
+          "GeoHash": "wsjs440g2"
+        },
+        "StationID": "8507",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25930",
+        "StopID": "25930",
+        "StopName": {
+          "Zh_tw": "二鎮森林公園",
+          "En": "Erjhen Forest Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLon": 120.32449,
+          "PositionLat": 23.21741,
+          "GeoHash": "wsjs449e5"
+        },
+        "StationID": "2657",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7148",
+        "StopID": "7148",
+        "StopName": {
+          "Zh_tw": "二鎮",
+          "En": "Erjhen"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLon": 120.32957,
+          "PositionLat": 23.21865,
+          "GeoHash": "wsjs44v66"
+        },
+        "StationID": "4070",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25932",
+        "StopID": "25932",
+        "StopName": {
+          "Zh_tw": "工社",
+          "En": "Gongshe"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLon": 120.33083,
+          "PositionLat": 23.22069,
+          "GeoHash": "wsjs45nnr"
+        },
+        "StationID": "2655",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17091",
+        "StopID": "17091",
+        "StopName": {
+          "Zh_tw": "瓦窯(六甲)",
+          "En": "Wayao(Lioujia)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 34,
+        "StopPosition": {
+          "PositionLon": 120.33844,
+          "PositionLat": 23.22234,
+          "GeoHash": "wsjs477zb"
+        },
+        "StationID": "1499",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23270",
+        "StopID": "23270",
+        "StopName": {
+          "Zh_tw": "蘭都觀光工廠",
+          "En": "Landou Tourism Factory"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 35,
+        "StopPosition": {
+          "PositionLon": 120.34214,
+          "PositionLat": 23.22311,
+          "GeoHash": "wsjs47wkr"
+        },
+        "StationID": "2078",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17450",
+        "StopID": "17450",
+        "StopName": {
+          "Zh_tw": "七甲里",
+          "En": "Cijia Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 36,
+        "StopPosition": {
+          "PositionLon": 120.34461,
+          "PositionLat": 23.22346,
+          "GeoHash": "wsjs4e8q2"
+        },
+        "StationID": "1720",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7149",
+        "StopID": "7149",
+        "StopName": {
+          "Zh_tw": "六甲衛生所",
+          "En": "Lioujia Health Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 37,
+        "StopPosition": {
+          "PositionLon": 120.34761,
+          "PositionLat": 23.22454,
+          "GeoHash": "wsjs4efky"
+        },
+        "StationID": "7412",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7150",
+        "StopID": "7150",
+        "StopName": {
+          "Zh_tw": "六甲",
+          "En": "Lioujia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 38,
+        "StopPosition": {
+          "PositionLon": 120.35134,
+          "PositionLat": 23.22638,
+          "GeoHash": "wsjs4sjpm"
+        },
+        "StationID": "7413",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27309",
+        "StopID": "27309",
+        "StopName": {
+          "Zh_tw": "珊瑚路",
+          "En": "Shanhu Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 39,
+        "StopPosition": {
+          "PositionLon": 120.35362,
+          "PositionLat": 23.22428,
+          "GeoHash": "wsjs4eyg4"
+        },
+        "StationID": "2674",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7151",
+        "StopID": "7151",
+        "StopName": {
+          "Zh_tw": "赤山巖",
+          "En": "Chihshanyan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 40,
+        "StopPosition": {
+          "PositionLon": 120.36186,
+          "PositionLat": 23.21831,
+          "GeoHash": "wsjs4fub6"
+        },
+        "StationID": "3627",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7152",
+        "StopID": "7152",
+        "StopName": {
+          "Zh_tw": "龍潭寺",
+          "En": "Longtan Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 41,
+        "StopPosition": {
+          "PositionLon": 120.36411,
+          "PositionLat": 23.21561,
+          "GeoHash": "wsjs4fq2x"
+        },
+        "StationID": "3628",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7153",
+        "StopID": "7153",
+        "StopName": {
+          "Zh_tw": "嘉南里",
+          "En": "Jianan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 42,
+        "StopPosition": {
+          "PositionLon": 120.36401,
+          "PositionLat": 23.21351,
+          "GeoHash": "wsjs4cykk"
+        },
+        "StationID": "3629",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7154",
+        "StopID": "7154",
+        "StopName": {
+          "Zh_tw": "烏山頭水庫",
+          "En": "Wushantou Reservoir"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 43,
+        "StopPosition": {
+          "PositionLon": 120.36248,
+          "PositionLat": 23.20743,
+          "GeoHash": "wsjs4bv31"
+        },
+        "StationID": "4053",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN21422",
+        "StopID": "21422",
+        "StopName": {
+          "Zh_tw": "八田路、171路口",
+          "En": "Batian Rd. ＆ 171 Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 44,
+        "StopPosition": {
+          "PositionLon": 120.35692,
+          "PositionLat": 23.19506,
+          "GeoHash": "wsjefy91p"
+        },
+        "StationID": "1913",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7155",
+        "StopID": "7155",
+        "StopName": {
+          "Zh_tw": "大崎",
+          "En": "Daci"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 45,
+        "StopPosition": {
+          "PositionLon": 120.37103,
+          "PositionLat": 23.19121,
+          "GeoHash": "wsjegjgd8"
+        },
+        "StationID": "4054",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7156",
+        "StopID": "7156",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學(西側門)",
+          "En": "TNNUA (West Gate)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 46,
+        "StopPosition": {
+          "PositionLon": 120.37245,
+          "PositionLat": 23.18976,
+          "GeoHash": "wsjegjsd1"
+        },
+        "StationID": "4055",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7157",
+        "StopID": "7157",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學(漢寶德紀念館)",
+          "En": "TNNUA (Han Pao-Teh Memorial Museum)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 47,
+        "StopPosition": {
+          "PositionLon": 120.37412,
+          "PositionLat": 23.18832,
+          "GeoHash": "wsjegjmcb"
+        },
+        "StationID": "2899",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T14:04:27+08:00",
+    "VersionID": 10663
+  },
+  {
+    "RouteUID": "TNN1410",
+    "RouteID": "1410",
+    "RouteName": {
+      "Zh_tw": "橘10",
+      "En": "O10"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10160",
+        "OperatorName": {
+          "Zh_tw": "興南客運",
+          "En": "Shing Nan Bus Co., Ltd."
+        },
+        "OperatorCode": "ShingNanBus",
+        "OperatorNo": "1601"
+      }
+    ],
+    "SubRouteUID": "TNN141002",
+    "SubRouteID": "141002",
+    "SubRouteName": {
+      "Zh_tw": "橘10 臺南藝術大學→隆田→麻豆→大地莊園",
+      "En": "O10 TNNUA (Han Pao-Teh Memorial Museum)→Dadi Manor"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN7158",
+        "StopID": "7158",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學(漢寶德紀念館)",
+          "En": "TNNUA (Han Pao-Teh Memorial Museum)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.37415,
+          "PositionLat": 23.18837,
+          "GeoHash": "wsjegjmf0"
+        },
+        "StationID": "2900",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7159",
+        "StopID": "7159",
+        "StopName": {
+          "Zh_tw": "臺南藝術大學(西側門)",
+          "En": "TNNUA (West Gate)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.37253,
+          "PositionLat": 23.18979,
+          "GeoHash": "wsjegjsd7"
+        },
+        "StationID": "4050",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7160",
+        "StopID": "7160",
+        "StopName": {
+          "Zh_tw": "大崎",
+          "En": "Daci"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.37102,
+          "PositionLat": 23.19127,
+          "GeoHash": "wsjegjgdb"
+        },
+        "StationID": "4051",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN21423",
+        "StopID": "21423",
+        "StopName": {
+          "Zh_tw": "八田路、171路口",
+          "En": "Batian Rd. ＆ 171 Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.35704,
+          "PositionLat": 23.19511,
+          "GeoHash": "wsjefy936"
+        },
+        "StationID": "1912",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7161",
+        "StopID": "7161",
+        "StopName": {
+          "Zh_tw": "烏山頭水庫",
+          "En": "Wushantou Reservoir"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.36259,
+          "PositionLat": 23.20731,
+          "GeoHash": "wsjs4bv27"
+        },
+        "StationID": "4052",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7162",
+        "StopID": "7162",
+        "StopName": {
+          "Zh_tw": "嘉南里",
+          "En": "Jianan Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.36409,
+          "PositionLat": 23.21346,
+          "GeoHash": "wsjs4cykn"
+        },
+        "StationID": "3623",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7163",
+        "StopID": "7163",
+        "StopName": {
+          "Zh_tw": "龍潭寺",
+          "En": "Longtan Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.36418,
+          "PositionLat": 23.21574,
+          "GeoHash": "wsjs4fq92"
+        },
+        "StationID": "3624",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7164",
+        "StopID": "7164",
+        "StopName": {
+          "Zh_tw": "赤山巖",
+          "En": "Chihshanyan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.36161,
+          "PositionLat": 23.21859,
+          "GeoHash": "wsjs4fudh"
+        },
+        "StationID": "3625",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27310",
+        "StopID": "27310",
+        "StopName": {
+          "Zh_tw": "珊瑚路",
+          "En": "Shanhu Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.35301,
+          "PositionLat": 23.22515,
+          "GeoHash": "wsjs4sn2k"
+        },
+        "StationID": "2673",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7165",
+        "StopID": "7165",
+        "StopName": {
+          "Zh_tw": "六甲",
+          "En": "Lioujia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.35114,
+          "PositionLat": 23.22625,
+          "GeoHash": "wsjs4sjn8"
+        },
+        "StationID": "8296",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7166",
+        "StopID": "7166",
+        "StopName": {
+          "Zh_tw": "六甲衛生所",
+          "En": "Lioujia Health Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.34809,
+          "PositionLat": 23.22472,
+          "GeoHash": "wsjs4efvc"
+        },
+        "StationID": "8297",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17451",
+        "StopID": "17451",
+        "StopName": {
+          "Zh_tw": "七甲里",
+          "En": "Cijia Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.34459,
+          "PositionLat": 23.22352,
+          "GeoHash": "wsjs4e8qb"
+        },
+        "StationID": "1721",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23271",
+        "StopID": "23271",
+        "StopName": {
+          "Zh_tw": "蘭都觀光工廠",
+          "En": "Landou Tourism Factory"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.34073,
+          "PositionLat": 23.22287,
+          "GeoHash": "wsjs47t7n"
+        },
+        "StationID": "2079",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17092",
+        "StopID": "17092",
+        "StopName": {
+          "Zh_tw": "瓦窯(六甲)",
+          "En": "Wayao(Lioujia)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.33861,
+          "PositionLat": 23.22252,
+          "GeoHash": "wsjs47ebu"
+        },
+        "StationID": "1570",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25933",
+        "StopID": "25933",
+        "StopName": {
+          "Zh_tw": "工社",
+          "En": "Gongshe"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.33077,
+          "PositionLat": 23.22071,
+          "GeoHash": "wsjs45nnq"
+        },
+        "StationID": "2654",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7167",
+        "StopID": "7167",
+        "StopName": {
+          "Zh_tw": "二鎮",
+          "En": "Erjhen"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.33026,
+          "PositionLat": 23.21899,
+          "GeoHash": "wsjs44vu6"
+        },
+        "StationID": "4073",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25931",
+        "StopID": "25931",
+        "StopName": {
+          "Zh_tw": "二鎮森林公園",
+          "En": "Erjhen Forest Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.32466,
+          "PositionLat": 23.21748,
+          "GeoHash": "wsjs449ex"
+        },
+        "StationID": "2656",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15690",
+        "StopID": "15690",
+        "StopName": {
+          "Zh_tw": "勞動力發展署",
+          "En": "Workforce Development Agency"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.32322,
+          "PositionLat": 23.21492,
+          "GeoHash": "wsjs440sw"
+        },
+        "StationID": "8508",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15691",
+        "StopID": "15691",
+        "StopName": {
+          "Zh_tw": "官田服務中心",
+          "En": "Guantian Industrial Park Service Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.32284,
+          "PositionLat": 23.21004,
+          "GeoHash": "wsjs4122m"
+        },
+        "StationID": "8412",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7168",
+        "StopID": "7168",
+        "StopName": {
+          "Zh_tw": "官田工業區",
+          "En": "Guantian Industrial Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.32184,
+          "PositionLat": 23.20623,
+          "GeoHash": "wsjs1bxdn"
+        },
+        "StationID": "4074",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7169",
+        "StopID": "7169",
+        "StopName": {
+          "Zh_tw": "隆田",
+          "En": "Longtian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.31668,
+          "PositionLat": 23.19902,
+          "GeoHash": "wsjecz7bj"
+        },
+        "StationID": "4075",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7170",
+        "StopID": "7170",
+        "StopName": {
+          "Zh_tw": "隆田火車站",
+          "En": "Longtian Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.31895,
+          "PositionLat": 23.19246,
+          "GeoHash": "wsjecyj9f"
+        },
+        "StationID": "4067",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7171",
+        "StopID": "7171",
+        "StopName": {
+          "Zh_tw": "官田區公所",
+          "En": "Guantian District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.31595,
+          "PositionLat": 23.19288,
+          "GeoHash": "wsjecy5kk"
+        },
+        "StationID": "4077",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7172",
+        "StopID": "7172",
+        "StopName": {
+          "Zh_tw": "隆本里",
+          "En": "Longben Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.30831,
+          "PositionLat": 23.19397,
+          "GeoHash": "wsjecwmfd"
+        },
+        "StationID": "4078",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30825",
+        "StopID": "30825",
+        "StopName": {
+          "Zh_tw": "葫蘆埤自然公園",
+          "En": "Hulupi Nature Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.29691,
+          "PositionLat": 23.19857,
+          "GeoHash": "wsjecrjt3"
+        },
+        "StationID": "1665",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30826",
+        "StopID": "30826",
+        "StopName": {
+          "Zh_tw": "金特區",
+          "En": "Jintecyu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.28406,
+          "PositionLat": 23.19508,
+          "GeoHash": "wsjecns1j"
+        },
+        "StationID": "1663",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7175",
+        "StopID": "7175",
+        "StopName": {
+          "Zh_tw": "水堀頭",
+          "En": "Shuijuetou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.27123,
+          "PositionLat": 23.19122,
+          "GeoHash": "wsjebvffd"
+        },
+        "StationID": "7937",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30501",
+        "StopID": "30501",
+        "StopName": {
+          "Zh_tw": "曾文市政願景園區",
+          "En": "Zengwen Municipality Vision Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.26888,
+          "PositionLat": 23.19277,
+          "GeoHash": "wsjeby15s"
+        },
+        "StationID": "8488",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7176",
+        "StopID": "7176",
+        "StopName": {
+          "Zh_tw": "總爺糖廠",
+          "En": "Zongye Sugar Refinery"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.26765,
+          "PositionLat": 23.18394,
+          "GeoHash": "wsjebu80p"
+        },
+        "StationID": "4081",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7177",
+        "StopID": "7177",
+        "StopName": {
+          "Zh_tw": "曾文農工",
+          "En": "T.W.I.V.S"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLon": 120.26372,
+          "PositionLat": 23.18726,
+          "GeoHash": "wsjebtj7e"
+        },
+        "StationID": "8274",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22102",
+        "StopID": "22102",
+        "StopName": {
+          "Zh_tw": "南勢里",
+          "En": "Nanshih Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLon": 120.26091,
+          "PositionLat": 23.18596,
+          "GeoHash": "wsjebsgk4"
+        },
+        "StationID": "1972",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7178",
+        "StopID": "7178",
+        "StopName": {
+          "Zh_tw": "麻豆區公所",
+          "En": "Madou District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLon": 120.25802,
+          "PositionLat": 23.18521,
+          "GeoHash": "wsjebs9pw"
+        },
+        "StationID": "8275",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15667",
+        "StopID": "15667",
+        "StopName": {
+          "Zh_tw": "興中民生路口",
+          "En": "Singjhong Rd. ＆ Minsheng Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLon": 120.25553,
+          "PositionLat": 23.18394,
+          "GeoHash": "wsjebkx2h"
+        },
+        "StationID": "8586",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7179",
+        "StopID": "7179",
+        "StopName": {
+          "Zh_tw": "一商前",
+          "En": "Yishangcian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 34,
+        "StopPosition": {
+          "PositionLon": 120.24895,
+          "PositionLat": 23.18371,
+          "GeoHash": "wsjebk6wg"
+        },
+        "StationID": "7941",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7180",
+        "StopID": "7180",
+        "StopName": {
+          "Zh_tw": "電姬戲院",
+          "En": "Dianji Theater"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 35,
+        "StopPosition": {
+          "PositionLon": 120.24485,
+          "PositionLat": 23.18372,
+          "GeoHash": "wsjebhrwu"
+        },
+        "StationID": "7942",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7181",
+        "StopID": "7181",
+        "StopName": {
+          "Zh_tw": "圓環",
+          "En": "Traffic Circle"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 36,
+        "StopPosition": {
+          "PositionLon": 120.24181,
+          "PositionLat": 23.18482,
+          "GeoHash": "wsjebhtmm"
+        },
+        "StationID": "7943",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7182",
+        "StopID": "7182",
+        "StopName": {
+          "Zh_tw": "麻豆轉運站",
+          "En": "Madou Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 37,
+        "StopPosition": {
+          "PositionLon": 120.23917,
+          "PositionLat": 23.18557,
+          "GeoHash": "wsjebhg3x"
+        },
+        "StationID": "4000",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7183",
+        "StopID": "7183",
+        "StopName": {
+          "Zh_tw": "新樓醫院",
+          "En": "Sinlau Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 38,
+        "StopPosition": {
+          "PositionLon": 120.23265,
+          "PositionLat": 23.18093,
+          "GeoHash": "wsj7zgywx"
+        },
+        "StationID": "7945",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7184",
+        "StopID": "7184",
+        "StopName": {
+          "Zh_tw": "小埤頭",
+          "En": "Siaobitou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 39,
+        "StopPosition": {
+          "PositionLon": 120.23246,
+          "PositionLat": 23.18972,
+          "GeoHash": "wsj7zvw9g"
+        },
+        "StationID": "7299",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7185",
+        "StopID": "7185",
+        "StopName": {
+          "Zh_tw": "油車里",
+          "En": "Youche Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 40,
+        "StopPosition": {
+          "PositionLon": 120.24426,
+          "PositionLat": 23.19402,
+          "GeoHash": "wsjebnr4y"
+        },
+        "StationID": "8062",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7186",
+        "StopID": "7186",
+        "StopName": {
+          "Zh_tw": "北勢里",
+          "En": "Beishih Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 41,
+        "StopPosition": {
+          "PositionLon": 120.24014,
+          "PositionLat": 23.20125,
+          "GeoHash": "wsjebpsjn"
+        },
+        "StationID": "8063",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7187",
+        "StopID": "7187",
+        "StopName": {
+          "Zh_tw": "北勢國小",
+          "En": "Beishih Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 42,
+        "StopPosition": {
+          "PositionLon": 120.23971,
+          "PositionLat": 23.20504,
+          "GeoHash": "wsjs007gh"
+        },
+        "StationID": "8064",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7188",
+        "StopID": "7188",
+        "StopName": {
+          "Zh_tw": "北勢寮",
+          "En": "Beishihliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 43,
+        "StopPosition": {
+          "PositionLon": 120.23939,
+          "PositionLat": 23.20989,
+          "GeoHash": "wsjs015xk"
+        },
+        "StationID": "8065",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15965",
+        "StopID": "15965",
+        "StopName": {
+          "Zh_tw": "四角仔",
+          "En": "Sihjiaozih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 44,
+        "StopPosition": {
+          "PositionLon": 120.23676,
+          "PositionLat": 23.21564,
+          "GeoHash": "wsjs0438z"
+        },
+        "StationID": "8727",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7189",
+        "StopID": "7189",
+        "StopName": {
+          "Zh_tw": "真理大學",
+          "En": "Aletheia University"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 45,
+        "StopPosition": {
+          "PositionLon": 120.22858,
+          "PositionLat": 23.21963,
+          "GeoHash": "wsjkpg5b0"
+        },
+        "StationID": "8066",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8823",
+        "StopID": "8823",
+        "StopName": {
+          "Zh_tw": "大地莊園",
+          "En": "Dadi Manor"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 46,
+        "StopPosition": {
+          "PositionLon": 120.22181,
+          "PositionLat": 23.22081,
+          "GeoHash": "wsjkpenz5"
+        },
+        "StationID": "8480",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T14:04:27+08:00",
+    "VersionID": 10663
+  },
+  {
+    "RouteUID": "TNN1410",
+    "RouteID": "1410",
+    "RouteName": {
+      "Zh_tw": "橘10",
+      "En": "O10"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10160",
+        "OperatorName": {
+          "Zh_tw": "興南客運",
+          "En": "Shing Nan Bus Co., Ltd."
+        },
+        "OperatorCode": "ShingNanBus",
+        "OperatorNo": "1601"
+      }
+    ],
+    "SubRouteUID": "TNN141011",
+    "SubRouteID": "141011",
+    "SubRouteName": {
+      "Zh_tw": "橘10 大地莊園→麻豆→隆田火車站(區間)",
+      "En": "O10 Dadi Manor→Longtian Train Station"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN8822",
+        "StopID": "8822",
+        "StopName": {
+          "Zh_tw": "大地莊園",
+          "En": "Dadi Manor"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.22181,
+          "PositionLat": 23.22081,
+          "GeoHash": "wsjkpenz5"
+        },
+        "StationID": "8479",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7126",
+        "StopID": "7126",
+        "StopName": {
+          "Zh_tw": "真理大學",
+          "En": "Aletheia University"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.22858,
+          "PositionLat": 23.21963,
+          "GeoHash": "wsjkpg5b0"
+        },
+        "StationID": "8067",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15964",
+        "StopID": "15964",
+        "StopName": {
+          "Zh_tw": "四角仔",
+          "En": "Sihjiaozih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.23652,
+          "PositionLat": 23.21587,
+          "GeoHash": "wsjs043d1"
+        },
+        "StationID": "8726",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7127",
+        "StopID": "7127",
+        "StopName": {
+          "Zh_tw": "北勢寮",
+          "En": "Beishihliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.23943,
+          "PositionLat": 23.20959,
+          "GeoHash": "wsjs015tt"
+        },
+        "StationID": "8068",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7128",
+        "StopID": "7128",
+        "StopName": {
+          "Zh_tw": "北勢國小",
+          "En": "Beishih Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.23971,
+          "PositionLat": 23.20501,
+          "GeoHash": "wsjs007fu"
+        },
+        "StationID": "8069",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7129",
+        "StopID": "7129",
+        "StopName": {
+          "Zh_tw": "北勢里",
+          "En": "Beishih Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.24031,
+          "PositionLat": 23.20085,
+          "GeoHash": "wsjebps6d"
+        },
+        "StationID": "8070",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7130",
+        "StopID": "7130",
+        "StopName": {
+          "Zh_tw": "油車里",
+          "En": "Youche Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.24445,
+          "PositionLat": 23.19352,
+          "GeoHash": "wsjebnr24"
+        },
+        "StationID": "8071",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23330",
+        "StopID": "23330",
+        "StopName": {
+          "Zh_tw": "仁厚宮",
+          "En": "Renhou Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.24382,
+          "PositionLat": 23.19037,
+          "GeoHash": "wsjebjwvs"
+        },
+        "StationID": "2099",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7131",
+        "StopID": "7131",
+        "StopName": {
+          "Zh_tw": "小埤頭",
+          "En": "Siaobitou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.23241,
+          "PositionLat": 23.18979,
+          "GeoHash": "wsj7zvwd6"
+        },
+        "StationID": "7294",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7132",
+        "StopID": "7132",
+        "StopName": {
+          "Zh_tw": "新樓醫院",
+          "En": "Sinlau Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.23261,
+          "PositionLat": 23.18079,
+          "GeoHash": "wsj7zgyty"
+        },
+        "StationID": "7904",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7133",
+        "StopID": "7133",
+        "StopName": {
+          "Zh_tw": "麻豆轉運站",
+          "En": "Madou Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.23917,
+          "PositionLat": 23.18557,
+          "GeoHash": "wsjebhg3x"
+        },
+        "StationID": "4000",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7134",
+        "StopID": "7134",
+        "StopName": {
+          "Zh_tw": "圓環",
+          "En": "Traffic Circle"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.24198,
+          "PositionLat": 23.18466,
+          "GeoHash": "wsjebhts3"
+        },
+        "StationID": "7906",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7135",
+        "StopID": "7135",
+        "StopName": {
+          "Zh_tw": "電姬戲院",
+          "En": "Dianji Theater"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.24482,
+          "PositionLat": 23.18366,
+          "GeoHash": "wsjebhrwe"
+        },
+        "StationID": "7907",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7136",
+        "StopID": "7136",
+        "StopName": {
+          "Zh_tw": "一商前",
+          "En": "Yishangcian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.24877,
+          "PositionLat": 23.18367,
+          "GeoHash": "wsjebk6qx"
+        },
+        "StationID": "7908",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15666",
+        "StopID": "15666",
+        "StopName": {
+          "Zh_tw": "興中民生路口",
+          "En": "Singjhong Rd. ＆ Minsheng Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.25366,
+          "PositionLat": 23.18364,
+          "GeoHash": "wsjebkqn3"
+        },
+        "StationID": "8587",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7137",
+        "StopID": "7137",
+        "StopName": {
+          "Zh_tw": "麻豆區公所",
+          "En": "Madou District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.25803,
+          "PositionLat": 23.18512,
+          "GeoHash": "wsjebs9pp"
+        },
+        "StationID": "8270",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22101",
+        "StopID": "22101",
+        "StopName": {
+          "Zh_tw": "南勢里",
+          "En": "Nanshih Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.26101,
+          "PositionLat": 23.18594,
+          "GeoHash": "wsjebsg7u"
+        },
+        "StationID": "1973",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7138",
+        "StopID": "7138",
+        "StopName": {
+          "Zh_tw": "曾文農工",
+          "En": "T.W.I.V.S"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.26371,
+          "PositionLat": 23.18721,
+          "GeoHash": "wsjebtj77"
+        },
+        "StationID": "8271",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7139",
+        "StopID": "7139",
+        "StopName": {
+          "Zh_tw": "總爺糖廠",
+          "En": "Zongye Sugar Refinery"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.26774,
+          "PositionLat": 23.18381,
+          "GeoHash": "wsjebu2r3"
+        },
+        "StationID": "4062",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30500",
+        "StopID": "30500",
+        "StopName": {
+          "Zh_tw": "曾文市政願景園區",
+          "En": "Zengwen Municipality Vision Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.26888,
+          "PositionLat": 23.19277,
+          "GeoHash": "wsjeby15s"
+        },
+        "StationID": "8488",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7140",
+        "StopID": "7140",
+        "StopName": {
+          "Zh_tw": "水堀頭",
+          "En": "Shuijuetou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.27137,
+          "PositionLat": 23.19123,
+          "GeoHash": "wsjebvffw"
+        },
+        "StationID": "7912",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30823",
+        "StopID": "30823",
+        "StopName": {
+          "Zh_tw": "金特區",
+          "En": "Jintecyu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.28411,
+          "PositionLat": 23.19504,
+          "GeoHash": "wsjecns0y"
+        },
+        "StationID": "1662",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30824",
+        "StopID": "30824",
+        "StopName": {
+          "Zh_tw": "葫蘆埤自然公園",
+          "En": "Hulupi Nature Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.29672,
+          "PositionLat": 23.19861,
+          "GeoHash": "wsjecrjms"
+        },
+        "StationID": "1664",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7143",
+        "StopID": "7143",
+        "StopName": {
+          "Zh_tw": "隆本里",
+          "En": "Longben Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.30827,
+          "PositionLat": 23.19386,
+          "GeoHash": "wsjecwmf1"
+        },
+        "StationID": "4065",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7144",
+        "StopID": "7144",
+        "StopName": {
+          "Zh_tw": "官田區公所",
+          "En": "Guantian District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.31545,
+          "PositionLat": 23.19282,
+          "GeoHash": "wsjecy55c"
+        },
+        "StationID": "4066",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7145",
+        "StopID": "7145",
+        "StopName": {
+          "Zh_tw": "隆田火車站",
+          "En": "Longtian Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.31895,
+          "PositionLat": 23.19246,
+          "GeoHash": "wsjecyj9f"
+        },
+        "StationID": "4067",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T14:04:27+08:00",
+    "VersionID": 10663
+  },
+  {
+    "RouteUID": "TNN1410",
+    "RouteID": "1410",
+    "RouteName": {
+      "Zh_tw": "橘10",
+      "En": "O10"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10160",
+        "OperatorName": {
+          "Zh_tw": "興南客運",
+          "En": "Shing Nan Bus Co., Ltd."
+        },
+        "OperatorCode": "ShingNanBus",
+        "OperatorNo": "1601"
+      }
+    ],
+    "SubRouteUID": "TNN141012",
+    "SubRouteID": "141012",
+    "SubRouteName": {
+      "Zh_tw": "橘10 隆田火車站→麻豆→大地莊園(區間)",
+      "En": "O10 Longtian Train Station→Dadi Manor"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN7170",
+        "StopID": "7170",
+        "StopName": {
+          "Zh_tw": "隆田火車站",
+          "En": "Longtian Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.31895,
+          "PositionLat": 23.19246,
+          "GeoHash": "wsjecyj9f"
+        },
+        "StationID": "4067",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7171",
+        "StopID": "7171",
+        "StopName": {
+          "Zh_tw": "官田區公所",
+          "En": "Guantian District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.31595,
+          "PositionLat": 23.19288,
+          "GeoHash": "wsjecy5kk"
+        },
+        "StationID": "4077",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7172",
+        "StopID": "7172",
+        "StopName": {
+          "Zh_tw": "隆本里",
+          "En": "Longben Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.30831,
+          "PositionLat": 23.19397,
+          "GeoHash": "wsjecwmfd"
+        },
+        "StationID": "4078",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30825",
+        "StopID": "30825",
+        "StopName": {
+          "Zh_tw": "葫蘆埤自然公園",
+          "En": "Hulupi Nature Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.29691,
+          "PositionLat": 23.19857,
+          "GeoHash": "wsjecrjt3"
+        },
+        "StationID": "1665",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30826",
+        "StopID": "30826",
+        "StopName": {
+          "Zh_tw": "金特區",
+          "En": "Jintecyu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.28406,
+          "PositionLat": 23.19508,
+          "GeoHash": "wsjecns1j"
+        },
+        "StationID": "1663",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7175",
+        "StopID": "7175",
+        "StopName": {
+          "Zh_tw": "水堀頭",
+          "En": "Shuijuetou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.27123,
+          "PositionLat": 23.19122,
+          "GeoHash": "wsjebvffd"
+        },
+        "StationID": "7937",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30501",
+        "StopID": "30501",
+        "StopName": {
+          "Zh_tw": "曾文市政願景園區",
+          "En": "Zengwen Municipality Vision Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.26888,
+          "PositionLat": 23.19277,
+          "GeoHash": "wsjeby15s"
+        },
+        "StationID": "8488",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7176",
+        "StopID": "7176",
+        "StopName": {
+          "Zh_tw": "總爺糖廠",
+          "En": "Zongye Sugar Refinery"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.26765,
+          "PositionLat": 23.18394,
+          "GeoHash": "wsjebu80p"
+        },
+        "StationID": "4081",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7177",
+        "StopID": "7177",
+        "StopName": {
+          "Zh_tw": "曾文農工",
+          "En": "T.W.I.V.S"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.26372,
+          "PositionLat": 23.18726,
+          "GeoHash": "wsjebtj7e"
+        },
+        "StationID": "8274",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22102",
+        "StopID": "22102",
+        "StopName": {
+          "Zh_tw": "南勢里",
+          "En": "Nanshih Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.26091,
+          "PositionLat": 23.18596,
+          "GeoHash": "wsjebsgk4"
+        },
+        "StationID": "1972",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7178",
+        "StopID": "7178",
+        "StopName": {
+          "Zh_tw": "麻豆區公所",
+          "En": "Madou District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.25802,
+          "PositionLat": 23.18521,
+          "GeoHash": "wsjebs9pw"
+        },
+        "StationID": "8275",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15667",
+        "StopID": "15667",
+        "StopName": {
+          "Zh_tw": "興中民生路口",
+          "En": "Singjhong Rd. ＆ Minsheng Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.25553,
+          "PositionLat": 23.18394,
+          "GeoHash": "wsjebkx2h"
+        },
+        "StationID": "8586",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7179",
+        "StopID": "7179",
+        "StopName": {
+          "Zh_tw": "一商前",
+          "En": "Yishangcian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.24895,
+          "PositionLat": 23.18371,
+          "GeoHash": "wsjebk6wg"
+        },
+        "StationID": "7941",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7180",
+        "StopID": "7180",
+        "StopName": {
+          "Zh_tw": "電姬戲院",
+          "En": "Dianji Theater"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.24485,
+          "PositionLat": 23.18372,
+          "GeoHash": "wsjebhrwu"
+        },
+        "StationID": "7942",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7181",
+        "StopID": "7181",
+        "StopName": {
+          "Zh_tw": "圓環",
+          "En": "Traffic Circle"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.24181,
+          "PositionLat": 23.18482,
+          "GeoHash": "wsjebhtmm"
+        },
+        "StationID": "7943",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7182",
+        "StopID": "7182",
+        "StopName": {
+          "Zh_tw": "麻豆轉運站",
+          "En": "Madou Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.23917,
+          "PositionLat": 23.18557,
+          "GeoHash": "wsjebhg3x"
+        },
+        "StationID": "4000",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7183",
+        "StopID": "7183",
+        "StopName": {
+          "Zh_tw": "新樓醫院",
+          "En": "Sinlau Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.23265,
+          "PositionLat": 23.18093,
+          "GeoHash": "wsj7zgywx"
+        },
+        "StationID": "7945",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7184",
+        "StopID": "7184",
+        "StopName": {
+          "Zh_tw": "小埤頭",
+          "En": "Siaobitou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.23246,
+          "PositionLat": 23.18972,
+          "GeoHash": "wsj7zvw9g"
+        },
+        "StationID": "7299",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7185",
+        "StopID": "7185",
+        "StopName": {
+          "Zh_tw": "油車里",
+          "En": "Youche Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.24426,
+          "PositionLat": 23.19402,
+          "GeoHash": "wsjebnr4y"
+        },
+        "StationID": "8062",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7186",
+        "StopID": "7186",
+        "StopName": {
+          "Zh_tw": "北勢里",
+          "En": "Beishih Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.24014,
+          "PositionLat": 23.20125,
+          "GeoHash": "wsjebpsjn"
+        },
+        "StationID": "8063",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7187",
+        "StopID": "7187",
+        "StopName": {
+          "Zh_tw": "北勢國小",
+          "En": "Beishih Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.23971,
+          "PositionLat": 23.20504,
+          "GeoHash": "wsjs007gh"
+        },
+        "StationID": "8064",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7188",
+        "StopID": "7188",
+        "StopName": {
+          "Zh_tw": "北勢寮",
+          "En": "Beishihliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.23939,
+          "PositionLat": 23.20989,
+          "GeoHash": "wsjs015xk"
+        },
+        "StationID": "8065",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15965",
+        "StopID": "15965",
+        "StopName": {
+          "Zh_tw": "四角仔",
+          "En": "Sihjiaozih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.23676,
+          "PositionLat": 23.21564,
+          "GeoHash": "wsjs0438z"
+        },
+        "StationID": "8727",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7189",
+        "StopID": "7189",
+        "StopName": {
+          "Zh_tw": "真理大學",
+          "En": "Aletheia University"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.22858,
+          "PositionLat": 23.21963,
+          "GeoHash": "wsjkpg5b0"
+        },
+        "StationID": "8066",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8823",
+        "StopID": "8823",
+        "StopName": {
+          "Zh_tw": "大地莊園",
+          "En": "Dadi Manor"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.22181,
+          "PositionLat": 23.22081,
+          "GeoHash": "wsjkpenz5"
+        },
+        "StationID": "8480",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T14:04:27+08:00",
+    "VersionID": 10663
+  },
+  {
+    "RouteUID": "TNN1410",
+    "RouteID": "1410",
+    "RouteName": {
+      "Zh_tw": "橘10",
+      "En": "O10"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10160",
+        "OperatorName": {
+          "Zh_tw": "興南客運",
+          "En": "Shing Nan Bus Co., Ltd."
+        },
+        "OperatorCode": "ShingNanBus",
+        "OperatorNo": "1601"
+      }
+    ],
+    "SubRouteUID": "TNN141021",
+    "SubRouteID": "141021",
+    "SubRouteName": {
+      "Zh_tw": "橘10 麻豆→隆田火車站(區間)",
+      "En": "O10 Madou Bus Station→Longtian Train Station"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN7133",
+        "StopID": "7133",
+        "StopName": {
+          "Zh_tw": "麻豆轉運站",
+          "En": "Madou Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.23917,
+          "PositionLat": 23.18557,
+          "GeoHash": "wsjebhg3x"
+        },
+        "StationID": "4000",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7134",
+        "StopID": "7134",
+        "StopName": {
+          "Zh_tw": "圓環",
+          "En": "Traffic Circle"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.24198,
+          "PositionLat": 23.18466,
+          "GeoHash": "wsjebhts3"
+        },
+        "StationID": "7906",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7135",
+        "StopID": "7135",
+        "StopName": {
+          "Zh_tw": "電姬戲院",
+          "En": "Dianji Theater"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.24482,
+          "PositionLat": 23.18366,
+          "GeoHash": "wsjebhrwe"
+        },
+        "StationID": "7907",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7136",
+        "StopID": "7136",
+        "StopName": {
+          "Zh_tw": "一商前",
+          "En": "Yishangcian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.24877,
+          "PositionLat": 23.18367,
+          "GeoHash": "wsjebk6qx"
+        },
+        "StationID": "7908",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15666",
+        "StopID": "15666",
+        "StopName": {
+          "Zh_tw": "興中民生路口",
+          "En": "Singjhong Rd. ＆ Minsheng Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.25366,
+          "PositionLat": 23.18364,
+          "GeoHash": "wsjebkqn3"
+        },
+        "StationID": "8587",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7137",
+        "StopID": "7137",
+        "StopName": {
+          "Zh_tw": "麻豆區公所",
+          "En": "Madou District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.25803,
+          "PositionLat": 23.18512,
+          "GeoHash": "wsjebs9pp"
+        },
+        "StationID": "8270",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22101",
+        "StopID": "22101",
+        "StopName": {
+          "Zh_tw": "南勢里",
+          "En": "Nanshih Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.26101,
+          "PositionLat": 23.18594,
+          "GeoHash": "wsjebsg7u"
+        },
+        "StationID": "1973",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7138",
+        "StopID": "7138",
+        "StopName": {
+          "Zh_tw": "曾文農工",
+          "En": "T.W.I.V.S"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.26371,
+          "PositionLat": 23.18721,
+          "GeoHash": "wsjebtj77"
+        },
+        "StationID": "8271",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7139",
+        "StopID": "7139",
+        "StopName": {
+          "Zh_tw": "總爺糖廠",
+          "En": "Zongye Sugar Refinery"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.26774,
+          "PositionLat": 23.18381,
+          "GeoHash": "wsjebu2r3"
+        },
+        "StationID": "4062",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30500",
+        "StopID": "30500",
+        "StopName": {
+          "Zh_tw": "曾文市政願景園區",
+          "En": "Zengwen Municipality Vision Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.26888,
+          "PositionLat": 23.19277,
+          "GeoHash": "wsjeby15s"
+        },
+        "StationID": "8488",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7140",
+        "StopID": "7140",
+        "StopName": {
+          "Zh_tw": "水堀頭",
+          "En": "Shuijuetou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.27137,
+          "PositionLat": 23.19123,
+          "GeoHash": "wsjebvffw"
+        },
+        "StationID": "7912",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30823",
+        "StopID": "30823",
+        "StopName": {
+          "Zh_tw": "金特區",
+          "En": "Jintecyu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.28411,
+          "PositionLat": 23.19504,
+          "GeoHash": "wsjecns0y"
+        },
+        "StationID": "1662",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30824",
+        "StopID": "30824",
+        "StopName": {
+          "Zh_tw": "葫蘆埤自然公園",
+          "En": "Hulupi Nature Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.29672,
+          "PositionLat": 23.19861,
+          "GeoHash": "wsjecrjms"
+        },
+        "StationID": "1664",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7143",
+        "StopID": "7143",
+        "StopName": {
+          "Zh_tw": "隆本里",
+          "En": "Longben Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.30827,
+          "PositionLat": 23.19386,
+          "GeoHash": "wsjecwmf1"
+        },
+        "StationID": "4065",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7144",
+        "StopID": "7144",
+        "StopName": {
+          "Zh_tw": "官田區公所",
+          "En": "Guantian District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.31545,
+          "PositionLat": 23.19282,
+          "GeoHash": "wsjecy55c"
+        },
+        "StationID": "4066",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7145",
+        "StopID": "7145",
+        "StopName": {
+          "Zh_tw": "隆田火車站",
+          "En": "Longtian Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.31895,
+          "PositionLat": 23.19246,
+          "GeoHash": "wsjecyj9f"
+        },
+        "StationID": "4067",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T14:04:27+08:00",
+    "VersionID": 10663
+  },
+  {
+    "RouteUID": "TNN1410",
+    "RouteID": "1410",
+    "RouteName": {
+      "Zh_tw": "橘10",
+      "En": "O10"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10160",
+        "OperatorName": {
+          "Zh_tw": "興南客運",
+          "En": "Shing Nan Bus Co., Ltd."
+        },
+        "OperatorCode": "ShingNanBus",
+        "OperatorNo": "1601"
+      }
+    ],
+    "SubRouteUID": "TNN141022",
+    "SubRouteID": "141022",
+    "SubRouteName": {
+      "Zh_tw": "橘10 隆田火車站→麻豆(區間)",
+      "En": "O10 Longtian Train Station→Madou Bus Station"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN7170",
+        "StopID": "7170",
+        "StopName": {
+          "Zh_tw": "隆田火車站",
+          "En": "Longtian Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.31895,
+          "PositionLat": 23.19246,
+          "GeoHash": "wsjecyj9f"
+        },
+        "StationID": "4067",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7171",
+        "StopID": "7171",
+        "StopName": {
+          "Zh_tw": "官田區公所",
+          "En": "Guantian District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.31595,
+          "PositionLat": 23.19288,
+          "GeoHash": "wsjecy5kk"
+        },
+        "StationID": "4077",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7172",
+        "StopID": "7172",
+        "StopName": {
+          "Zh_tw": "隆本里",
+          "En": "Longben Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.30831,
+          "PositionLat": 23.19397,
+          "GeoHash": "wsjecwmfd"
+        },
+        "StationID": "4078",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30825",
+        "StopID": "30825",
+        "StopName": {
+          "Zh_tw": "葫蘆埤自然公園",
+          "En": "Hulupi Nature Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.29691,
+          "PositionLat": 23.19857,
+          "GeoHash": "wsjecrjt3"
+        },
+        "StationID": "1665",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30826",
+        "StopID": "30826",
+        "StopName": {
+          "Zh_tw": "金特區",
+          "En": "Jintecyu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.28406,
+          "PositionLat": 23.19508,
+          "GeoHash": "wsjecns1j"
+        },
+        "StationID": "1663",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7175",
+        "StopID": "7175",
+        "StopName": {
+          "Zh_tw": "水堀頭",
+          "En": "Shuijuetou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.27123,
+          "PositionLat": 23.19122,
+          "GeoHash": "wsjebvffd"
+        },
+        "StationID": "7937",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30501",
+        "StopID": "30501",
+        "StopName": {
+          "Zh_tw": "曾文市政願景園區",
+          "En": "Zengwen Municipality Vision Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.26888,
+          "PositionLat": 23.19277,
+          "GeoHash": "wsjeby15s"
+        },
+        "StationID": "8488",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7176",
+        "StopID": "7176",
+        "StopName": {
+          "Zh_tw": "總爺糖廠",
+          "En": "Zongye Sugar Refinery"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.26765,
+          "PositionLat": 23.18394,
+          "GeoHash": "wsjebu80p"
+        },
+        "StationID": "4081",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7177",
+        "StopID": "7177",
+        "StopName": {
+          "Zh_tw": "曾文農工",
+          "En": "T.W.I.V.S"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.26372,
+          "PositionLat": 23.18726,
+          "GeoHash": "wsjebtj7e"
+        },
+        "StationID": "8274",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22102",
+        "StopID": "22102",
+        "StopName": {
+          "Zh_tw": "南勢里",
+          "En": "Nanshih Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.26091,
+          "PositionLat": 23.18596,
+          "GeoHash": "wsjebsgk4"
+        },
+        "StationID": "1972",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7178",
+        "StopID": "7178",
+        "StopName": {
+          "Zh_tw": "麻豆區公所",
+          "En": "Madou District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.25802,
+          "PositionLat": 23.18521,
+          "GeoHash": "wsjebs9pw"
+        },
+        "StationID": "8275",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15667",
+        "StopID": "15667",
+        "StopName": {
+          "Zh_tw": "興中民生路口",
+          "En": "Singjhong Rd. ＆ Minsheng Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.25553,
+          "PositionLat": 23.18394,
+          "GeoHash": "wsjebkx2h"
+        },
+        "StationID": "8586",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7179",
+        "StopID": "7179",
+        "StopName": {
+          "Zh_tw": "一商前",
+          "En": "Yishangcian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.24895,
+          "PositionLat": 23.18371,
+          "GeoHash": "wsjebk6wg"
+        },
+        "StationID": "7941",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7180",
+        "StopID": "7180",
+        "StopName": {
+          "Zh_tw": "電姬戲院",
+          "En": "Dianji Theater"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.24485,
+          "PositionLat": 23.18372,
+          "GeoHash": "wsjebhrwu"
+        },
+        "StationID": "7942",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7181",
+        "StopID": "7181",
+        "StopName": {
+          "Zh_tw": "圓環",
+          "En": "Traffic Circle"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.24181,
+          "PositionLat": 23.18482,
+          "GeoHash": "wsjebhtmm"
+        },
+        "StationID": "7943",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7182",
+        "StopID": "7182",
+        "StopName": {
+          "Zh_tw": "麻豆轉運站",
+          "En": "Madou Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.23917,
+          "PositionLat": 23.18557,
+          "GeoHash": "wsjebhg3x"
+        },
+        "StationID": "4000",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T14:04:27+08:00",
+    "VersionID": 10663
+  },
+  {
+    "RouteUID": "TNN1410",
+    "RouteID": "1410",
+    "RouteName": {
+      "Zh_tw": "橘10",
+      "En": "O10"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10160",
+        "OperatorName": {
+          "Zh_tw": "興南客運",
+          "En": "Shing Nan Bus Co., Ltd."
+        },
+        "OperatorCode": "ShingNanBus",
+        "OperatorNo": "1601"
+      }
+    ],
+    "SubRouteUID": "TNN141031",
+    "SubRouteID": "141031",
+    "SubRouteName": {
+      "Zh_tw": "橘10 麻豆→隆田火車站→六甲(區間)",
+      "En": "O10 Madou Bus Station→Lioujia"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN7133",
+        "StopID": "7133",
+        "StopName": {
+          "Zh_tw": "麻豆轉運站",
+          "En": "Madou Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.23917,
+          "PositionLat": 23.18557,
+          "GeoHash": "wsjebhg3x"
+        },
+        "StationID": "4000",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7134",
+        "StopID": "7134",
+        "StopName": {
+          "Zh_tw": "圓環",
+          "En": "Traffic Circle"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.24198,
+          "PositionLat": 23.18466,
+          "GeoHash": "wsjebhts3"
+        },
+        "StationID": "7906",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7135",
+        "StopID": "7135",
+        "StopName": {
+          "Zh_tw": "電姬戲院",
+          "En": "Dianji Theater"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.24482,
+          "PositionLat": 23.18366,
+          "GeoHash": "wsjebhrwe"
+        },
+        "StationID": "7907",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7136",
+        "StopID": "7136",
+        "StopName": {
+          "Zh_tw": "一商前",
+          "En": "Yishangcian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.24877,
+          "PositionLat": 23.18367,
+          "GeoHash": "wsjebk6qx"
+        },
+        "StationID": "7908",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15666",
+        "StopID": "15666",
+        "StopName": {
+          "Zh_tw": "興中民生路口",
+          "En": "Singjhong Rd. ＆ Minsheng Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.25366,
+          "PositionLat": 23.18364,
+          "GeoHash": "wsjebkqn3"
+        },
+        "StationID": "8587",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7137",
+        "StopID": "7137",
+        "StopName": {
+          "Zh_tw": "麻豆區公所",
+          "En": "Madou District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.25803,
+          "PositionLat": 23.18512,
+          "GeoHash": "wsjebs9pp"
+        },
+        "StationID": "8270",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22101",
+        "StopID": "22101",
+        "StopName": {
+          "Zh_tw": "南勢里",
+          "En": "Nanshih Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.26101,
+          "PositionLat": 23.18594,
+          "GeoHash": "wsjebsg7u"
+        },
+        "StationID": "1973",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7138",
+        "StopID": "7138",
+        "StopName": {
+          "Zh_tw": "曾文農工",
+          "En": "T.W.I.V.S"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.26371,
+          "PositionLat": 23.18721,
+          "GeoHash": "wsjebtj77"
+        },
+        "StationID": "8271",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7139",
+        "StopID": "7139",
+        "StopName": {
+          "Zh_tw": "總爺糖廠",
+          "En": "Zongye Sugar Refinery"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.26774,
+          "PositionLat": 23.18381,
+          "GeoHash": "wsjebu2r3"
+        },
+        "StationID": "4062",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30500",
+        "StopID": "30500",
+        "StopName": {
+          "Zh_tw": "曾文市政願景園區",
+          "En": "Zengwen Municipality Vision Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.26888,
+          "PositionLat": 23.19277,
+          "GeoHash": "wsjeby15s"
+        },
+        "StationID": "8488",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7140",
+        "StopID": "7140",
+        "StopName": {
+          "Zh_tw": "水堀頭",
+          "En": "Shuijuetou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.27137,
+          "PositionLat": 23.19123,
+          "GeoHash": "wsjebvffw"
+        },
+        "StationID": "7912",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30823",
+        "StopID": "30823",
+        "StopName": {
+          "Zh_tw": "金特區",
+          "En": "Jintecyu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.28411,
+          "PositionLat": 23.19504,
+          "GeoHash": "wsjecns0y"
+        },
+        "StationID": "1662",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30824",
+        "StopID": "30824",
+        "StopName": {
+          "Zh_tw": "葫蘆埤自然公園",
+          "En": "Hulupi Nature Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.29672,
+          "PositionLat": 23.19861,
+          "GeoHash": "wsjecrjms"
+        },
+        "StationID": "1664",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7143",
+        "StopID": "7143",
+        "StopName": {
+          "Zh_tw": "隆本里",
+          "En": "Longben Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.30827,
+          "PositionLat": 23.19386,
+          "GeoHash": "wsjecwmf1"
+        },
+        "StationID": "4065",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7144",
+        "StopID": "7144",
+        "StopName": {
+          "Zh_tw": "官田區公所",
+          "En": "Guantian District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.31545,
+          "PositionLat": 23.19282,
+          "GeoHash": "wsjecy55c"
+        },
+        "StationID": "4066",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7145",
+        "StopID": "7145",
+        "StopName": {
+          "Zh_tw": "隆田火車站",
+          "En": "Longtian Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.31895,
+          "PositionLat": 23.19246,
+          "GeoHash": "wsjecyj9f"
+        },
+        "StationID": "4067",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7146",
+        "StopID": "7146",
+        "StopName": {
+          "Zh_tw": "隆田",
+          "En": "Longtian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.31696,
+          "PositionLat": 23.19909,
+          "GeoHash": "wsjeczk0k"
+        },
+        "StationID": "4068",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7147",
+        "StopID": "7147",
+        "StopName": {
+          "Zh_tw": "官田工業區",
+          "En": "Guantian Industrial Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.32171,
+          "PositionLat": 23.20607,
+          "GeoHash": "wsjs1bx95"
+        },
+        "StationID": "4069",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15688",
+        "StopID": "15688",
+        "StopName": {
+          "Zh_tw": "官田服務中心",
+          "En": "Guantian Industrial Park Service Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.32295,
+          "PositionLat": 23.20969,
+          "GeoHash": "wsjs410qp"
+        },
+        "StationID": "8411",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15689",
+        "StopID": "15689",
+        "StopName": {
+          "Zh_tw": "勞動力發展署",
+          "En": "Workforce Development Agency"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.32333,
+          "PositionLat": 23.21471,
+          "GeoHash": "wsjs440g2"
+        },
+        "StationID": "8507",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25930",
+        "StopID": "25930",
+        "StopName": {
+          "Zh_tw": "二鎮森林公園",
+          "En": "Erjhen Forest Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.32449,
+          "PositionLat": 23.21741,
+          "GeoHash": "wsjs449e5"
+        },
+        "StationID": "2657",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7148",
+        "StopID": "7148",
+        "StopName": {
+          "Zh_tw": "二鎮",
+          "En": "Erjhen"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.32957,
+          "PositionLat": 23.21865,
+          "GeoHash": "wsjs44v66"
+        },
+        "StationID": "4070",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25932",
+        "StopID": "25932",
+        "StopName": {
+          "Zh_tw": "工社",
+          "En": "Gongshe"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.33083,
+          "PositionLat": 23.22069,
+          "GeoHash": "wsjs45nnr"
+        },
+        "StationID": "2655",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17091",
+        "StopID": "17091",
+        "StopName": {
+          "Zh_tw": "瓦窯(六甲)",
+          "En": "Wayao(Lioujia)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.33844,
+          "PositionLat": 23.22234,
+          "GeoHash": "wsjs477zb"
+        },
+        "StationID": "1499",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23270",
+        "StopID": "23270",
+        "StopName": {
+          "Zh_tw": "蘭都觀光工廠",
+          "En": "Landou Tourism Factory"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.34214,
+          "PositionLat": 23.22311,
+          "GeoHash": "wsjs47wkr"
+        },
+        "StationID": "2078",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17450",
+        "StopID": "17450",
+        "StopName": {
+          "Zh_tw": "七甲里",
+          "En": "Cijia Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.34461,
+          "PositionLat": 23.22346,
+          "GeoHash": "wsjs4e8q2"
+        },
+        "StationID": "1720",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7149",
+        "StopID": "7149",
+        "StopName": {
+          "Zh_tw": "六甲衛生所",
+          "En": "Lioujia Health Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.34761,
+          "PositionLat": 23.22454,
+          "GeoHash": "wsjs4efky"
+        },
+        "StationID": "7412",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7150",
+        "StopID": "7150",
+        "StopName": {
+          "Zh_tw": "六甲",
+          "En": "Lioujia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.35134,
+          "PositionLat": 23.22638,
+          "GeoHash": "wsjs4sjpm"
+        },
+        "StationID": "7413",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T14:04:27+08:00",
+    "VersionID": 10663
+  },
+  {
+    "RouteUID": "TNN1410",
+    "RouteID": "1410",
+    "RouteName": {
+      "Zh_tw": "橘10",
+      "En": "O10"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10160",
+        "OperatorName": {
+          "Zh_tw": "興南客運",
+          "En": "Shing Nan Bus Co., Ltd."
+        },
+        "OperatorCode": "ShingNanBus",
+        "OperatorNo": "1601"
+      }
+    ],
+    "SubRouteUID": "TNN141032",
+    "SubRouteID": "141032",
+    "SubRouteName": {
+      "Zh_tw": "橘10 六甲→隆田火車站→麻豆(區間)",
+      "En": "O10 Lioujia→Madou Bus Station"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN7165",
+        "StopID": "7165",
+        "StopName": {
+          "Zh_tw": "六甲",
+          "En": "Lioujia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.35114,
+          "PositionLat": 23.22625,
+          "GeoHash": "wsjs4sjn8"
+        },
+        "StationID": "8296",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7166",
+        "StopID": "7166",
+        "StopName": {
+          "Zh_tw": "六甲衛生所",
+          "En": "Lioujia Health Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.34809,
+          "PositionLat": 23.22472,
+          "GeoHash": "wsjs4efvc"
+        },
+        "StationID": "8297",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17451",
+        "StopID": "17451",
+        "StopName": {
+          "Zh_tw": "七甲里",
+          "En": "Cijia Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.34459,
+          "PositionLat": 23.22352,
+          "GeoHash": "wsjs4e8qb"
+        },
+        "StationID": "1721",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23271",
+        "StopID": "23271",
+        "StopName": {
+          "Zh_tw": "蘭都觀光工廠",
+          "En": "Landou Tourism Factory"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.34073,
+          "PositionLat": 23.22287,
+          "GeoHash": "wsjs47t7n"
+        },
+        "StationID": "2079",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17092",
+        "StopID": "17092",
+        "StopName": {
+          "Zh_tw": "瓦窯(六甲)",
+          "En": "Wayao(Lioujia)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.33861,
+          "PositionLat": 23.22252,
+          "GeoHash": "wsjs47ebu"
+        },
+        "StationID": "1570",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25933",
+        "StopID": "25933",
+        "StopName": {
+          "Zh_tw": "工社",
+          "En": "Gongshe"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.33077,
+          "PositionLat": 23.22071,
+          "GeoHash": "wsjs45nnq"
+        },
+        "StationID": "2654",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7167",
+        "StopID": "7167",
+        "StopName": {
+          "Zh_tw": "二鎮",
+          "En": "Erjhen"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.33026,
+          "PositionLat": 23.21899,
+          "GeoHash": "wsjs44vu6"
+        },
+        "StationID": "4073",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25931",
+        "StopID": "25931",
+        "StopName": {
+          "Zh_tw": "二鎮森林公園",
+          "En": "Erjhen Forest Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.32466,
+          "PositionLat": 23.21748,
+          "GeoHash": "wsjs449ex"
+        },
+        "StationID": "2656",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15690",
+        "StopID": "15690",
+        "StopName": {
+          "Zh_tw": "勞動力發展署",
+          "En": "Workforce Development Agency"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.32322,
+          "PositionLat": 23.21492,
+          "GeoHash": "wsjs440sw"
+        },
+        "StationID": "8508",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15691",
+        "StopID": "15691",
+        "StopName": {
+          "Zh_tw": "官田服務中心",
+          "En": "Guantian Industrial Park Service Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.32284,
+          "PositionLat": 23.21004,
+          "GeoHash": "wsjs4122m"
+        },
+        "StationID": "8412",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7168",
+        "StopID": "7168",
+        "StopName": {
+          "Zh_tw": "官田工業區",
+          "En": "Guantian Industrial Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.32184,
+          "PositionLat": 23.20623,
+          "GeoHash": "wsjs1bxdn"
+        },
+        "StationID": "4074",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7169",
+        "StopID": "7169",
+        "StopName": {
+          "Zh_tw": "隆田",
+          "En": "Longtian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.31668,
+          "PositionLat": 23.19902,
+          "GeoHash": "wsjecz7bj"
+        },
+        "StationID": "4075",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7170",
+        "StopID": "7170",
+        "StopName": {
+          "Zh_tw": "隆田火車站",
+          "En": "Longtian Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.31895,
+          "PositionLat": 23.19246,
+          "GeoHash": "wsjecyj9f"
+        },
+        "StationID": "4067",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7171",
+        "StopID": "7171",
+        "StopName": {
+          "Zh_tw": "官田區公所",
+          "En": "Guantian District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.31595,
+          "PositionLat": 23.19288,
+          "GeoHash": "wsjecy5kk"
+        },
+        "StationID": "4077",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7172",
+        "StopID": "7172",
+        "StopName": {
+          "Zh_tw": "隆本里",
+          "En": "Longben Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.30831,
+          "PositionLat": 23.19397,
+          "GeoHash": "wsjecwmfd"
+        },
+        "StationID": "4078",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30825",
+        "StopID": "30825",
+        "StopName": {
+          "Zh_tw": "葫蘆埤自然公園",
+          "En": "Hulupi Nature Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.29691,
+          "PositionLat": 23.19857,
+          "GeoHash": "wsjecrjt3"
+        },
+        "StationID": "1665",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30826",
+        "StopID": "30826",
+        "StopName": {
+          "Zh_tw": "金特區",
+          "En": "Jintecyu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.28406,
+          "PositionLat": 23.19508,
+          "GeoHash": "wsjecns1j"
+        },
+        "StationID": "1663",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7175",
+        "StopID": "7175",
+        "StopName": {
+          "Zh_tw": "水堀頭",
+          "En": "Shuijuetou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.27123,
+          "PositionLat": 23.19122,
+          "GeoHash": "wsjebvffd"
+        },
+        "StationID": "7937",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30501",
+        "StopID": "30501",
+        "StopName": {
+          "Zh_tw": "曾文市政願景園區",
+          "En": "Zengwen Municipality Vision Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.26888,
+          "PositionLat": 23.19277,
+          "GeoHash": "wsjeby15s"
+        },
+        "StationID": "8488",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7176",
+        "StopID": "7176",
+        "StopName": {
+          "Zh_tw": "總爺糖廠",
+          "En": "Zongye Sugar Refinery"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.26765,
+          "PositionLat": 23.18394,
+          "GeoHash": "wsjebu80p"
+        },
+        "StationID": "4081",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7177",
+        "StopID": "7177",
+        "StopName": {
+          "Zh_tw": "曾文農工",
+          "En": "T.W.I.V.S"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.26372,
+          "PositionLat": 23.18726,
+          "GeoHash": "wsjebtj7e"
+        },
+        "StationID": "8274",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22102",
+        "StopID": "22102",
+        "StopName": {
+          "Zh_tw": "南勢里",
+          "En": "Nanshih Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.26091,
+          "PositionLat": 23.18596,
+          "GeoHash": "wsjebsgk4"
+        },
+        "StationID": "1972",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7178",
+        "StopID": "7178",
+        "StopName": {
+          "Zh_tw": "麻豆區公所",
+          "En": "Madou District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.25802,
+          "PositionLat": 23.18521,
+          "GeoHash": "wsjebs9pw"
+        },
+        "StationID": "8275",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15667",
+        "StopID": "15667",
+        "StopName": {
+          "Zh_tw": "興中民生路口",
+          "En": "Singjhong Rd. ＆ Minsheng Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.25553,
+          "PositionLat": 23.18394,
+          "GeoHash": "wsjebkx2h"
+        },
+        "StationID": "8586",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7179",
+        "StopID": "7179",
+        "StopName": {
+          "Zh_tw": "一商前",
+          "En": "Yishangcian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.24895,
+          "PositionLat": 23.18371,
+          "GeoHash": "wsjebk6wg"
+        },
+        "StationID": "7941",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7180",
+        "StopID": "7180",
+        "StopName": {
+          "Zh_tw": "電姬戲院",
+          "En": "Dianji Theater"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.24485,
+          "PositionLat": 23.18372,
+          "GeoHash": "wsjebhrwu"
+        },
+        "StationID": "7942",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7181",
+        "StopID": "7181",
+        "StopName": {
+          "Zh_tw": "圓環",
+          "En": "Traffic Circle"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.24181,
+          "PositionLat": 23.18482,
+          "GeoHash": "wsjebhtmm"
+        },
+        "StationID": "7943",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7182",
+        "StopID": "7182",
+        "StopName": {
+          "Zh_tw": "麻豆轉運站",
+          "En": "Madou Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.23917,
+          "PositionLat": 23.18557,
+          "GeoHash": "wsjebhg3x"
+        },
+        "StationID": "4000",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T14:04:27+08:00",
+    "VersionID": 10663
+  },
+  {
+    "RouteUID": "TNN1410",
+    "RouteID": "1410",
+    "RouteName": {
+      "Zh_tw": "橘10",
+      "En": "O10"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10160",
+        "OperatorName": {
+          "Zh_tw": "興南客運",
+          "En": "Shing Nan Bus Co., Ltd."
+        },
+        "OperatorCode": "ShingNanBus",
+        "OperatorNo": "1601"
+      }
+    ],
+    "SubRouteUID": "TNN141041",
+    "SubRouteID": "141041",
+    "SubRouteName": {
+      "Zh_tw": "橘10 大地莊園→六甲",
+      "En": "O10 Dadi Manor→Lioujia"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN8822",
+        "StopID": "8822",
+        "StopName": {
+          "Zh_tw": "大地莊園",
+          "En": "Dadi Manor"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.22181,
+          "PositionLat": 23.22081,
+          "GeoHash": "wsjkpenz5"
+        },
+        "StationID": "8479",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7126",
+        "StopID": "7126",
+        "StopName": {
+          "Zh_tw": "真理大學",
+          "En": "Aletheia University"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.22858,
+          "PositionLat": 23.21963,
+          "GeoHash": "wsjkpg5b0"
+        },
+        "StationID": "8067",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15964",
+        "StopID": "15964",
+        "StopName": {
+          "Zh_tw": "四角仔",
+          "En": "Sihjiaozih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.23652,
+          "PositionLat": 23.21587,
+          "GeoHash": "wsjs043d1"
+        },
+        "StationID": "8726",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7127",
+        "StopID": "7127",
+        "StopName": {
+          "Zh_tw": "北勢寮",
+          "En": "Beishihliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.23943,
+          "PositionLat": 23.20959,
+          "GeoHash": "wsjs015tt"
+        },
+        "StationID": "8068",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7128",
+        "StopID": "7128",
+        "StopName": {
+          "Zh_tw": "北勢國小",
+          "En": "Beishih Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.23971,
+          "PositionLat": 23.20501,
+          "GeoHash": "wsjs007fu"
+        },
+        "StationID": "8069",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7129",
+        "StopID": "7129",
+        "StopName": {
+          "Zh_tw": "北勢里",
+          "En": "Beishih Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.24031,
+          "PositionLat": 23.20085,
+          "GeoHash": "wsjebps6d"
+        },
+        "StationID": "8070",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7130",
+        "StopID": "7130",
+        "StopName": {
+          "Zh_tw": "油車里",
+          "En": "Youche Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.24445,
+          "PositionLat": 23.19352,
+          "GeoHash": "wsjebnr24"
+        },
+        "StationID": "8071",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23330",
+        "StopID": "23330",
+        "StopName": {
+          "Zh_tw": "仁厚宮",
+          "En": "Renhou Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.24382,
+          "PositionLat": 23.19037,
+          "GeoHash": "wsjebjwvs"
+        },
+        "StationID": "2099",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7131",
+        "StopID": "7131",
+        "StopName": {
+          "Zh_tw": "小埤頭",
+          "En": "Siaobitou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.23241,
+          "PositionLat": 23.18979,
+          "GeoHash": "wsj7zvwd6"
+        },
+        "StationID": "7294",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7132",
+        "StopID": "7132",
+        "StopName": {
+          "Zh_tw": "新樓醫院",
+          "En": "Sinlau Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.23261,
+          "PositionLat": 23.18079,
+          "GeoHash": "wsj7zgyty"
+        },
+        "StationID": "7904",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7133",
+        "StopID": "7133",
+        "StopName": {
+          "Zh_tw": "麻豆轉運站",
+          "En": "Madou Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.23917,
+          "PositionLat": 23.18557,
+          "GeoHash": "wsjebhg3x"
+        },
+        "StationID": "4000",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7134",
+        "StopID": "7134",
+        "StopName": {
+          "Zh_tw": "圓環",
+          "En": "Traffic Circle"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.24198,
+          "PositionLat": 23.18466,
+          "GeoHash": "wsjebhts3"
+        },
+        "StationID": "7906",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7135",
+        "StopID": "7135",
+        "StopName": {
+          "Zh_tw": "電姬戲院",
+          "En": "Dianji Theater"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.24482,
+          "PositionLat": 23.18366,
+          "GeoHash": "wsjebhrwe"
+        },
+        "StationID": "7907",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7136",
+        "StopID": "7136",
+        "StopName": {
+          "Zh_tw": "一商前",
+          "En": "Yishangcian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.24877,
+          "PositionLat": 23.18367,
+          "GeoHash": "wsjebk6qx"
+        },
+        "StationID": "7908",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15666",
+        "StopID": "15666",
+        "StopName": {
+          "Zh_tw": "興中民生路口",
+          "En": "Singjhong Rd. ＆ Minsheng Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.25366,
+          "PositionLat": 23.18364,
+          "GeoHash": "wsjebkqn3"
+        },
+        "StationID": "8587",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7137",
+        "StopID": "7137",
+        "StopName": {
+          "Zh_tw": "麻豆區公所",
+          "En": "Madou District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.25803,
+          "PositionLat": 23.18512,
+          "GeoHash": "wsjebs9pp"
+        },
+        "StationID": "8270",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22101",
+        "StopID": "22101",
+        "StopName": {
+          "Zh_tw": "南勢里",
+          "En": "Nanshih Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.26101,
+          "PositionLat": 23.18594,
+          "GeoHash": "wsjebsg7u"
+        },
+        "StationID": "1973",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7138",
+        "StopID": "7138",
+        "StopName": {
+          "Zh_tw": "曾文農工",
+          "En": "T.W.I.V.S"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.26371,
+          "PositionLat": 23.18721,
+          "GeoHash": "wsjebtj77"
+        },
+        "StationID": "8271",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7139",
+        "StopID": "7139",
+        "StopName": {
+          "Zh_tw": "總爺糖廠",
+          "En": "Zongye Sugar Refinery"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.26774,
+          "PositionLat": 23.18381,
+          "GeoHash": "wsjebu2r3"
+        },
+        "StationID": "4062",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30500",
+        "StopID": "30500",
+        "StopName": {
+          "Zh_tw": "曾文市政願景園區",
+          "En": "Zengwen Municipality Vision Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.26888,
+          "PositionLat": 23.19277,
+          "GeoHash": "wsjeby15s"
+        },
+        "StationID": "8488",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7140",
+        "StopID": "7140",
+        "StopName": {
+          "Zh_tw": "水堀頭",
+          "En": "Shuijuetou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.27137,
+          "PositionLat": 23.19123,
+          "GeoHash": "wsjebvffw"
+        },
+        "StationID": "7912",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30823",
+        "StopID": "30823",
+        "StopName": {
+          "Zh_tw": "金特區",
+          "En": "Jintecyu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.28411,
+          "PositionLat": 23.19504,
+          "GeoHash": "wsjecns0y"
+        },
+        "StationID": "1662",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30824",
+        "StopID": "30824",
+        "StopName": {
+          "Zh_tw": "葫蘆埤自然公園",
+          "En": "Hulupi Nature Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.29672,
+          "PositionLat": 23.19861,
+          "GeoHash": "wsjecrjms"
+        },
+        "StationID": "1664",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7143",
+        "StopID": "7143",
+        "StopName": {
+          "Zh_tw": "隆本里",
+          "En": "Longben Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.30827,
+          "PositionLat": 23.19386,
+          "GeoHash": "wsjecwmf1"
+        },
+        "StationID": "4065",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7144",
+        "StopID": "7144",
+        "StopName": {
+          "Zh_tw": "官田區公所",
+          "En": "Guantian District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.31545,
+          "PositionLat": 23.19282,
+          "GeoHash": "wsjecy55c"
+        },
+        "StationID": "4066",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7145",
+        "StopID": "7145",
+        "StopName": {
+          "Zh_tw": "隆田火車站",
+          "En": "Longtian Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.31895,
+          "PositionLat": 23.19246,
+          "GeoHash": "wsjecyj9f"
+        },
+        "StationID": "4067",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7146",
+        "StopID": "7146",
+        "StopName": {
+          "Zh_tw": "隆田",
+          "En": "Longtian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.31696,
+          "PositionLat": 23.19909,
+          "GeoHash": "wsjeczk0k"
+        },
+        "StationID": "4068",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7147",
+        "StopID": "7147",
+        "StopName": {
+          "Zh_tw": "官田工業區",
+          "En": "Guantian Industrial Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.32171,
+          "PositionLat": 23.20607,
+          "GeoHash": "wsjs1bx95"
+        },
+        "StationID": "4069",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15688",
+        "StopID": "15688",
+        "StopName": {
+          "Zh_tw": "官田服務中心",
+          "En": "Guantian Industrial Park Service Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.32295,
+          "PositionLat": 23.20969,
+          "GeoHash": "wsjs410qp"
+        },
+        "StationID": "8411",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15689",
+        "StopID": "15689",
+        "StopName": {
+          "Zh_tw": "勞動力發展署",
+          "En": "Workforce Development Agency"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLon": 120.32333,
+          "PositionLat": 23.21471,
+          "GeoHash": "wsjs440g2"
+        },
+        "StationID": "8507",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25930",
+        "StopID": "25930",
+        "StopName": {
+          "Zh_tw": "二鎮森林公園",
+          "En": "Erjhen Forest Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLon": 120.32449,
+          "PositionLat": 23.21741,
+          "GeoHash": "wsjs449e5"
+        },
+        "StationID": "2657",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7148",
+        "StopID": "7148",
+        "StopName": {
+          "Zh_tw": "二鎮",
+          "En": "Erjhen"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLon": 120.32957,
+          "PositionLat": 23.21865,
+          "GeoHash": "wsjs44v66"
+        },
+        "StationID": "4070",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25932",
+        "StopID": "25932",
+        "StopName": {
+          "Zh_tw": "工社",
+          "En": "Gongshe"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLon": 120.33083,
+          "PositionLat": 23.22069,
+          "GeoHash": "wsjs45nnr"
+        },
+        "StationID": "2655",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17091",
+        "StopID": "17091",
+        "StopName": {
+          "Zh_tw": "瓦窯(六甲)",
+          "En": "Wayao(Lioujia)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 34,
+        "StopPosition": {
+          "PositionLon": 120.33844,
+          "PositionLat": 23.22234,
+          "GeoHash": "wsjs477zb"
+        },
+        "StationID": "1499",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23270",
+        "StopID": "23270",
+        "StopName": {
+          "Zh_tw": "蘭都觀光工廠",
+          "En": "Landou Tourism Factory"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 35,
+        "StopPosition": {
+          "PositionLon": 120.34214,
+          "PositionLat": 23.22311,
+          "GeoHash": "wsjs47wkr"
+        },
+        "StationID": "2078",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17450",
+        "StopID": "17450",
+        "StopName": {
+          "Zh_tw": "七甲里",
+          "En": "Cijia Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 36,
+        "StopPosition": {
+          "PositionLon": 120.34461,
+          "PositionLat": 23.22346,
+          "GeoHash": "wsjs4e8q2"
+        },
+        "StationID": "1720",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7149",
+        "StopID": "7149",
+        "StopName": {
+          "Zh_tw": "六甲衛生所",
+          "En": "Lioujia Health Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 37,
+        "StopPosition": {
+          "PositionLon": 120.34761,
+          "PositionLat": 23.22454,
+          "GeoHash": "wsjs4efky"
+        },
+        "StationID": "7412",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7150",
+        "StopID": "7150",
+        "StopName": {
+          "Zh_tw": "六甲",
+          "En": "Lioujia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 38,
+        "StopPosition": {
+          "PositionLon": 120.35134,
+          "PositionLat": 23.22638,
+          "GeoHash": "wsjs4sjpm"
+        },
+        "StationID": "7413",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T14:04:27+08:00",
+    "VersionID": 10663
+  },
+  {
+    "RouteUID": "TNN1410",
+    "RouteID": "1410",
+    "RouteName": {
+      "Zh_tw": "橘10",
+      "En": "O10"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10160",
+        "OperatorName": {
+          "Zh_tw": "興南客運",
+          "En": "Shing Nan Bus Co., Ltd."
+        },
+        "OperatorCode": "ShingNanBus",
+        "OperatorNo": "1601"
+      }
+    ],
+    "SubRouteUID": "TNN141042",
+    "SubRouteID": "141042",
+    "SubRouteName": {
+      "Zh_tw": "橘10 六甲→大地莊園",
+      "En": "O10 Lioujia→Dadi Manor"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN7165",
+        "StopID": "7165",
+        "StopName": {
+          "Zh_tw": "六甲",
+          "En": "Lioujia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.35114,
+          "PositionLat": 23.22625,
+          "GeoHash": "wsjs4sjn8"
+        },
+        "StationID": "8296",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7166",
+        "StopID": "7166",
+        "StopName": {
+          "Zh_tw": "六甲衛生所",
+          "En": "Lioujia Health Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.34809,
+          "PositionLat": 23.22472,
+          "GeoHash": "wsjs4efvc"
+        },
+        "StationID": "8297",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17451",
+        "StopID": "17451",
+        "StopName": {
+          "Zh_tw": "七甲里",
+          "En": "Cijia Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.34459,
+          "PositionLat": 23.22352,
+          "GeoHash": "wsjs4e8qb"
+        },
+        "StationID": "1721",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN23271",
+        "StopID": "23271",
+        "StopName": {
+          "Zh_tw": "蘭都觀光工廠",
+          "En": "Landou Tourism Factory"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.34073,
+          "PositionLat": 23.22287,
+          "GeoHash": "wsjs47t7n"
+        },
+        "StationID": "2079",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17092",
+        "StopID": "17092",
+        "StopName": {
+          "Zh_tw": "瓦窯(六甲)",
+          "En": "Wayao(Lioujia)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.33861,
+          "PositionLat": 23.22252,
+          "GeoHash": "wsjs47ebu"
+        },
+        "StationID": "1570",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25933",
+        "StopID": "25933",
+        "StopName": {
+          "Zh_tw": "工社",
+          "En": "Gongshe"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.33077,
+          "PositionLat": 23.22071,
+          "GeoHash": "wsjs45nnq"
+        },
+        "StationID": "2654",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7167",
+        "StopID": "7167",
+        "StopName": {
+          "Zh_tw": "二鎮",
+          "En": "Erjhen"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.33026,
+          "PositionLat": 23.21899,
+          "GeoHash": "wsjs44vu6"
+        },
+        "StationID": "4073",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN25931",
+        "StopID": "25931",
+        "StopName": {
+          "Zh_tw": "二鎮森林公園",
+          "En": "Erjhen Forest Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.32466,
+          "PositionLat": 23.21748,
+          "GeoHash": "wsjs449ex"
+        },
+        "StationID": "2656",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15690",
+        "StopID": "15690",
+        "StopName": {
+          "Zh_tw": "勞動力發展署",
+          "En": "Workforce Development Agency"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.32322,
+          "PositionLat": 23.21492,
+          "GeoHash": "wsjs440sw"
+        },
+        "StationID": "8508",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15691",
+        "StopID": "15691",
+        "StopName": {
+          "Zh_tw": "官田服務中心",
+          "En": "Guantian Industrial Park Service Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.32284,
+          "PositionLat": 23.21004,
+          "GeoHash": "wsjs4122m"
+        },
+        "StationID": "8412",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7168",
+        "StopID": "7168",
+        "StopName": {
+          "Zh_tw": "官田工業區",
+          "En": "Guantian Industrial Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.32184,
+          "PositionLat": 23.20623,
+          "GeoHash": "wsjs1bxdn"
+        },
+        "StationID": "4074",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7169",
+        "StopID": "7169",
+        "StopName": {
+          "Zh_tw": "隆田",
+          "En": "Longtian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.31668,
+          "PositionLat": 23.19902,
+          "GeoHash": "wsjecz7bj"
+        },
+        "StationID": "4075",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7170",
+        "StopID": "7170",
+        "StopName": {
+          "Zh_tw": "隆田火車站",
+          "En": "Longtian Train Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.31895,
+          "PositionLat": 23.19246,
+          "GeoHash": "wsjecyj9f"
+        },
+        "StationID": "4067",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7171",
+        "StopID": "7171",
+        "StopName": {
+          "Zh_tw": "官田區公所",
+          "En": "Guantian District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.31595,
+          "PositionLat": 23.19288,
+          "GeoHash": "wsjecy5kk"
+        },
+        "StationID": "4077",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7172",
+        "StopID": "7172",
+        "StopName": {
+          "Zh_tw": "隆本里",
+          "En": "Longben Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.30831,
+          "PositionLat": 23.19397,
+          "GeoHash": "wsjecwmfd"
+        },
+        "StationID": "4078",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30825",
+        "StopID": "30825",
+        "StopName": {
+          "Zh_tw": "葫蘆埤自然公園",
+          "En": "Hulupi Nature Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.29691,
+          "PositionLat": 23.19857,
+          "GeoHash": "wsjecrjt3"
+        },
+        "StationID": "1665",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30826",
+        "StopID": "30826",
+        "StopName": {
+          "Zh_tw": "金特區",
+          "En": "Jintecyu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.28406,
+          "PositionLat": 23.19508,
+          "GeoHash": "wsjecns1j"
+        },
+        "StationID": "1663",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7175",
+        "StopID": "7175",
+        "StopName": {
+          "Zh_tw": "水堀頭",
+          "En": "Shuijuetou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.27123,
+          "PositionLat": 23.19122,
+          "GeoHash": "wsjebvffd"
+        },
+        "StationID": "7937",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30501",
+        "StopID": "30501",
+        "StopName": {
+          "Zh_tw": "曾文市政願景園區",
+          "En": "Zengwen Municipality Vision Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.26888,
+          "PositionLat": 23.19277,
+          "GeoHash": "wsjeby15s"
+        },
+        "StationID": "8488",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7176",
+        "StopID": "7176",
+        "StopName": {
+          "Zh_tw": "總爺糖廠",
+          "En": "Zongye Sugar Refinery"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.26765,
+          "PositionLat": 23.18394,
+          "GeoHash": "wsjebu80p"
+        },
+        "StationID": "4081",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7177",
+        "StopID": "7177",
+        "StopName": {
+          "Zh_tw": "曾文農工",
+          "En": "T.W.I.V.S"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.26372,
+          "PositionLat": 23.18726,
+          "GeoHash": "wsjebtj7e"
+        },
+        "StationID": "8274",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22102",
+        "StopID": "22102",
+        "StopName": {
+          "Zh_tw": "南勢里",
+          "En": "Nanshih Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.26091,
+          "PositionLat": 23.18596,
+          "GeoHash": "wsjebsgk4"
+        },
+        "StationID": "1972",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7178",
+        "StopID": "7178",
+        "StopName": {
+          "Zh_tw": "麻豆區公所",
+          "En": "Madou District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.25802,
+          "PositionLat": 23.18521,
+          "GeoHash": "wsjebs9pw"
+        },
+        "StationID": "8275",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15667",
+        "StopID": "15667",
+        "StopName": {
+          "Zh_tw": "興中民生路口",
+          "En": "Singjhong Rd. ＆ Minsheng Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.25553,
+          "PositionLat": 23.18394,
+          "GeoHash": "wsjebkx2h"
+        },
+        "StationID": "8586",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7179",
+        "StopID": "7179",
+        "StopName": {
+          "Zh_tw": "一商前",
+          "En": "Yishangcian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.24895,
+          "PositionLat": 23.18371,
+          "GeoHash": "wsjebk6wg"
+        },
+        "StationID": "7941",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7180",
+        "StopID": "7180",
+        "StopName": {
+          "Zh_tw": "電姬戲院",
+          "En": "Dianji Theater"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.24485,
+          "PositionLat": 23.18372,
+          "GeoHash": "wsjebhrwu"
+        },
+        "StationID": "7942",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7181",
+        "StopID": "7181",
+        "StopName": {
+          "Zh_tw": "圓環",
+          "En": "Traffic Circle"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.24181,
+          "PositionLat": 23.18482,
+          "GeoHash": "wsjebhtmm"
+        },
+        "StationID": "7943",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7182",
+        "StopID": "7182",
+        "StopName": {
+          "Zh_tw": "麻豆轉運站",
+          "En": "Madou Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.23917,
+          "PositionLat": 23.18557,
+          "GeoHash": "wsjebhg3x"
+        },
+        "StationID": "4000",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7183",
+        "StopID": "7183",
+        "StopName": {
+          "Zh_tw": "新樓醫院",
+          "En": "Sinlau Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.23265,
+          "PositionLat": 23.18093,
+          "GeoHash": "wsj7zgywx"
+        },
+        "StationID": "7945",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7184",
+        "StopID": "7184",
+        "StopName": {
+          "Zh_tw": "小埤頭",
+          "En": "Siaobitou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLon": 120.23246,
+          "PositionLat": 23.18972,
+          "GeoHash": "wsj7zvw9g"
+        },
+        "StationID": "7299",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7185",
+        "StopID": "7185",
+        "StopName": {
+          "Zh_tw": "油車里",
+          "En": "Youche Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLon": 120.24426,
+          "PositionLat": 23.19402,
+          "GeoHash": "wsjebnr4y"
+        },
+        "StationID": "8062",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7186",
+        "StopID": "7186",
+        "StopName": {
+          "Zh_tw": "北勢里",
+          "En": "Beishih Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLon": 120.24014,
+          "PositionLat": 23.20125,
+          "GeoHash": "wsjebpsjn"
+        },
+        "StationID": "8063",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7187",
+        "StopID": "7187",
+        "StopName": {
+          "Zh_tw": "北勢國小",
+          "En": "Beishih Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLon": 120.23971,
+          "PositionLat": 23.20504,
+          "GeoHash": "wsjs007gh"
+        },
+        "StationID": "8064",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7188",
+        "StopID": "7188",
+        "StopName": {
+          "Zh_tw": "北勢寮",
+          "En": "Beishihliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 34,
+        "StopPosition": {
+          "PositionLon": 120.23939,
+          "PositionLat": 23.20989,
+          "GeoHash": "wsjs015xk"
+        },
+        "StationID": "8065",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15965",
+        "StopID": "15965",
+        "StopName": {
+          "Zh_tw": "四角仔",
+          "En": "Sihjiaozih"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 35,
+        "StopPosition": {
+          "PositionLon": 120.23676,
+          "PositionLat": 23.21564,
+          "GeoHash": "wsjs0438z"
+        },
+        "StationID": "8727",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN7189",
+        "StopID": "7189",
+        "StopName": {
+          "Zh_tw": "真理大學",
+          "En": "Aletheia University"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 36,
+        "StopPosition": {
+          "PositionLon": 120.22858,
+          "PositionLat": 23.21963,
+          "GeoHash": "wsjkpg5b0"
+        },
+        "StationID": "8066",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN8823",
+        "StopID": "8823",
+        "StopName": {
+          "Zh_tw": "大地莊園",
+          "En": "Dadi Manor"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 37,
+        "StopPosition": {
+          "PositionLon": 120.22181,
+          "PositionLat": 23.22081,
+          "GeoHash": "wsjkpenz5"
+        },
+        "StationID": "8480",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-10T14:04:27+08:00",
+    "VersionID": 10663
+  }
+]
