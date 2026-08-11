@@ -1,0 +1,1350 @@
+[
+  {
+    "RouteUID": "TNN1611",
+    "RouteID": "1611",
+    "RouteName": {
+      "Zh_tw": "紅11",
+      "En": "R11"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16253",
+        "OperatorName": {
+          "Zh_tw": "中華衛星台南車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN161111",
+    "SubRouteID": "161111",
+    "SubRouteName": {
+      "Zh_tw": "紅11 小黃 關廟→牛埔農塘",
+      "En": "R11 Shuttle Taxi Guanmiao Junior High School→Nioupu Eco-technology Park"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN16876",
+        "StopID": "16876",
+        "StopName": {
+          "Zh_tw": "關廟國中",
+          "En": "Guanmiao Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.32481,
+          "PositionLat": 22.96034,
+          "GeoHash": "wsjdd5cce"
+        },
+        "StationID": "1533",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16877",
+        "StopID": "16877",
+        "StopName": {
+          "Zh_tw": "關廟市場",
+          "En": "Guanmiao Market"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.32845,
+          "PositionLat": 22.96221,
+          "GeoHash": "wsjddhhs8"
+        },
+        "StationID": "3301",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16878",
+        "StopID": "16878",
+        "StopName": {
+          "Zh_tw": "北勢里",
+          "En": "Beishih Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.33075,
+          "PositionLat": 22.96181,
+          "GeoHash": "wsjddhn4j"
+        },
+        "StationID": "3302",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16879",
+        "StopID": "16879",
+        "StopName": {
+          "Zh_tw": "花園",
+          "En": "Huayuan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.33451,
+          "PositionLat": 22.96308,
+          "GeoHash": "wsjddk2ct"
+        },
+        "StationID": "3303",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15478",
+        "StopID": "15478",
+        "StopName": {
+          "Zh_tw": "關廟轉運站",
+          "En": "Guanmiao Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.33739,
+          "PositionLat": 22.96348,
+          "GeoHash": "wsjddk75b"
+        },
+        "StationID": "3347",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15479",
+        "StopID": "15479",
+        "StopName": {
+          "Zh_tw": "仰龍橋",
+          "En": "Yanglong Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.34476,
+          "PositionLat": 22.96726,
+          "GeoHash": "wsjddt03u"
+        },
+        "StationID": "3305",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15480",
+        "StopID": "15480",
+        "StopName": {
+          "Zh_tw": "牛稠埔",
+          "En": "Niouchoupu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.34902,
+          "PositionLat": 22.96784,
+          "GeoHash": "wsjddt5mr"
+        },
+        "StationID": "3306",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17076",
+        "StopID": "17076",
+        "StopName": {
+          "Zh_tw": "新光國小",
+          "En": "Shinkong Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.35265,
+          "PositionLat": 22.97183,
+          "GeoHash": "wsjddtyhs"
+        },
+        "StationID": "1488",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17077",
+        "StopID": "17077",
+        "StopName": {
+          "Zh_tw": "代天府(新光里)",
+          "En": "Daitian Temple(Shinkong Vil.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.35853,
+          "PositionLat": 22.97434,
+          "GeoHash": "wsjddy67j"
+        },
+        "StationID": "1490",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17078",
+        "StopID": "17078",
+        "StopName": {
+          "Zh_tw": "桂花巷(新光里)",
+          "En": "Guihua Ln.(Shinkong Vil.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.36011,
+          "PositionLat": 22.97457,
+          "GeoHash": "wsjddy7s9"
+        },
+        "StationID": "1492",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17079",
+        "StopID": "17079",
+        "StopName": {
+          "Zh_tw": "南寮街(新光里)",
+          "En": "Nanliao St.(Shinkong Vil.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.36155,
+          "PositionLat": 22.97236,
+          "GeoHash": "wsjddvuxe"
+        },
+        "StationID": "1494",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17100",
+        "StopID": "17100",
+        "StopName": {
+          "Zh_tw": "龍崎國中",
+          "En": "Longci Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.36095,
+          "PositionLat": 22.96838,
+          "GeoHash": "wsjddvk0t"
+        },
+        "StationID": "1578",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34750",
+        "StopID": "34750",
+        "StopName": {
+          "Zh_tw": "龍崎區農會",
+          "En": "Longci Farmers' Association"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.36005,
+          "PositionLat": 22.96609,
+          "GeoHash": "wsjdduge0"
+        },
+        "StationID": "1357",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15482",
+        "StopID": "15482",
+        "StopName": {
+          "Zh_tw": "龍崎",
+          "En": "Longci"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.36014,
+          "PositionLat": 22.96475,
+          "GeoHash": "wsjdduee6"
+        },
+        "StationID": "3308",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15483",
+        "StopID": "15483",
+        "StopName": {
+          "Zh_tw": "龍崎區公所",
+          "En": "Longci District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.36444,
+          "PositionLat": 22.96408,
+          "GeoHash": "wsjdduqxq"
+        },
+        "StationID": "3309",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15484",
+        "StopID": "15484",
+        "StopName": {
+          "Zh_tw": "崎腳路口",
+          "En": "Cijiao Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.36966,
+          "PositionLat": 22.95956,
+          "GeoHash": "wsjde5dt0"
+        },
+        "StationID": "3310",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15485",
+        "StopID": "15485",
+        "StopName": {
+          "Zh_tw": "大溪口",
+          "En": "Dasikou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.37445,
+          "PositionLat": 22.95621,
+          "GeoHash": "wsjde5jcx"
+        },
+        "StationID": "3311",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16664",
+        "StopID": "16664",
+        "StopName": {
+          "Zh_tw": "龍崎文衡殿",
+          "En": "Longci Wenheng Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.38269,
+          "PositionLat": 22.94905,
+          "GeoHash": "wsjde3ezz"
+        },
+        "StationID": "8992",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15487",
+        "StopID": "15487",
+        "StopName": {
+          "Zh_tw": "過嶺路口",
+          "En": "Guoling Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.38598,
+          "PositionLat": 22.95099,
+          "GeoHash": "wsjde6n7h"
+        },
+        "StationID": "3313",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15488",
+        "StopID": "15488",
+        "StopName": {
+          "Zh_tw": "龍船",
+          "En": "Longchuan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.39318,
+          "PositionLat": 22.94821,
+          "GeoHash": "wsjde9eeh"
+        },
+        "StationID": "3314",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15489",
+        "StopID": "15489",
+        "StopName": {
+          "Zh_tw": "石曹",
+          "En": "Shihcao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.40079,
+          "PositionLat": 22.94671,
+          "GeoHash": "wsjdec34m"
+        },
+        "StationID": "3315",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22093",
+        "StopID": "22093",
+        "StopName": {
+          "Zh_tw": "田草埔",
+          "En": "Tiancaopu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.40547,
+          "PositionLat": 22.94641,
+          "GeoHash": "wsjdeck8d"
+        },
+        "StationID": "1976",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15490",
+        "StopID": "15490",
+        "StopName": {
+          "Zh_tw": "後壁溪",
+          "En": "Houbi River"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.40912,
+          "PositionLat": 22.94629,
+          "GeoHash": "wsjdecppz"
+        },
+        "StationID": "3316",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22005",
+        "StopID": "22005",
+        "StopName": {
+          "Zh_tw": "後壁溪橋",
+          "En": "Houbi River Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.41215,
+          "PositionLat": 22.94614,
+          "GeoHash": "wsjds11qy"
+        },
+        "StationID": "1949",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22006",
+        "StopID": "22006",
+        "StopName": {
+          "Zh_tw": "順興瓦斯行",
+          "En": "Shunsing Propane Retailer"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.41711,
+          "PositionLat": 22.94672,
+          "GeoHash": "wsjds1m46"
+        },
+        "StationID": "1951",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22007",
+        "StopID": "22007",
+        "StopName": {
+          "Zh_tw": "龍崎農會分會",
+          "En": "Longci Farmers’ Assn. Branch"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.41822,
+          "PositionLat": 22.94637,
+          "GeoHash": "wsjds1mb7"
+        },
+        "StationID": "1953",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15492",
+        "StopID": "15492",
+        "StopName": {
+          "Zh_tw": "龍船國小",
+          "En": "Longchuan Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.41553,
+          "PositionLat": 22.94432,
+          "GeoHash": "wsjds0gum"
+        },
+        "StationID": "3326",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22008",
+        "StopID": "22008",
+        "StopName": {
+          "Zh_tw": "瓦厝(牛埔)",
+          "En": "Wacuo(Nioupu)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.41448,
+          "PositionLat": 22.94314,
+          "GeoHash": "wsjds0ejk"
+        },
+        "StationID": "1955",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22009",
+        "StopID": "22009",
+        "StopName": {
+          "Zh_tw": "牛埔橋",
+          "En": "Nioupu Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.41446,
+          "PositionLat": 22.93971,
+          "GeoHash": "wsjds051k"
+        },
+        "StationID": "1957",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15493",
+        "StopID": "15493",
+        "StopName": {
+          "Zh_tw": "頂牛埔",
+          "En": "Dingnioupu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLon": 120.41221,
+          "PositionLat": 22.93502,
+          "GeoHash": "wsjdkp1qp"
+        },
+        "StationID": "3327",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15494",
+        "StopID": "15494",
+        "StopName": {
+          "Zh_tw": "牛埔",
+          "En": "Nioupu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLon": 120.40988,
+          "PositionLat": 22.93295,
+          "GeoHash": "wsjd7yzf1"
+        },
+        "StationID": "3328",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16739",
+        "StopID": "16739",
+        "StopName": {
+          "Zh_tw": "牛埔製麵廠",
+          "En": "Nioupu Noodle factory"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLon": 120.40994,
+          "PositionLat": 22.93049,
+          "GeoHash": "wsjd7yrgf"
+        },
+        "StationID": "8998",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15495",
+        "StopID": "15495",
+        "StopName": {
+          "Zh_tw": "牛埔農塘",
+          "En": "Nioupu Eco-technology Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLon": 120.40968,
+          "PositionLat": 22.92666,
+          "GeoHash": "wsjd7vxtk"
+        },
+        "StationID": "8396",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-11T07:04:26+08:00",
+    "VersionID": 10667
+  },
+  {
+    "RouteUID": "TNN1611",
+    "RouteID": "1611",
+    "RouteName": {
+      "Zh_tw": "紅11",
+      "En": "R11"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16253",
+        "OperatorName": {
+          "Zh_tw": "中華衛星台南車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN161112",
+    "SubRouteID": "161112",
+    "SubRouteName": {
+      "Zh_tw": "紅11 小黃 牛埔農塘→關廟",
+      "En": "R11 Shuttle Taxi Nioupu Eco-technology Park→Guanmiao Junior High School"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN15496",
+        "StopID": "15496",
+        "StopName": {
+          "Zh_tw": "牛埔農塘",
+          "En": "Nioupu Eco-technology Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.40968,
+          "PositionLat": 22.92666,
+          "GeoHash": "wsjd7vxtk"
+        },
+        "StationID": "8396",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16740",
+        "StopID": "16740",
+        "StopName": {
+          "Zh_tw": "牛埔製麵廠",
+          "En": "Nioupu Noodle factory"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.41001,
+          "PositionLat": 22.93051,
+          "GeoHash": "wsjd7yrgu"
+        },
+        "StationID": "8999",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15497",
+        "StopID": "15497",
+        "StopName": {
+          "Zh_tw": "牛埔",
+          "En": "Nioupu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.40991,
+          "PositionLat": 22.93295,
+          "GeoHash": "wsjd7yzf4"
+        },
+        "StationID": "3331",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15498",
+        "StopID": "15498",
+        "StopName": {
+          "Zh_tw": "頂牛埔",
+          "En": "Dingnioupu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.41235,
+          "PositionLat": 22.93504,
+          "GeoHash": "wsjdkp1w7"
+        },
+        "StationID": "3332",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22010",
+        "StopID": "22010",
+        "StopName": {
+          "Zh_tw": "牛埔橋",
+          "En": "Nioupu Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.41444,
+          "PositionLat": 22.93981,
+          "GeoHash": "wsjds0545"
+        },
+        "StationID": "1958",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22011",
+        "StopID": "22011",
+        "StopName": {
+          "Zh_tw": "瓦厝(牛埔)",
+          "En": "Wacuo(Nioupu)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.41451,
+          "PositionLat": 22.94317,
+          "GeoHash": "wsjds0ejt"
+        },
+        "StationID": "1956",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15499",
+        "StopID": "15499",
+        "StopName": {
+          "Zh_tw": "龍船國小",
+          "En": "Longchuan Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.41544,
+          "PositionLat": 22.94414,
+          "GeoHash": "wsjds0gg7"
+        },
+        "StationID": "3333",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15500",
+        "StopID": "15500",
+        "StopName": {
+          "Zh_tw": "苦苓湖",
+          "En": "Kulinghu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.41717,
+          "PositionLat": 22.94511,
+          "GeoHash": "wsjds1j0g"
+        },
+        "StationID": "3317",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22012",
+        "StopID": "22012",
+        "StopName": {
+          "Zh_tw": "龍崎農會分會",
+          "En": "Longci Farmers’ Assn. Branch"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.41813,
+          "PositionLat": 22.94655,
+          "GeoHash": "wsjds1mc3"
+        },
+        "StationID": "1954",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22013",
+        "StopID": "22013",
+        "StopName": {
+          "Zh_tw": "順興瓦斯行",
+          "En": "Shunsing Propane Retailer"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.41682,
+          "PositionLat": 22.94662,
+          "GeoHash": "wsjds1kcg"
+        },
+        "StationID": "1952",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22014",
+        "StopID": "22014",
+        "StopName": {
+          "Zh_tw": "後壁溪橋",
+          "En": "Houbi River Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.41211,
+          "PositionLat": 22.94617,
+          "GeoHash": "wsjds11rj"
+        },
+        "StationID": "1950",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15501",
+        "StopID": "15501",
+        "StopName": {
+          "Zh_tw": "後壁溪",
+          "En": "Houbi River"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.40911,
+          "PositionLat": 22.94642,
+          "GeoHash": "wsjdecr0x"
+        },
+        "StationID": "3335",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22094",
+        "StopID": "22094",
+        "StopName": {
+          "Zh_tw": "田草埔",
+          "En": "Tiancaopu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.40526,
+          "PositionLat": 22.94672,
+          "GeoHash": "wsjdeck6m"
+        },
+        "StationID": "1977",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15502",
+        "StopID": "15502",
+        "StopName": {
+          "Zh_tw": "石曹",
+          "En": "Shihcao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.40072,
+          "PositionLat": 22.94698,
+          "GeoHash": "wsjdec35u"
+        },
+        "StationID": "3336",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15503",
+        "StopID": "15503",
+        "StopName": {
+          "Zh_tw": "龍船",
+          "En": "Longchuan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.39238,
+          "PositionLat": 22.94823,
+          "GeoHash": "wsjde9e51"
+        },
+        "StationID": "3337",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15504",
+        "StopID": "15504",
+        "StopName": {
+          "Zh_tw": "過嶺路口",
+          "En": "Guoling Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.38584,
+          "PositionLat": 22.95118,
+          "GeoHash": "wsjde6nk3"
+        },
+        "StationID": "3338",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16665",
+        "StopID": "16665",
+        "StopName": {
+          "Zh_tw": "龍崎文衡殿",
+          "En": "Longci Wenheng Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.38282,
+          "PositionLat": 22.94906,
+          "GeoHash": "wsjde3spg"
+        },
+        "StationID": "8993",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15506",
+        "StopID": "15506",
+        "StopName": {
+          "Zh_tw": "大溪口",
+          "En": "Dasikou"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.37456,
+          "PositionLat": 22.95636,
+          "GeoHash": "wsjde5n46"
+        },
+        "StationID": "3340",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15507",
+        "StopID": "15507",
+        "StopName": {
+          "Zh_tw": "崎腳路口",
+          "En": "Cijiao Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.36962,
+          "PositionLat": 22.96043,
+          "GeoHash": "wsjde5f6p"
+        },
+        "StationID": "3341",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15508",
+        "StopID": "15508",
+        "StopName": {
+          "Zh_tw": "龍崎區公所",
+          "En": "Longci District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.36531,
+          "PositionLat": 22.96332,
+          "GeoHash": "wsjddur75"
+        },
+        "StationID": "3342",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15509",
+        "StopID": "15509",
+        "StopName": {
+          "Zh_tw": "龍崎",
+          "En": "Longci"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.36014,
+          "PositionLat": 22.96474,
+          "GeoHash": "wsjdduee6"
+        },
+        "StationID": "3343",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN34751",
+        "StopID": "34751",
+        "StopName": {
+          "Zh_tw": "龍崎區農會",
+          "En": "Longci Farmers' Association"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.36017,
+          "PositionLat": 22.96621,
+          "GeoHash": "wsjddugeg"
+        },
+        "StationID": "1358",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17101",
+        "StopID": "17101",
+        "StopName": {
+          "Zh_tw": "龍崎國中",
+          "En": "Longci Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.36102,
+          "PositionLat": 22.96839,
+          "GeoHash": "wsjddvk0x"
+        },
+        "StationID": "1579",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17080",
+        "StopID": "17080",
+        "StopName": {
+          "Zh_tw": "南寮街(新光里)",
+          "En": "Nanliao St.(Shinkong Vil.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.36187,
+          "PositionLat": 22.97261,
+          "GeoHash": "wsjddyhc4"
+        },
+        "StationID": "1495",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17081",
+        "StopID": "17081",
+        "StopName": {
+          "Zh_tw": "桂花巷(新光里)",
+          "En": "Guihua Ln.(Shinkong Vil.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.36041,
+          "PositionLat": 22.97465,
+          "GeoHash": "wsjddy7v0"
+        },
+        "StationID": "1493",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17082",
+        "StopID": "17082",
+        "StopName": {
+          "Zh_tw": "代天府(新光里)",
+          "En": "Daitian Temple(Shinkong Vil.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.35853,
+          "PositionLat": 22.97441,
+          "GeoHash": "wsjddy67t"
+        },
+        "StationID": "1491",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17083",
+        "StopID": "17083",
+        "StopName": {
+          "Zh_tw": "新光國小",
+          "En": "Shinkong Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.35281,
+          "PositionLat": 22.97215,
+          "GeoHash": "wsjddtynr"
+        },
+        "StationID": "1489",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15511",
+        "StopID": "15511",
+        "StopName": {
+          "Zh_tw": "牛稠埔",
+          "En": "Niouchoupu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.34901,
+          "PositionLat": 22.96796,
+          "GeoHash": "wsjddt5qp"
+        },
+        "StationID": "3345",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15512",
+        "StopID": "15512",
+        "StopName": {
+          "Zh_tw": "仰龍橋",
+          "En": "Yanglong Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.34448,
+          "PositionLat": 22.96734,
+          "GeoHash": "wsjddt04m"
+        },
+        "StationID": "3346",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15513",
+        "StopID": "15513",
+        "StopName": {
+          "Zh_tw": "關廟轉運站",
+          "En": "Guanmiao Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLon": 120.33739,
+          "PositionLat": 22.96348,
+          "GeoHash": "wsjddk75b"
+        },
+        "StationID": "3347",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16880",
+        "StopID": "16880",
+        "StopName": {
+          "Zh_tw": "花園",
+          "En": "Huayuan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLon": 120.33407,
+          "PositionLat": 22.96302,
+          "GeoHash": "wsjddk297"
+        },
+        "StationID": "3348",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16881",
+        "StopID": "16881",
+        "StopName": {
+          "Zh_tw": "北勢里",
+          "En": "Beishih Vil."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLon": 120.33144,
+          "PositionLat": 22.96192,
+          "GeoHash": "wsjddhndv"
+        },
+        "StationID": "3349",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16882",
+        "StopID": "16882",
+        "StopName": {
+          "Zh_tw": "關廟市場",
+          "En": "Guanmiao Market"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLon": 120.32839,
+          "PositionLat": 22.96221,
+          "GeoHash": "wsjddhhkw"
+        },
+        "StationID": "3350",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16883",
+        "StopID": "16883",
+        "StopName": {
+          "Zh_tw": "關廟國中",
+          "En": "Guanmiao Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 34,
+        "StopPosition": {
+          "PositionLon": 120.32505,
+          "PositionLat": 22.96046,
+          "GeoHash": "wsjdd5f42"
+        },
+        "StationID": "1534",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-11T07:04:26+08:00",
+    "VersionID": 10667
+  },
+  {
+    "RouteUID": "TNN1611",
+    "RouteID": "1611",
+    "RouteName": {
+      "Zh_tw": "紅11",
+      "En": "R11"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16253",
+        "OperatorName": {
+          "Zh_tw": "中華衛星台南車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN161131",
+    "SubRouteID": "161131",
+    "SubRouteName": {
+      "Zh_tw": "紅11 小黃 關廟→龍崎國中(區間)",
+      "En": "R11 Shuttle Taxi Guanmiao Junior High School→Longci Junior High School"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN16876",
+        "StopID": "16876",
+        "StopName": {
+          "Zh_tw": "關廟國中",
+          "En": "Guanmiao Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.32481,
+          "PositionLat": 22.96034,
+          "GeoHash": "wsjdd5cce"
+        },
+        "StationID": "1533",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN15478",
+        "StopID": "15478",
+        "StopName": {
+          "Zh_tw": "關廟轉運站",
+          "En": "Guanmiao Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.33739,
+          "PositionLat": 22.96348,
+          "GeoHash": "wsjddk75b"
+        },
+        "StationID": "3347",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN17100",
+        "StopID": "17100",
+        "StopName": {
+          "Zh_tw": "龍崎國中",
+          "En": "Longci Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.36095,
+          "PositionLat": 22.96838,
+          "GeoHash": "wsjddvk0t"
+        },
+        "StationID": "1578",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-11T07:04:26+08:00",
+    "VersionID": 10667
+  },
+  {
+    "RouteUID": "TNN1611",
+    "RouteID": "1611",
+    "RouteName": {
+      "Zh_tw": "紅11",
+      "En": "R11"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16253",
+        "OperatorName": {
+          "Zh_tw": "中華衛星台南車隊"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN161132",
+    "SubRouteID": "161132",
+    "SubRouteName": {
+      "Zh_tw": "紅11 小黃 龍崎國中→關廟(區間)",
+      "En": "R11 Shuttle Taxi Longci Junior High School→Guanmiao Junior High School"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN17101",
+        "StopID": "17101",
+        "StopName": {
+          "Zh_tw": "龍崎國中",
+          "En": "Longci Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.36102,
+          "PositionLat": 22.96839,
+          "GeoHash": "wsjddvk0x"
+        },
+        "StationID": "1579",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN16883",
+        "StopID": "16883",
+        "StopName": {
+          "Zh_tw": "關廟國中",
+          "En": "Guanmiao Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.32505,
+          "PositionLat": 22.96046,
+          "GeoHash": "wsjdd5f42"
+        },
+        "StationID": "1534",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-11T07:04:26+08:00",
+    "VersionID": 10667
+  }
+]
