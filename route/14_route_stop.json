@@ -1,0 +1,2168 @@
+[
+  {
+    "RouteUID": "TNN10170",
+    "RouteID": "10170",
+    "RouteName": {
+      "Zh_tw": "14",
+      "En": "14"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10001",
+        "OperatorName": {
+          "Zh_tw": "府城客運",
+          "En": "TainanCityBus"
+        },
+        "OperatorCode": "TainanCityBus",
+        "OperatorNo": "0803"
+      }
+    ],
+    "SubRouteUID": "TNN101700",
+    "SubRouteID": "101700",
+    "SubRouteName": {
+      "Zh_tw": "14路 台南二中→慈濟高中",
+      "En": "14 National Tainan Second Senior High School→Buddhist Tainan Tzu Chi Senior High School"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN33584",
+        "StopID": "33584",
+        "StopName": {
+          "Zh_tw": "台南二中",
+          "En": "National Tainan Second Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.21342,
+          "PositionLat": 23.00352,
+          "GeoHash": "wsj6ze8tp"
+        },
+        "StationID": "5129",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33592",
+        "StopID": "33592",
+        "StopName": {
+          "Zh_tw": "臺南公園(北門路)",
+          "En": "Tainan Park(Beimen Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.21294,
+          "PositionLat": 23.00099,
+          "GeoHash": "wsj6ze0qk"
+        },
+        "StationID": "2249",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9140",
+        "StopID": "9140",
+        "StopName": {
+          "Zh_tw": "臺南火車站(中山路C)",
+          "En": "Tainan Train Station(Jhongshan Rd. C)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.21142,
+          "PositionLat": 22.99673,
+          "GeoHash": "wsj6z6rm9"
+        },
+        "StationID": "1093",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9141",
+        "StopID": "9141",
+        "StopName": {
+          "Zh_tw": "台南醫院",
+          "En": "Tainan Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.20914,
+          "PositionLat": 22.99529,
+          "GeoHash": "wsj6z6jt7"
+        },
+        "StationID": "213",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9142",
+        "StopID": "9142",
+        "StopName": {
+          "Zh_tw": "中山、民權路口",
+          "En": "Jhongshan Rd.＆Mincyuan Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.20709,
+          "PositionLat": 22.99393,
+          "GeoHash": "wsj6z3ujk"
+        },
+        "StationID": "214",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9182",
+        "StopID": "9182",
+        "StopName": {
+          "Zh_tw": "吳園",
+          "En": "Wu’s Garden"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.20603,
+          "PositionLat": 22.99411,
+          "GeoHash": "wsj6z3gq7"
+        },
+        "StationID": "1403",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9143",
+        "StopID": "9143",
+        "StopName": {
+          "Zh_tw": "民權路(北極殿)",
+          "En": "Mincyuan Rd.(Beiji Temple)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.20407,
+          "PositionLat": 22.99476,
+          "GeoHash": "wsj6z61fj"
+        },
+        "StationID": "1401",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9144",
+        "StopID": "9144",
+        "StopName": {
+          "Zh_tw": "西門、民權路口",
+          "En": "Simen Rd.＆ Mincyuan Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.19945,
+          "PositionLat": 22.99581,
+          "GeoHash": "wsj6z4q86"
+        },
+        "StationID": "9279",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9183",
+        "StopID": "9183",
+        "StopName": {
+          "Zh_tw": "中正、國華街口",
+          "En": "Jhongjheng Rd.＆Guohua St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.19792,
+          "PositionLat": 22.99301,
+          "GeoHash": "wsj6z1try"
+        },
+        "StationID": "8837",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9145",
+        "StopID": "9145",
+        "StopName": {
+          "Zh_tw": "中正商圈",
+          "En": "Jhongjheng Commercial District"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.19678,
+          "PositionLat": 22.99319,
+          "GeoHash": "wsj6z1u95"
+        },
+        "StationID": "1402",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9147",
+        "StopID": "9147",
+        "StopName": {
+          "Zh_tw": "南華街口",
+          "En": "Nan-Hua St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.19222,
+          "PositionLat": 22.99169,
+          "GeoHash": "wsj6z1923"
+        },
+        "StationID": "663",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9148",
+        "StopID": "9148",
+        "StopName": {
+          "Zh_tw": "生活美學館",
+          "En": "National Tainan Living Art Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.18771,
+          "PositionLat": 22.99257,
+          "GeoHash": "wsj6ycwj2"
+        },
+        "StationID": "664",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9149",
+        "StopID": "9149",
+        "StopName": {
+          "Zh_tw": "永華市政中心(府前路)",
+          "En": "Tainan City Hall(Fu-Cian Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.18449,
+          "PositionLat": 22.99322,
+          "GeoHash": "wsj6ycg9j"
+        },
+        "StationID": "1430",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9184",
+        "StopID": "9184",
+        "StopName": {
+          "Zh_tw": "新南國小",
+          "En": "Sin-Nan Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.18361,
+          "PositionLat": 22.99371,
+          "GeoHash": "wsj6ycgh1"
+        },
+        "StationID": "1421",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN14010",
+        "StopID": "14010",
+        "StopName": {
+          "Zh_tw": "建平十四街口",
+          "En": "Jianping 14th St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.18405,
+          "PositionLat": 22.99568,
+          "GeoHash": "wsj6yf5re"
+        },
+        "StationID": "1425",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN14011",
+        "StopID": "14011",
+        "StopName": {
+          "Zh_tw": "慶平路",
+          "En": "Cingping Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.18161,
+          "PositionLat": 22.99708,
+          "GeoHash": "wsj6yf3xd"
+        },
+        "StationID": "1426",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN14012",
+        "StopID": "14012",
+        "StopName": {
+          "Zh_tw": "文平路",
+          "En": "Wunping Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.17899,
+          "PositionLat": 22.99574,
+          "GeoHash": "wsj6ydpxv"
+        },
+        "StationID": "1427",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN14013",
+        "StopID": "14013",
+        "StopName": {
+          "Zh_tw": "怡平路口",
+          "En": "Yiping Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.17866,
+          "PositionLat": 22.99306,
+          "GeoHash": "wsj6y9z2m"
+        },
+        "StationID": "1428",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27465",
+        "StopID": "27465",
+        "StopName": {
+          "Zh_tw": "怡平公園",
+          "En": "Yiping Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.17601,
+          "PositionLat": 22.99299,
+          "GeoHash": "wsj6y9trz"
+        },
+        "StationID": "2711",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN14260",
+        "StopID": "14260",
+        "StopName": {
+          "Zh_tw": "安平區公所",
+          "En": "An-Ping District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.16816,
+          "PositionLat": 22.99404,
+          "GeoHash": "wsj6y3zvc"
+        },
+        "StationID": "1429",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9157",
+        "StopID": "9157",
+        "StopName": {
+          "Zh_tw": "育平派出所",
+          "En": "Yuping Police Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.16744,
+          "PositionLat": 22.99268,
+          "GeoHash": "wsj6y3xq0"
+        },
+        "StationID": "1221",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9158",
+        "StopID": "9158",
+        "StopName": {
+          "Zh_tw": "平豐路口",
+          "En": "Pingfeng Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.16441,
+          "PositionLat": 22.99195,
+          "GeoHash": "wsj6y3t1c"
+        },
+        "StationID": "1411",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9180",
+        "StopID": "9180",
+        "StopName": {
+          "Zh_tw": "貢噶寺",
+          "En": "Gongge Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.16058,
+          "PositionLat": 22.99175,
+          "GeoHash": "wsj6y3d28"
+        },
+        "StationID": "1424",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN28376",
+        "StopID": "28376",
+        "StopName": {
+          "Zh_tw": "安平雅樂軒酒店",
+          "En": "Aloft Tainan Anping"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.15981,
+          "PositionLat": 22.99094,
+          "GeoHash": "wsj6y33ey"
+        },
+        "StationID": "2726",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27467",
+        "StopID": "27467",
+        "StopName": {
+          "Zh_tw": "億載國小",
+          "En": "Yi-Zai Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.16199,
+          "PositionLat": 22.98949,
+          "GeoHash": "wsj6y3573"
+        },
+        "StationID": "1413",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27469",
+        "StopID": "27469",
+        "StopName": {
+          "Zh_tw": "郡平路",
+          "En": "Jyun-Ping Road"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.16659,
+          "PositionLat": 22.98932,
+          "GeoHash": "wsj6y3ndk"
+        },
+        "StationID": "1414",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27471",
+        "StopID": "27471",
+        "StopName": {
+          "Zh_tw": "育平、府平路口",
+          "En": "Yuping Rd. ＆ Fuping Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.16634,
+          "PositionLat": 22.98686,
+          "GeoHash": "wsj6y2wkn"
+        },
+        "StationID": "2091",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27473",
+        "StopID": "27473",
+        "StopName": {
+          "Zh_tw": "健康新路口",
+          "En": "Jiankangsin Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.16849,
+          "PositionLat": 22.98454,
+          "GeoHash": "wsj6y80n8"
+        },
+        "StationID": "2054",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27474",
+        "StopID": "27474",
+        "StopName": {
+          "Zh_tw": "地方法院",
+          "En": "Tainan District Court"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.17208,
+          "PositionLat": 22.98395,
+          "GeoHash": "wsj6y84eh"
+        },
+        "StationID": "1416",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27475",
+        "StopID": "27475",
+        "StopName": {
+          "Zh_tw": "安平水資源環教中心",
+          "En": "An-Ping Reclaimed Water Plant EEC."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLon": 120.17634,
+          "PositionLat": 22.98318,
+          "GeoHash": "wsj6wxvwx"
+        },
+        "StationID": "1417",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27478",
+        "StopID": "27478",
+        "StopName": {
+          "Zh_tw": "慈濟高中",
+          "En": "Buddhist Tainan Tzu Chi Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLon": 120.17791,
+          "PositionLat": 22.98588,
+          "GeoHash": "wsj6y8qyk"
+        },
+        "StationID": "2722",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-11T11:24:30+08:00",
+    "VersionID": 10668
+  },
+  {
+    "RouteUID": "TNN10170",
+    "RouteID": "10170",
+    "RouteName": {
+      "Zh_tw": "14",
+      "En": "14"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10001",
+        "OperatorName": {
+          "Zh_tw": "府城客運",
+          "En": "TainanCityBus"
+        },
+        "OperatorCode": "TainanCityBus",
+        "OperatorNo": "0803"
+      }
+    ],
+    "SubRouteUID": "TNN101701",
+    "SubRouteID": "101701",
+    "SubRouteName": {
+      "Zh_tw": "14路 慈濟高中→台南二中",
+      "En": "14 Buddhist Tainan Tzu Chi Senior High School→National Tainan Second Senior High School"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN27479",
+        "StopID": "27479",
+        "StopName": {
+          "Zh_tw": "慈濟高中",
+          "En": "Buddhist Tainan Tzu Chi Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.17791,
+          "PositionLat": 22.98588,
+          "GeoHash": "wsj6y8qyk"
+        },
+        "StationID": "2722",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30682",
+        "StopID": "30682",
+        "StopName": {
+          "Zh_tw": "安平水資源環教中心",
+          "En": "An-Ping Reclaimed Water Plant EEC."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.17696,
+          "PositionLat": 22.98328,
+          "GeoHash": "wsj6wxypq"
+        },
+        "StationID": "2786",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27476",
+        "StopID": "27476",
+        "StopName": {
+          "Zh_tw": "地方法院",
+          "En": "Tainan District Court"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.17217,
+          "PositionLat": 22.98411,
+          "GeoHash": "wsj6y84sn"
+        },
+        "StationID": "2721",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27477",
+        "StopID": "27477",
+        "StopName": {
+          "Zh_tw": "健康新路口",
+          "En": "Jiankangsin Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.16757,
+          "PositionLat": 22.98488,
+          "GeoHash": "wsj6y2r2e"
+        },
+        "StationID": "2720",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27472",
+        "StopID": "27472",
+        "StopName": {
+          "Zh_tw": "育平、府平路口",
+          "En": "Yuping Rd. ＆ Fuping Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.16628,
+          "PositionLat": 22.98593,
+          "GeoHash": "wsj6y2qqt"
+        },
+        "StationID": "2719",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27470",
+        "StopID": "27470",
+        "StopName": {
+          "Zh_tw": "郡平路",
+          "En": "Jyun-Ping Road"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.16671,
+          "PositionLat": 22.98932,
+          "GeoHash": "wsj6y3ndr"
+        },
+        "StationID": "2718",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27468",
+        "StopID": "27468",
+        "StopName": {
+          "Zh_tw": "億載國小",
+          "En": "Yi-Zai Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.16251,
+          "PositionLat": 22.98956,
+          "GeoHash": "wsj6y35ev"
+        },
+        "StationID": "1207",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN28377",
+        "StopID": "28377",
+        "StopName": {
+          "Zh_tw": "安平雅樂軒酒店",
+          "En": "Aloft Tainan Anping"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.16008,
+          "PositionLat": 22.99021,
+          "GeoHash": "wsj6y31zs"
+        },
+        "StationID": "2727",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27480",
+        "StopID": "27480",
+        "StopName": {
+          "Zh_tw": "貢噶寺",
+          "En": "Gongge Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.16061,
+          "PositionLat": 22.99155,
+          "GeoHash": "wsj6y36r3"
+        },
+        "StationID": "8759",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27481",
+        "StopID": "27481",
+        "StopName": {
+          "Zh_tw": "平豐路口",
+          "En": "Pingfeng Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.16471,
+          "PositionLat": 22.99169,
+          "GeoHash": "wsj6y3t22"
+        },
+        "StationID": "8760",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27483",
+        "StopID": "27483",
+        "StopName": {
+          "Zh_tw": "育平派出所",
+          "En": "Yuping Police Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.16764,
+          "PositionLat": 22.99353,
+          "GeoHash": "wsj6y3z7h"
+        },
+        "StationID": "1222",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27482",
+        "StopID": "27482",
+        "StopName": {
+          "Zh_tw": "安平區公所",
+          "En": "An-Ping District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.16947,
+          "PositionLat": 22.99382,
+          "GeoHash": "wsj6y9bsx"
+        },
+        "StationID": "2717",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27466",
+        "StopID": "27466",
+        "StopName": {
+          "Zh_tw": "怡平公園",
+          "En": "Yiping Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.17601,
+          "PositionLat": 22.99294,
+          "GeoHash": "wsj6y9trx"
+        },
+        "StationID": "2712",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27487",
+        "StopID": "27487",
+        "StopName": {
+          "Zh_tw": "怡平路口",
+          "En": "Yiping Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.17886,
+          "PositionLat": 22.99341,
+          "GeoHash": "wsj6y9zd6"
+        },
+        "StationID": "2716",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27486",
+        "StopID": "27486",
+        "StopName": {
+          "Zh_tw": "文平路",
+          "En": "Wunping Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.17918,
+          "PositionLat": 22.99617,
+          "GeoHash": "wsj6ydrf3"
+        },
+        "StationID": "2715",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27485",
+        "StopID": "27485",
+        "StopName": {
+          "Zh_tw": "慶平路",
+          "En": "Cingping Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.18054,
+          "PositionLat": 22.99703,
+          "GeoHash": "wsj6yf2z3"
+        },
+        "StationID": "2714",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27484",
+        "StopID": "27484",
+        "StopName": {
+          "Zh_tw": "建平十四街口",
+          "En": "Jianping 14th St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.18374,
+          "PositionLat": 22.99498,
+          "GeoHash": "wsj6yf55k"
+        },
+        "StationID": "2713",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9169",
+        "StopID": "9169",
+        "StopName": {
+          "Zh_tw": "永華市政中心(府前路)",
+          "En": "Tainan City Hall(Fu-Cian Rd.)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.18443,
+          "PositionLat": 22.99308,
+          "GeoHash": "wsj6ycg8k"
+        },
+        "StationID": "1431",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9170",
+        "StopID": "9170",
+        "StopName": {
+          "Zh_tw": "生活美學館",
+          "En": "National Tainan Living Art Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.18742,
+          "PositionLat": 22.99259,
+          "GeoHash": "wsj6yctv9"
+        },
+        "StationID": "622",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9171",
+        "StopID": "9171",
+        "StopName": {
+          "Zh_tw": "南華街口",
+          "En": "Nan-Hua St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.19221,
+          "PositionLat": 22.99162,
+          "GeoHash": "wsj6z13rc"
+        },
+        "StationID": "623",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9173",
+        "StopID": "9173",
+        "StopName": {
+          "Zh_tw": "中正商圈",
+          "En": "Jhongjheng Commercial District"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.19661,
+          "PositionLat": 22.99306,
+          "GeoHash": "wsj6z1u82"
+        },
+        "StationID": "1422",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9185",
+        "StopID": "9185",
+        "StopName": {
+          "Zh_tw": "中正、國華街口",
+          "En": "Jhongjheng Rd.＆Guohua St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.19772,
+          "PositionLat": 22.99289,
+          "GeoHash": "wsj6z1tr3"
+        },
+        "StationID": "8814",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9174",
+        "StopID": "9174",
+        "StopName": {
+          "Zh_tw": "西門、民權路口",
+          "En": "Simen Rd.＆ Mincyuan Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.19942,
+          "PositionLat": 22.99511,
+          "GeoHash": "wsj6z4ns1"
+        },
+        "StationID": "9206",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9175",
+        "StopID": "9175",
+        "StopName": {
+          "Zh_tw": "民權路(北極殿)",
+          "En": "Mincyuan Rd.(Beiji Temple)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.20439,
+          "PositionLat": 22.99459,
+          "GeoHash": "wsj6z641j"
+        },
+        "StationID": "1423",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9176",
+        "StopID": "9176",
+        "StopName": {
+          "Zh_tw": "中山、民權路口",
+          "En": "Jhongshan Rd.＆Mincyuan Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.20723,
+          "PositionLat": 22.99388,
+          "GeoHash": "wsj6z3ujp"
+        },
+        "StationID": "286",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9177",
+        "StopID": "9177",
+        "StopName": {
+          "Zh_tw": "台南醫院",
+          "En": "Tainan Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.20937,
+          "PositionLat": 22.99528,
+          "GeoHash": "wsj6z6jv1"
+        },
+        "StationID": "287",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9178",
+        "StopID": "9178",
+        "StopName": {
+          "Zh_tw": "臺南火車站(中山路D)",
+          "En": "Tainan Train Station(Jhongshan Rd. D)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.21113,
+          "PositionLat": 22.99641,
+          "GeoHash": "wsj6z6r5f"
+        },
+        "StationID": "1094",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33593",
+        "StopID": "33593",
+        "StopName": {
+          "Zh_tw": "臺南公園(北門路)",
+          "En": "Tainan Park(Beimen Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.21308,
+          "PositionLat": 23.00069,
+          "GeoHash": "wsj6ze0kx"
+        },
+        "StationID": "2202",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33585",
+        "StopID": "33585",
+        "StopName": {
+          "Zh_tw": "台南二中",
+          "En": "National Tainan Second Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.21325,
+          "PositionLat": 23.00214,
+          "GeoHash": "wsj6ze2t5"
+        },
+        "StationID": "5104",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-11T11:24:30+08:00",
+    "VersionID": 10668
+  },
+  {
+    "RouteUID": "TNN10170",
+    "RouteID": "10170",
+    "RouteName": {
+      "Zh_tw": "14",
+      "En": "14"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16273",
+        "OperatorName": {
+          "Zh_tw": "府城小黃"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN101702",
+    "SubRouteID": "101702",
+    "SubRouteName": {
+      "Zh_tw": "14路 9人小巴 台南二中→慈濟高中",
+      "En": "14 Shuttle Taxi National Tainan Second Senior High School→Buddhist Tainan Tzu Chi Senior High School"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN33584",
+        "StopID": "33584",
+        "StopName": {
+          "Zh_tw": "台南二中",
+          "En": "National Tainan Second Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.21342,
+          "PositionLat": 23.00352,
+          "GeoHash": "wsj6ze8tp"
+        },
+        "StationID": "5129",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33592",
+        "StopID": "33592",
+        "StopName": {
+          "Zh_tw": "臺南公園(北門路)",
+          "En": "Tainan Park(Beimen Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.21294,
+          "PositionLat": 23.00099,
+          "GeoHash": "wsj6ze0qk"
+        },
+        "StationID": "2249",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9140",
+        "StopID": "9140",
+        "StopName": {
+          "Zh_tw": "臺南火車站(中山路C)",
+          "En": "Tainan Train Station(Jhongshan Rd. C)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.21142,
+          "PositionLat": 22.99673,
+          "GeoHash": "wsj6z6rm9"
+        },
+        "StationID": "1093",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9141",
+        "StopID": "9141",
+        "StopName": {
+          "Zh_tw": "台南醫院",
+          "En": "Tainan Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.20914,
+          "PositionLat": 22.99529,
+          "GeoHash": "wsj6z6jt7"
+        },
+        "StationID": "213",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9142",
+        "StopID": "9142",
+        "StopName": {
+          "Zh_tw": "中山、民權路口",
+          "En": "Jhongshan Rd.＆Mincyuan Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.20709,
+          "PositionLat": 22.99393,
+          "GeoHash": "wsj6z3ujk"
+        },
+        "StationID": "214",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9182",
+        "StopID": "9182",
+        "StopName": {
+          "Zh_tw": "吳園",
+          "En": "Wu’s Garden"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.20603,
+          "PositionLat": 22.99411,
+          "GeoHash": "wsj6z3gq7"
+        },
+        "StationID": "1403",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9143",
+        "StopID": "9143",
+        "StopName": {
+          "Zh_tw": "民權路(北極殿)",
+          "En": "Mincyuan Rd.(Beiji Temple)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.20407,
+          "PositionLat": 22.99476,
+          "GeoHash": "wsj6z61fj"
+        },
+        "StationID": "1401",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9144",
+        "StopID": "9144",
+        "StopName": {
+          "Zh_tw": "西門、民權路口",
+          "En": "Simen Rd.＆ Mincyuan Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.19945,
+          "PositionLat": 22.99581,
+          "GeoHash": "wsj6z4q86"
+        },
+        "StationID": "9279",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9183",
+        "StopID": "9183",
+        "StopName": {
+          "Zh_tw": "中正、國華街口",
+          "En": "Jhongjheng Rd.＆Guohua St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.19792,
+          "PositionLat": 22.99301,
+          "GeoHash": "wsj6z1try"
+        },
+        "StationID": "8837",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9145",
+        "StopID": "9145",
+        "StopName": {
+          "Zh_tw": "中正商圈",
+          "En": "Jhongjheng Commercial District"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.19678,
+          "PositionLat": 22.99319,
+          "GeoHash": "wsj6z1u95"
+        },
+        "StationID": "1402",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9147",
+        "StopID": "9147",
+        "StopName": {
+          "Zh_tw": "南華街口",
+          "En": "Nan-Hua St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.19222,
+          "PositionLat": 22.99169,
+          "GeoHash": "wsj6z1923"
+        },
+        "StationID": "663",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9148",
+        "StopID": "9148",
+        "StopName": {
+          "Zh_tw": "生活美學館",
+          "En": "National Tainan Living Art Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.18771,
+          "PositionLat": 22.99257,
+          "GeoHash": "wsj6ycwj2"
+        },
+        "StationID": "664",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9149",
+        "StopID": "9149",
+        "StopName": {
+          "Zh_tw": "永華市政中心(府前路)",
+          "En": "Tainan City Hall(Fu-Cian Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.18449,
+          "PositionLat": 22.99322,
+          "GeoHash": "wsj6ycg9j"
+        },
+        "StationID": "1430",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9184",
+        "StopID": "9184",
+        "StopName": {
+          "Zh_tw": "新南國小",
+          "En": "Sin-Nan Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.18361,
+          "PositionLat": 22.99371,
+          "GeoHash": "wsj6ycgh1"
+        },
+        "StationID": "1421",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN14010",
+        "StopID": "14010",
+        "StopName": {
+          "Zh_tw": "建平十四街口",
+          "En": "Jianping 14th St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.18405,
+          "PositionLat": 22.99568,
+          "GeoHash": "wsj6yf5re"
+        },
+        "StationID": "1425",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN14011",
+        "StopID": "14011",
+        "StopName": {
+          "Zh_tw": "慶平路",
+          "En": "Cingping Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.18161,
+          "PositionLat": 22.99708,
+          "GeoHash": "wsj6yf3xd"
+        },
+        "StationID": "1426",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN14012",
+        "StopID": "14012",
+        "StopName": {
+          "Zh_tw": "文平路",
+          "En": "Wunping Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.17899,
+          "PositionLat": 22.99574,
+          "GeoHash": "wsj6ydpxv"
+        },
+        "StationID": "1427",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN14013",
+        "StopID": "14013",
+        "StopName": {
+          "Zh_tw": "怡平路口",
+          "En": "Yiping Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.17866,
+          "PositionLat": 22.99306,
+          "GeoHash": "wsj6y9z2m"
+        },
+        "StationID": "1428",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27465",
+        "StopID": "27465",
+        "StopName": {
+          "Zh_tw": "怡平公園",
+          "En": "Yiping Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.17601,
+          "PositionLat": 22.99299,
+          "GeoHash": "wsj6y9trz"
+        },
+        "StationID": "2711",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN14260",
+        "StopID": "14260",
+        "StopName": {
+          "Zh_tw": "安平區公所",
+          "En": "An-Ping District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.16816,
+          "PositionLat": 22.99404,
+          "GeoHash": "wsj6y3zvc"
+        },
+        "StationID": "1429",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9157",
+        "StopID": "9157",
+        "StopName": {
+          "Zh_tw": "育平派出所",
+          "En": "Yuping Police Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.16744,
+          "PositionLat": 22.99268,
+          "GeoHash": "wsj6y3xq0"
+        },
+        "StationID": "1221",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9158",
+        "StopID": "9158",
+        "StopName": {
+          "Zh_tw": "平豐路口",
+          "En": "Pingfeng Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.16441,
+          "PositionLat": 22.99195,
+          "GeoHash": "wsj6y3t1c"
+        },
+        "StationID": "1411",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9180",
+        "StopID": "9180",
+        "StopName": {
+          "Zh_tw": "貢噶寺",
+          "En": "Gongge Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.16058,
+          "PositionLat": 22.99175,
+          "GeoHash": "wsj6y3d28"
+        },
+        "StationID": "1424",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN28376",
+        "StopID": "28376",
+        "StopName": {
+          "Zh_tw": "安平雅樂軒酒店",
+          "En": "Aloft Tainan Anping"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.15981,
+          "PositionLat": 22.99094,
+          "GeoHash": "wsj6y33ey"
+        },
+        "StationID": "2726",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27467",
+        "StopID": "27467",
+        "StopName": {
+          "Zh_tw": "億載國小",
+          "En": "Yi-Zai Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.16199,
+          "PositionLat": 22.98949,
+          "GeoHash": "wsj6y3573"
+        },
+        "StationID": "1413",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27469",
+        "StopID": "27469",
+        "StopName": {
+          "Zh_tw": "郡平路",
+          "En": "Jyun-Ping Road"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.16659,
+          "PositionLat": 22.98932,
+          "GeoHash": "wsj6y3ndk"
+        },
+        "StationID": "1414",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27471",
+        "StopID": "27471",
+        "StopName": {
+          "Zh_tw": "育平、府平路口",
+          "En": "Yuping Rd. ＆ Fuping Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.16634,
+          "PositionLat": 22.98686,
+          "GeoHash": "wsj6y2wkn"
+        },
+        "StationID": "2091",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27473",
+        "StopID": "27473",
+        "StopName": {
+          "Zh_tw": "健康新路口",
+          "En": "Jiankangsin Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.16849,
+          "PositionLat": 22.98454,
+          "GeoHash": "wsj6y80n8"
+        },
+        "StationID": "2054",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27474",
+        "StopID": "27474",
+        "StopName": {
+          "Zh_tw": "地方法院",
+          "En": "Tainan District Court"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.17208,
+          "PositionLat": 22.98395,
+          "GeoHash": "wsj6y84eh"
+        },
+        "StationID": "1416",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27475",
+        "StopID": "27475",
+        "StopName": {
+          "Zh_tw": "安平水資源環教中心",
+          "En": "An-Ping Reclaimed Water Plant EEC."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLon": 120.17634,
+          "PositionLat": 22.98318,
+          "GeoHash": "wsj6wxvwx"
+        },
+        "StationID": "1417",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27478",
+        "StopID": "27478",
+        "StopName": {
+          "Zh_tw": "慈濟高中",
+          "En": "Buddhist Tainan Tzu Chi Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLon": 120.17791,
+          "PositionLat": 22.98588,
+          "GeoHash": "wsj6y8qyk"
+        },
+        "StationID": "2722",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-11T11:24:30+08:00",
+    "VersionID": 10668
+  },
+  {
+    "RouteUID": "TNN10170",
+    "RouteID": "10170",
+    "RouteName": {
+      "Zh_tw": "14",
+      "En": "14"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16273",
+        "OperatorName": {
+          "Zh_tw": "府城小黃"
+        },
+        "OperatorCode": "",
+        "OperatorNo": ""
+      }
+    ],
+    "SubRouteUID": "TNN101703",
+    "SubRouteID": "101703",
+    "SubRouteName": {
+      "Zh_tw": "14路 9人小巴 慈濟高中→台南二中",
+      "En": "14 Shuttle Taxi Buddhist Tainan Tzu Chi Senior High School→National Tainan Second Senior High School"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN27479",
+        "StopID": "27479",
+        "StopName": {
+          "Zh_tw": "慈濟高中",
+          "En": "Buddhist Tainan Tzu Chi Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.17791,
+          "PositionLat": 22.98588,
+          "GeoHash": "wsj6y8qyk"
+        },
+        "StationID": "2722",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN30682",
+        "StopID": "30682",
+        "StopName": {
+          "Zh_tw": "安平水資源環教中心",
+          "En": "An-Ping Reclaimed Water Plant EEC."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.17696,
+          "PositionLat": 22.98328,
+          "GeoHash": "wsj6wxypq"
+        },
+        "StationID": "2786",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27476",
+        "StopID": "27476",
+        "StopName": {
+          "Zh_tw": "地方法院",
+          "En": "Tainan District Court"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.17217,
+          "PositionLat": 22.98411,
+          "GeoHash": "wsj6y84sn"
+        },
+        "StationID": "2721",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27477",
+        "StopID": "27477",
+        "StopName": {
+          "Zh_tw": "健康新路口",
+          "En": "Jiankangsin Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.16757,
+          "PositionLat": 22.98488,
+          "GeoHash": "wsj6y2r2e"
+        },
+        "StationID": "2720",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27472",
+        "StopID": "27472",
+        "StopName": {
+          "Zh_tw": "育平、府平路口",
+          "En": "Yuping Rd. ＆ Fuping Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.16628,
+          "PositionLat": 22.98593,
+          "GeoHash": "wsj6y2qqt"
+        },
+        "StationID": "2719",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27470",
+        "StopID": "27470",
+        "StopName": {
+          "Zh_tw": "郡平路",
+          "En": "Jyun-Ping Road"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.16671,
+          "PositionLat": 22.98932,
+          "GeoHash": "wsj6y3ndr"
+        },
+        "StationID": "2718",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27468",
+        "StopID": "27468",
+        "StopName": {
+          "Zh_tw": "億載國小",
+          "En": "Yi-Zai Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.16251,
+          "PositionLat": 22.98956,
+          "GeoHash": "wsj6y35ev"
+        },
+        "StationID": "1207",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN28377",
+        "StopID": "28377",
+        "StopName": {
+          "Zh_tw": "安平雅樂軒酒店",
+          "En": "Aloft Tainan Anping"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.16008,
+          "PositionLat": 22.99021,
+          "GeoHash": "wsj6y31zs"
+        },
+        "StationID": "2727",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27480",
+        "StopID": "27480",
+        "StopName": {
+          "Zh_tw": "貢噶寺",
+          "En": "Gongge Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.16061,
+          "PositionLat": 22.99155,
+          "GeoHash": "wsj6y36r3"
+        },
+        "StationID": "8759",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27481",
+        "StopID": "27481",
+        "StopName": {
+          "Zh_tw": "平豐路口",
+          "En": "Pingfeng Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.16471,
+          "PositionLat": 22.99169,
+          "GeoHash": "wsj6y3t22"
+        },
+        "StationID": "8760",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27483",
+        "StopID": "27483",
+        "StopName": {
+          "Zh_tw": "育平派出所",
+          "En": "Yuping Police Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.16764,
+          "PositionLat": 22.99353,
+          "GeoHash": "wsj6y3z7h"
+        },
+        "StationID": "1222",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27482",
+        "StopID": "27482",
+        "StopName": {
+          "Zh_tw": "安平區公所",
+          "En": "An-Ping District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.16947,
+          "PositionLat": 22.99382,
+          "GeoHash": "wsj6y9bsx"
+        },
+        "StationID": "2717",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27466",
+        "StopID": "27466",
+        "StopName": {
+          "Zh_tw": "怡平公園",
+          "En": "Yiping Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.17601,
+          "PositionLat": 22.99294,
+          "GeoHash": "wsj6y9trx"
+        },
+        "StationID": "2712",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27487",
+        "StopID": "27487",
+        "StopName": {
+          "Zh_tw": "怡平路口",
+          "En": "Yiping Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.17886,
+          "PositionLat": 22.99341,
+          "GeoHash": "wsj6y9zd6"
+        },
+        "StationID": "2716",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27486",
+        "StopID": "27486",
+        "StopName": {
+          "Zh_tw": "文平路",
+          "En": "Wunping Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.17918,
+          "PositionLat": 22.99617,
+          "GeoHash": "wsj6ydrf3"
+        },
+        "StationID": "2715",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27485",
+        "StopID": "27485",
+        "StopName": {
+          "Zh_tw": "慶平路",
+          "En": "Cingping Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.18054,
+          "PositionLat": 22.99703,
+          "GeoHash": "wsj6yf2z3"
+        },
+        "StationID": "2714",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN27484",
+        "StopID": "27484",
+        "StopName": {
+          "Zh_tw": "建平十四街口",
+          "En": "Jianping 14th St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.18374,
+          "PositionLat": 22.99498,
+          "GeoHash": "wsj6yf55k"
+        },
+        "StationID": "2713",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9169",
+        "StopID": "9169",
+        "StopName": {
+          "Zh_tw": "永華市政中心(府前路)",
+          "En": "Tainan City Hall(Fu-Cian Rd.)"
+        },
+        "StopBoarding": 1,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.18443,
+          "PositionLat": 22.99308,
+          "GeoHash": "wsj6ycg8k"
+        },
+        "StationID": "1431",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9170",
+        "StopID": "9170",
+        "StopName": {
+          "Zh_tw": "生活美學館",
+          "En": "National Tainan Living Art Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.18742,
+          "PositionLat": 22.99259,
+          "GeoHash": "wsj6yctv9"
+        },
+        "StationID": "622",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9171",
+        "StopID": "9171",
+        "StopName": {
+          "Zh_tw": "南華街口",
+          "En": "Nan-Hua St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.19221,
+          "PositionLat": 22.99162,
+          "GeoHash": "wsj6z13rc"
+        },
+        "StationID": "623",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9173",
+        "StopID": "9173",
+        "StopName": {
+          "Zh_tw": "中正商圈",
+          "En": "Jhongjheng Commercial District"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.19661,
+          "PositionLat": 22.99306,
+          "GeoHash": "wsj6z1u82"
+        },
+        "StationID": "1422",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9185",
+        "StopID": "9185",
+        "StopName": {
+          "Zh_tw": "中正、國華街口",
+          "En": "Jhongjheng Rd.＆Guohua St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.19772,
+          "PositionLat": 22.99289,
+          "GeoHash": "wsj6z1tr3"
+        },
+        "StationID": "8814",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9174",
+        "StopID": "9174",
+        "StopName": {
+          "Zh_tw": "西門、民權路口",
+          "En": "Simen Rd.＆ Mincyuan Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLon": 120.19942,
+          "PositionLat": 22.99511,
+          "GeoHash": "wsj6z4ns1"
+        },
+        "StationID": "9206",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9175",
+        "StopID": "9175",
+        "StopName": {
+          "Zh_tw": "民權路(北極殿)",
+          "En": "Mincyuan Rd.(Beiji Temple)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLon": 120.20439,
+          "PositionLat": 22.99459,
+          "GeoHash": "wsj6z641j"
+        },
+        "StationID": "1423",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9176",
+        "StopID": "9176",
+        "StopName": {
+          "Zh_tw": "中山、民權路口",
+          "En": "Jhongshan Rd.＆Mincyuan Rd."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLon": 120.20723,
+          "PositionLat": 22.99388,
+          "GeoHash": "wsj6z3ujp"
+        },
+        "StationID": "286",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9177",
+        "StopID": "9177",
+        "StopName": {
+          "Zh_tw": "台南醫院",
+          "En": "Tainan Hospital"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLon": 120.20937,
+          "PositionLat": 22.99528,
+          "GeoHash": "wsj6z6jv1"
+        },
+        "StationID": "287",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN9178",
+        "StopID": "9178",
+        "StopName": {
+          "Zh_tw": "臺南火車站(中山路D)",
+          "En": "Tainan Train Station(Jhongshan Rd. D)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLon": 120.21113,
+          "PositionLat": 22.99641,
+          "GeoHash": "wsj6z6r5f"
+        },
+        "StationID": "1094",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33593",
+        "StopID": "33593",
+        "StopName": {
+          "Zh_tw": "臺南公園(北門路)",
+          "En": "Tainan Park(Beimen Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLon": 120.21308,
+          "PositionLat": 23.00069,
+          "GeoHash": "wsj6ze0kx"
+        },
+        "StationID": "2202",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN33585",
+        "StopID": "33585",
+        "StopName": {
+          "Zh_tw": "台南二中",
+          "En": "National Tainan Second Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLon": 120.21325,
+          "PositionLat": 23.00214,
+          "GeoHash": "wsj6ze2t5"
+        },
+        "StationID": "5104",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-11T11:24:30+08:00",
+    "VersionID": 10668
+  }
+]
