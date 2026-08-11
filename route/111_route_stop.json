@@ -1,0 +1,572 @@
+[
+  {
+    "RouteUID": "TNN9111",
+    "RouteID": "9111",
+    "RouteName": {
+      "Zh_tw": "111",
+      "En": "111"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16233",
+        "OperatorName": {
+          "Zh_tw": "漢程客運",
+          "En": "Han-Cheng Bus Co., Ltd."
+        },
+        "OperatorCode": "HanChengBus",
+        "OperatorNo": "1404"
+      }
+    ],
+    "SubRouteUID": "TNN911101",
+    "SubRouteID": "911101",
+    "SubRouteName": {
+      "Zh_tw": "111 機場快線 小西門→小港機場",
+      "En": "111 Siaosimen→Kaohsiung International Airport"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN22162",
+        "StopID": "22162",
+        "StopName": {
+          "Zh_tw": "小西門(西門路)",
+          "En": "Siaosimen(Simen Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.19761,
+          "PositionLat": 22.98881,
+          "GeoHash": "wsj6z0vpx"
+        },
+        "StationID": "9281",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22164",
+        "StopID": "22164",
+        "StopName": {
+          "Zh_tw": "臺南轉運站",
+          "En": "Tainan Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.20928,
+          "PositionLat": 23.00187,
+          "GeoHash": "wsj6z7mex"
+        },
+        "StationID": "9213",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22166",
+        "StopID": "22166",
+        "StopName": {
+          "Zh_tw": "香格里拉飯店",
+          "En": "Shangri-Las Far Eastern Plaza Hotel"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.21507,
+          "PositionLat": 22.99667,
+          "GeoHash": "wsj6zd3vq"
+        },
+        "StationID": "9913",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22170",
+        "StopID": "22170",
+        "StopName": {
+          "Zh_tw": "巴克禮公園/台糖長榮酒店",
+          "En": "Barclay Memorial Park (Evergreen Plaza Hotel)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.22208,
+          "PositionLat": 22.97402,
+          "GeoHash": "wsj6xwr13"
+        },
+        "StationID": "8851",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN32375",
+        "StopID": "32375",
+        "StopName": {
+          "Zh_tw": "臺南航空站(奇美幸福工廠)",
+          "En": "Tainan Airport(CHIMEI Happiness Factory)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.21661,
+          "PositionLat": 22.94825,
+          "GeoHash": "wsj6x9e54"
+        },
+        "StationID": "500",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22185",
+        "StopID": "22185",
+        "StopName": {
+          "Zh_tw": "高雄國際航空站",
+          "En": "Kaohsiung International Airport"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.34161,
+          "PositionLat": 22.57107,
+          "GeoHash": "wsj86kyn4"
+        },
+        "StationID": "1982",
+        "LocationCityCode": "KHH"
+      }
+    ],
+    "UpdateTime": "2026-08-11T15:24:27+08:00",
+    "VersionID": 10669
+  },
+  {
+    "RouteUID": "TNN9111",
+    "RouteID": "9111",
+    "RouteName": {
+      "Zh_tw": "111",
+      "En": "111"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16233",
+        "OperatorName": {
+          "Zh_tw": "漢程客運",
+          "En": "Han-Cheng Bus Co., Ltd."
+        },
+        "OperatorCode": "HanChengBus",
+        "OperatorNo": "1404"
+      }
+    ],
+    "SubRouteUID": "TNN911102",
+    "SubRouteID": "911102",
+    "SubRouteName": {
+      "Zh_tw": "111 機場快線 小港機場→小西門",
+      "En": "111 Kaohsiung International Airport→ Siaosimen"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN22199",
+        "StopID": "22199",
+        "StopName": {
+          "Zh_tw": "高雄國際航空站",
+          "En": "Kaohsiung International Airport"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.34161,
+          "PositionLat": 22.57107,
+          "GeoHash": "wsj86kyn4"
+        },
+        "StationID": "1982",
+        "LocationCityCode": "KHH"
+      },
+      {
+        "StopUID": "TNN32376",
+        "StopID": "32376",
+        "StopName": {
+          "Zh_tw": "臺南航空站(奇美幸福工廠)",
+          "En": "Tainan Airport(CHIMEI Happiness Factory)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.21681,
+          "PositionLat": 22.94841,
+          "GeoHash": "wsj6x9ehn"
+        },
+        "StationID": "531",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22191",
+        "StopID": "22191",
+        "StopName": {
+          "Zh_tw": "巴克禮公園/台糖長榮酒店",
+          "En": "Barclay Memorial Park (Evergreen Plaza Hotel)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.22236,
+          "PositionLat": 22.97395,
+          "GeoHash": "wsj6xwr2b"
+        },
+        "StationID": "8852",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22189",
+        "StopID": "22189",
+        "StopName": {
+          "Zh_tw": "香格里拉飯店",
+          "En": "Shangri-La's Far Eastern Plaza Hotel"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.21451,
+          "PositionLat": 22.99678,
+          "GeoHash": "wsj6zd3tc"
+        },
+        "StationID": "9914",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22188",
+        "StopID": "22188",
+        "StopName": {
+          "Zh_tw": "臺南轉運站",
+          "En": "Tainan Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.20929,
+          "PositionLat": 23.00216,
+          "GeoHash": "wsj6z7mtr"
+        },
+        "StationID": "9272",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22187",
+        "StopID": "22187",
+        "StopName": {
+          "Zh_tw": "小西門(西門路)",
+          "En": "Siaosimen(Simen Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.19761,
+          "PositionLat": 22.98881,
+          "GeoHash": "wsj6z0vpx"
+        },
+        "StationID": "9281",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-11T15:24:27+08:00",
+    "VersionID": 10669
+  },
+  {
+    "RouteUID": "TNN9111",
+    "RouteID": "9111",
+    "RouteName": {
+      "Zh_tw": "111",
+      "En": "111"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16233",
+        "OperatorName": {
+          "Zh_tw": "漢程客運",
+          "En": "Han-Cheng Bus Co., Ltd."
+        },
+        "OperatorCode": "HanChengBus",
+        "OperatorNo": "1404"
+      }
+    ],
+    "SubRouteUID": "TNN911103",
+    "SubRouteID": "911103",
+    "SubRouteName": {
+      "Zh_tw": "111 機場快線 小西門→小港機場(繞中華東路、平實三街口)",
+      "En": "111 Siaosimen→Kaohsiung International Airport(Via Jhonghua E. Rd. ＆ Pingshi 3rd St. Intersection)"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN22162",
+        "StopID": "22162",
+        "StopName": {
+          "Zh_tw": "小西門(西門路)",
+          "En": "Siaosimen(Simen Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.19761,
+          "PositionLat": 22.98881,
+          "GeoHash": "wsj6z0vpx"
+        },
+        "StationID": "9281",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22164",
+        "StopID": "22164",
+        "StopName": {
+          "Zh_tw": "臺南轉運站",
+          "En": "Tainan Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.20928,
+          "PositionLat": 23.00187,
+          "GeoHash": "wsj6z7mex"
+        },
+        "StationID": "9213",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22166",
+        "StopID": "22166",
+        "StopName": {
+          "Zh_tw": "香格里拉飯店",
+          "En": "Shangri-Las Far Eastern Plaza Hotel"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.21507,
+          "PositionLat": 22.99667,
+          "GeoHash": "wsj6zd3vq"
+        },
+        "StationID": "9913",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN32373",
+        "StopID": "32373",
+        "StopName": {
+          "Zh_tw": "中華東路、平實三街口",
+          "En": "Jhonghua E. Rd. ＆ Pingshi 3rd St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.23421,
+          "PositionLat": 22.99558,
+          "GeoHash": "wsj6zfpyu"
+        },
+        "StationID": "803",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22170",
+        "StopID": "22170",
+        "StopName": {
+          "Zh_tw": "巴克禮公園/台糖長榮酒店",
+          "En": "Barclay Memorial Park (Evergreen Plaza Hotel)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.22208,
+          "PositionLat": 22.97402,
+          "GeoHash": "wsj6xwr13"
+        },
+        "StationID": "8851",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN32375",
+        "StopID": "32375",
+        "StopName": {
+          "Zh_tw": "臺南航空站(奇美幸福工廠)",
+          "En": "Tainan Airport(CHIMEI Happiness Factory)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.21661,
+          "PositionLat": 22.94825,
+          "GeoHash": "wsj6x9e54"
+        },
+        "StationID": "500",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22185",
+        "StopID": "22185",
+        "StopName": {
+          "Zh_tw": "高雄國際航空站",
+          "En": "Kaohsiung International Airport"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.34161,
+          "PositionLat": 22.57107,
+          "GeoHash": "wsj86kyn4"
+        },
+        "StationID": "1982",
+        "LocationCityCode": "KHH"
+      }
+    ],
+    "UpdateTime": "2026-08-11T15:24:27+08:00",
+    "VersionID": 10669
+  },
+  {
+    "RouteUID": "TNN9111",
+    "RouteID": "9111",
+    "RouteName": {
+      "Zh_tw": "111",
+      "En": "111"
+    },
+    "Operators": [
+      {
+        "OperatorID": "16233",
+        "OperatorName": {
+          "Zh_tw": "漢程客運",
+          "En": "Han-Cheng Bus Co., Ltd."
+        },
+        "OperatorCode": "HanChengBus",
+        "OperatorNo": "1404"
+      }
+    ],
+    "SubRouteUID": "TNN911104",
+    "SubRouteID": "911104",
+    "SubRouteName": {
+      "Zh_tw": "111 機場快線 小港機場→小西門(繞中華東路、平實三街口)",
+      "En": "111 Kaohsiung International Airport→ Siaosimen(Via Jhonghua E. Rd. ＆ Pingshi 3rd St. Intersection)"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN22199",
+        "StopID": "22199",
+        "StopName": {
+          "Zh_tw": "高雄國際航空站",
+          "En": "Kaohsiung International Airport"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.34161,
+          "PositionLat": 22.57107,
+          "GeoHash": "wsj86kyn4"
+        },
+        "StationID": "1982",
+        "LocationCityCode": "KHH"
+      },
+      {
+        "StopUID": "TNN32376",
+        "StopID": "32376",
+        "StopName": {
+          "Zh_tw": "臺南航空站(奇美幸福工廠)",
+          "En": "Tainan Airport(CHIMEI Happiness Factory)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.21681,
+          "PositionLat": 22.94841,
+          "GeoHash": "wsj6x9ehn"
+        },
+        "StationID": "531",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22191",
+        "StopID": "22191",
+        "StopName": {
+          "Zh_tw": "巴克禮公園/台糖長榮酒店",
+          "En": "Barclay Memorial Park (Evergreen Plaza Hotel)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.22236,
+          "PositionLat": 22.97395,
+          "GeoHash": "wsj6xwr2b"
+        },
+        "StationID": "8852",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN32374",
+        "StopID": "32374",
+        "StopName": {
+          "Zh_tw": "中華東路、平實三街口",
+          "En": "Jhonghua E. Rd. ＆ Pingshi 3rd St. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.23449,
+          "PositionLat": 22.99553,
+          "GeoHash": "wsjdb40nd"
+        },
+        "StationID": "824",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22189",
+        "StopID": "22189",
+        "StopName": {
+          "Zh_tw": "香格里拉飯店",
+          "En": "Shangri-La's Far Eastern Plaza Hotel"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.21451,
+          "PositionLat": 22.99678,
+          "GeoHash": "wsj6zd3tc"
+        },
+        "StationID": "9914",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22188",
+        "StopID": "22188",
+        "StopName": {
+          "Zh_tw": "臺南轉運站",
+          "En": "Tainan Bus Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.20929,
+          "PositionLat": 23.00216,
+          "GeoHash": "wsj6z7mtr"
+        },
+        "StationID": "9272",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN22187",
+        "StopID": "22187",
+        "StopName": {
+          "Zh_tw": "小西門(西門路)",
+          "En": "Siaosimen(Simen Rd.)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.19761,
+          "PositionLat": 22.98881,
+          "GeoHash": "wsj6z0vpx"
+        },
+        "StationID": "9281",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-11T15:24:27+08:00",
+    "VersionID": 10669
+  }
+]
