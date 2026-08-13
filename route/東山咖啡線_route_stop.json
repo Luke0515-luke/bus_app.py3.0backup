@@ -1,0 +1,814 @@
+[
+  {
+    "RouteUID": "TNN1821",
+    "RouteID": "1821",
+    "RouteName": {
+      "Zh_tw": "東山咖啡線",
+      "En": "Dongshan Coffee"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10190",
+        "OperatorName": {
+          "Zh_tw": "新營客運",
+          "En": "Sinying Bus Co., Ltd."
+        },
+        "OperatorCode": "SinyingBus",
+        "OperatorNo": "1306"
+      }
+    ],
+    "SubRouteUID": "TNN151331",
+    "SubRouteID": "151331",
+    "SubRouteName": {
+      "Zh_tw": "東山咖啡線 關子嶺→橫路休息站",
+      "En": "Dongshan Coffee Line Guanzihling→Henglu Rest Area"
+    },
+    "Direction": 0,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN29596",
+        "StopID": "29596",
+        "StopName": {
+          "Zh_tw": "關子嶺勞工育樂中心",
+          "En": "Guanzihling Labor Recreation Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.50421,
+          "PositionLat": 23.33654,
+          "GeoHash": "wsjsy0k3p"
+        },
+        "StationID": "2761",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29355",
+        "StopID": "29355",
+        "StopName": {
+          "Zh_tw": "關子嶺教會",
+          "En": "Guanzihling Church"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.50305,
+          "PositionLat": 23.33436,
+          "GeoHash": "wsjswpgsk"
+        },
+        "StationID": "8342",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29356",
+        "StopID": "29356",
+        "StopName": {
+          "Zh_tw": "頂關子嶺",
+          "En": "Dingguanzihling"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.50332,
+          "PositionLat": 23.33366,
+          "GeoHash": "wsjswpgb6"
+        },
+        "StationID": "7249",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29357",
+        "StopID": "29357",
+        "StopName": {
+          "Zh_tw": "南寮路口",
+          "En": "Nanliao Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.49783,
+          "PositionLat": 23.32828,
+          "GeoHash": "wsjstyzc4"
+        },
+        "StationID": "7250",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29358",
+        "StopID": "29358",
+        "StopName": {
+          "Zh_tw": "坪頂",
+          "En": "Pingding"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.49996,
+          "PositionLat": 23.32434,
+          "GeoHash": "wsjswn16h"
+        },
+        "StationID": "7251",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29359",
+        "StopID": "29359",
+        "StopName": {
+          "Zh_tw": "後坑",
+          "En": "Houkeng"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.49398,
+          "PositionLat": 23.31818,
+          "GeoHash": "wsjstuvn1"
+        },
+        "StationID": "8559",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29360",
+        "StopID": "29360",
+        "StopName": {
+          "Zh_tw": "石埤",
+          "En": "Shihbi"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.49407,
+          "PositionLat": 23.31548,
+          "GeoHash": "wsjstumne"
+        },
+        "StationID": "7252",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29361",
+        "StopID": "29361",
+        "StopName": {
+          "Zh_tw": "南寮",
+          "En": "Nanliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.49261,
+          "PositionLat": 23.31402,
+          "GeoHash": "wsjstuhn1"
+        },
+        "StationID": "7253",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29362",
+        "StopID": "29362",
+        "StopName": {
+          "Zh_tw": "過溪園",
+          "En": "Guosiyuan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.49121,
+          "PositionLat": 23.31135,
+          "GeoHash": "wsjstgen2"
+        },
+        "StationID": "1985",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29363",
+        "StopID": "29363",
+        "StopName": {
+          "Zh_tw": "淨蓮寺",
+          "En": "Jinglian Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.49373,
+          "PositionLat": 23.30606,
+          "GeoHash": "wsjstfsze"
+        },
+        "StationID": "1927",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29364",
+        "StopID": "29364",
+        "StopName": {
+          "Zh_tw": "普照寺",
+          "En": "Pujhao Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.50054,
+          "PositionLat": 23.30084,
+          "GeoHash": "wsjsw1cc4"
+        },
+        "StationID": "1929",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29365",
+        "StopID": "29365",
+        "StopName": {
+          "Zh_tw": "崁頂福安宮",
+          "En": "Kanding Fuan Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.50134,
+          "PositionLat": 23.29995,
+          "GeoHash": "wsjsw1dkh"
+        },
+        "StationID": "1742",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29366",
+        "StopID": "29366",
+        "StopName": {
+          "Zh_tw": "穆聖",
+          "En": "Musheng"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.50062,
+          "PositionLat": 23.29031,
+          "GeoHash": "wsjsqpcgg"
+        },
+        "StationID": "8704",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29367",
+        "StopID": "29367",
+        "StopName": {
+          "Zh_tw": "李子園小舖",
+          "En": "Lizihyuan Shop"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.50621,
+          "PositionLat": 23.28706,
+          "GeoHash": "wsjsqpmby"
+        },
+        "StationID": "8660",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29368",
+        "StopID": "29368",
+        "StopName": {
+          "Zh_tw": "大鋤花間",
+          "En": "Daichu Farm"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.50101,
+          "PositionLat": 23.28417,
+          "GeoHash": "wsjsqnf0j"
+        },
+        "StationID": "1744",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29369",
+        "StopID": "29369",
+        "StopName": {
+          "Zh_tw": "龍湖山農莊",
+          "En": "Longhushan Grange"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.50477,
+          "PositionLat": 23.27841,
+          "GeoHash": "wsjsqjsys"
+        },
+        "StationID": "1752",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29370",
+        "StopID": "29370",
+        "StopName": {
+          "Zh_tw": "檳榔宅",
+          "En": "Binlangjhai"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.50227,
+          "PositionLat": 23.27561,
+          "GeoHash": "wsjsqj5n6"
+        },
+        "StationID": "8652",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29598",
+        "StopID": "29598",
+        "StopName": {
+          "Zh_tw": "芝喜香咖啡",
+          "En": "Zhixixiang Coffee"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.49143,
+          "PositionLat": 23.26891,
+          "GeoHash": "wsjsmggpj"
+        },
+        "StationID": "2749",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29599",
+        "StopID": "29599",
+        "StopName": {
+          "Zh_tw": "冷水坑",
+          "En": "Lengshuikeng"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.48894,
+          "PositionLat": 23.26163,
+          "GeoHash": "wsjsmf9kg"
+        },
+        "StationID": "2751",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31230",
+        "StopID": "31230",
+        "StopName": {
+          "Zh_tw": "碧蓮寺",
+          "En": "Bilian Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.48121,
+          "PositionLat": 23.24711,
+          "GeoHash": "wsjsm858p"
+        },
+        "StationID": "1782",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29486",
+        "StopID": "29486",
+        "StopName": {
+          "Zh_tw": "橫路",
+          "En": "Henglu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.47617,
+          "PositionLat": 23.23817,
+          "GeoHash": "wsjsjw2h4"
+        },
+        "StationID": "1934",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29487",
+        "StopID": "29487",
+        "StopName": {
+          "Zh_tw": "橫路休息站",
+          "En": "Henglu Rest Area"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.47386,
+          "PositionLat": 23.23419,
+          "GeoHash": "wsjsjmwku"
+        },
+        "StationID": "1897",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-12T20:44:31+08:00",
+    "VersionID": 10676
+  },
+  {
+    "RouteUID": "TNN1821",
+    "RouteID": "1821",
+    "RouteName": {
+      "Zh_tw": "東山咖啡線",
+      "En": "Dongshan Coffee"
+    },
+    "Operators": [
+      {
+        "OperatorID": "10190",
+        "OperatorName": {
+          "Zh_tw": "新營客運",
+          "En": "Sinying Bus Co., Ltd."
+        },
+        "OperatorCode": "SinyingBus",
+        "OperatorNo": "1306"
+      }
+    ],
+    "SubRouteUID": "TNN151332",
+    "SubRouteID": "151332",
+    "SubRouteName": {
+      "Zh_tw": "東山咖啡線 橫路休息站→關子嶺",
+      "En": "Dongshan Coffee Line Henglu Rest Area→Guanzihling"
+    },
+    "Direction": 1,
+    "City": "Tainan",
+    "CityCode": "TNN",
+    "Stops": [
+      {
+        "StopUID": "TNN29488",
+        "StopID": "29488",
+        "StopName": {
+          "Zh_tw": "橫路休息站",
+          "En": "Henglu Rest Area"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLon": 120.47386,
+          "PositionLat": 23.23419,
+          "GeoHash": "wsjsjmwku"
+        },
+        "StationID": "1897",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29489",
+        "StopID": "29489",
+        "StopName": {
+          "Zh_tw": "橫路",
+          "En": "Henglu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLon": 120.47623,
+          "PositionLat": 23.23809,
+          "GeoHash": "wsjsjw25e"
+        },
+        "StationID": "1935",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN31231",
+        "StopID": "31231",
+        "StopName": {
+          "Zh_tw": "碧蓮寺",
+          "En": "Bilian Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLon": 120.48126,
+          "PositionLat": 23.24711,
+          "GeoHash": "wsjsm85b0"
+        },
+        "StationID": "1783",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29600",
+        "StopID": "29600",
+        "StopName": {
+          "Zh_tw": "冷水坑",
+          "En": "Lengshuikeng"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLon": 120.48898,
+          "PositionLat": 23.26156,
+          "GeoHash": "wsjsmf9kk"
+        },
+        "StationID": "2752",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29601",
+        "StopID": "29601",
+        "StopName": {
+          "Zh_tw": "芝喜香咖啡",
+          "En": "Zhixixiang Coffee"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLon": 120.49151,
+          "PositionLat": 23.26899,
+          "GeoHash": "wsjsmggpx"
+        },
+        "StationID": "2750",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29377",
+        "StopID": "29377",
+        "StopName": {
+          "Zh_tw": "檳榔宅",
+          "En": "Binlangjhai"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLon": 120.50233,
+          "PositionLat": 23.27565,
+          "GeoHash": "wsjsqj5n7"
+        },
+        "StationID": "8651",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29378",
+        "StopID": "29378",
+        "StopName": {
+          "Zh_tw": "龍湖山農莊",
+          "En": "Longhushan Grange"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLon": 120.50489,
+          "PositionLat": 23.27839,
+          "GeoHash": "wsjsqjsyr"
+        },
+        "StationID": "1753",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29379",
+        "StopID": "29379",
+        "StopName": {
+          "Zh_tw": "大鋤花間",
+          "En": "Daichu Farm"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLon": 120.50155,
+          "PositionLat": 23.28421,
+          "GeoHash": "wsjsqnf83"
+        },
+        "StationID": "1745",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29380",
+        "StopID": "29380",
+        "StopName": {
+          "Zh_tw": "李子園小舖",
+          "En": "Lizihyuan Shop"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLon": 120.50667,
+          "PositionLat": 23.28706,
+          "GeoHash": "wsjsqpq2b"
+        },
+        "StationID": "8659",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29381",
+        "StopID": "29381",
+        "StopName": {
+          "Zh_tw": "穆聖",
+          "En": "Musheng"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLon": 120.50059,
+          "PositionLat": 23.29052,
+          "GeoHash": "wsjsqpcv5"
+        },
+        "StationID": "8703",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29382",
+        "StopID": "29382",
+        "StopName": {
+          "Zh_tw": "崁頂福安宮",
+          "En": "Kanding Fuan Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLon": 120.50146,
+          "PositionLat": 23.30006,
+          "GeoHash": "wsjsw1dkx"
+        },
+        "StationID": "1743",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29383",
+        "StopID": "29383",
+        "StopName": {
+          "Zh_tw": "普照寺",
+          "En": "Pujhao Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLon": 120.50069,
+          "PositionLat": 23.30087,
+          "GeoHash": "wsjsw1ccm"
+        },
+        "StationID": "1930",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29384",
+        "StopID": "29384",
+        "StopName": {
+          "Zh_tw": "淨蓮寺",
+          "En": "Jinglian Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLon": 120.49387,
+          "PositionLat": 23.30608,
+          "GeoHash": "wsjstfszy"
+        },
+        "StationID": "1928",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29385",
+        "StopID": "29385",
+        "StopName": {
+          "Zh_tw": "過溪園",
+          "En": "Guosiyuan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLon": 120.49121,
+          "PositionLat": 23.31135,
+          "GeoHash": "wsjstgen2"
+        },
+        "StationID": "1986",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29386",
+        "StopID": "29386",
+        "StopName": {
+          "Zh_tw": "南寮",
+          "En": "Nanliao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLon": 120.49245,
+          "PositionLat": 23.31366,
+          "GeoHash": "wsjstu5gv"
+        },
+        "StationID": "7254",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29387",
+        "StopID": "29387",
+        "StopName": {
+          "Zh_tw": "石埤",
+          "En": "Shihbi"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLon": 120.49411,
+          "PositionLat": 23.31539,
+          "GeoHash": "wsjstumju"
+        },
+        "StationID": "7255",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29388",
+        "StopID": "29388",
+        "StopName": {
+          "Zh_tw": "後坑",
+          "En": "Houkeng"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLon": 120.49403,
+          "PositionLat": 23.31795,
+          "GeoHash": "wsjstuvhf"
+        },
+        "StationID": "8560",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29389",
+        "StopID": "29389",
+        "StopName": {
+          "Zh_tw": "坪頂",
+          "En": "Pingding"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLon": 120.50001,
+          "PositionLat": 23.32442,
+          "GeoHash": "wsjswn16t"
+        },
+        "StationID": "7256",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29390",
+        "StopID": "29390",
+        "StopName": {
+          "Zh_tw": "南寮路口",
+          "En": "Nanliao Rd. Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLon": 120.49793,
+          "PositionLat": 23.32822,
+          "GeoHash": "wsjstyzbt"
+        },
+        "StationID": "7257",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29391",
+        "StopID": "29391",
+        "StopName": {
+          "Zh_tw": "頂關子嶺",
+          "En": "Dingguanzihling"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLon": 120.50337,
+          "PositionLat": 23.33386,
+          "GeoHash": "wsjswpgcs"
+        },
+        "StationID": "7258",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29392",
+        "StopID": "29392",
+        "StopName": {
+          "Zh_tw": "關子嶺教會",
+          "En": "Guanzihling Church"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLon": 120.50323,
+          "PositionLat": 23.33476,
+          "GeoHash": "wsjswpgyb"
+        },
+        "StationID": "8343",
+        "LocationCityCode": "TNN"
+      },
+      {
+        "StopUID": "TNN29597",
+        "StopID": "29597",
+        "StopName": {
+          "Zh_tw": "關子嶺勞工育樂中心",
+          "En": "Guanzihling Labor Recreation Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLon": 120.50421,
+          "PositionLat": 23.33654,
+          "GeoHash": "wsjsy0k3p"
+        },
+        "StationID": "2761",
+        "LocationCityCode": "TNN"
+      }
+    ],
+    "UpdateTime": "2026-08-12T20:44:31+08:00",
+    "VersionID": 10676
+  }
+]
